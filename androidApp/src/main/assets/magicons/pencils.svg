@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="pencils-a" points="4.5 0 9 10 0 10"/>
+    <path id="pencils-b" d="M6.75,5 L4.5,0 L2.25,5 L6.75,5 Z"/>
+    <polygon id="pencils-c" points="32.5 -4 37 6 28 6"/>
+    <path id="pencils-d" d="M34.75,1 L32.5,-4 L30.25,1 L34.75,1 Z"/>
+    <polygon id="pencils-e" points="18.5 10 23 20 14 20"/>
+    <path id="pencils-f" d="M4.75,5 L2.5,0 L0.25,5 L4.75,5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M14,17 L23,17 L23,56.4980048 C23,58.9843881 20.9802243,61 18.5,61 L18.5,61 C16.0147186,61 14,58.9950767 14,56.4980048 L14,17 Z"/>
+    <path fill="#507BCE" fill-rule="nonzero" d="M17,19 L17,57 C17,57.5522847 17.4477153,58 18,58 C18.5522847,58 19,57.5522847 19,57 L19,19 C19,18.4477153 18.5522847,18 18,18 C17.4477153,18 17,18.4477153 17,19 Z"/>
+    <path fill="#56E287" d="M42,13 L51,13 L51,56.5058497 C51,58.9879004 48.9802243,61 46.5,61 L46.5,61 C44.0147186,61 42,58.9834105 42,56.5058497 L42,13 Z"/>
+    <g transform="translate(14 7)">
+      <use fill="#D3B288" xlink:href="#pencils-a"/>
+      <use fill="#0A3586" xlink:href="#pencils-b"/>
+      <use fill="#D3B288" xlink:href="#pencils-c"/>
+      <use fill="#56E287" xlink:href="#pencils-d"/>
+      <use fill="#D3B288" xlink:href="#pencils-e"/>
+    </g>
+    <path fill="#8AF2AE" fill-rule="nonzero" d="M45,15 L45,57 C45,57.5522847 45.4477153,58 46,58 C46.5522847,58 47,57.5522847 47,57 L47,15 C47,14.4477153 46.5522847,14 46,14 C45.4477153,14 45,14.4477153 45,15 Z"/>
+    <path fill="#FB3A3A" d="M28,27 L37,27 L37,56.5026101 C37,58.9864499 34.9802243,61 32.5,61 L32.5,61 C30.0147186,61 28,58.9875399 28,56.5026101 L28,27 Z"/>
+    <g transform="translate(30 17)">
+      <use fill="#FB3A3A" xlink:href="#pencils-f"/>
+    </g>
+    <path fill="#FF8E8E" fill-rule="nonzero" d="M31,29 L31,57 C31,57.5522847 31.4477153,58 32,58 C32.5522847,58 33,57.5522847 33,57 L33,29 C33,28.4477153 32.5522847,28 32,28 C31.4477153,28 31,28.4477153 31,29 Z"/>
+  </g>
+</svg>

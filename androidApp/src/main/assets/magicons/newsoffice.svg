@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="20" height="53" x="3" y="8" fill="#5EA7FF"/>
+    <rect width="6" height="11" x="10" y="50" fill="#B4DFFB"/>
+    <rect width="5" height="9" x="6" y="11" fill="#B4DFFB"/>
+    <rect width="5" height="9" x="6" y="23" fill="#B4DFFB"/>
+    <rect width="14.319" height="9" x="6" y="35" fill="#B4DFFB"/>
+    <rect width="5" height="13" x="37" y="19" fill="#D8D8D8"/>
+    <polygon stroke="#979797" stroke-linecap="round" stroke-width="2" points="39.074 7.266 51.393 5.392 49.918 17.313"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M44.5392261,12.0493924 L51.3462553,5.6040982"/>
+    <path fill="#5EA7FF" d="M48.2885822,2.78858223 C41.1088805,2.78858223 35.2885822,8.60888049 35.2885822,15.7885822 C35.2885822,22.968284 41.1088805,28.7885822 48.2885822,28.7885822 L48.2885822,2.78858223 Z" transform="rotate(-45 41.789 15.789)"/>
+    <rect width="5" height="9" x="15" y="11" fill="#B4DFFB"/>
+    <rect width="5" height="9" x="15" y="23" fill="#B4DFFB"/>
+    <rect width="39" height="31" x="23" y="30" fill="#5B68C0"/>
+    <rect width="5" height="6" x="27" y="38" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="36" y="38" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="45" y="38" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="54" y="38" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="27" y="50" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="36" y="50" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="45" y="50" fill="#B4DFFB"/>
+    <rect width="5" height="6" x="54" y="50" fill="#B4DFFB"/>
+  </g>
+</svg>

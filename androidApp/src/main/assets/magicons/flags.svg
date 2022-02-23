@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>flags</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(36.941343, 37.431724) rotate(-330.000000) translate(-36.941343, -37.431724) translate(23.441343, 8.931724)">
+            <polygon id="Rectangle-78" fill="#E43535" points="3 0 27 0 20.4586389 8 27 16 3 16"></polygon>
+            <polygon id="Rectangle-79" fill="#BD7575" points="0 0 3 0 3 57 0 57"></polygon>
+        </g>
+        <g id="Group-6-Copy" transform="translate(26.000000, 37.431724) scale(-1, 1) rotate(-330.000000) translate(-26.000000, -37.431724) translate(12.500000, 8.931724)">
+            <polygon id="Rectangle-78" fill="#5EA7FF" points="3 5.45696821e-12 27 5.45696821e-12 20.4586389 8 27 16 3 16"></polygon>
+            <polygon id="Rectangle-79" fill="#9C4D4D" points="0 0 3 0 3 57 0 57"></polygon>
+        </g>
+    </g>
+</svg>

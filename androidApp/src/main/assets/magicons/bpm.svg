@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="33" cy="32" r="29" fill="#FFDD95"/>
+    <path fill="#E43535" d="M28.5737705,15 C25.4954621,15 23,16.5084783 23,20.5613198 C23,24.6141613 33,32 33,32 C33,32 43,24.6141613 43,20.5613198 C43,16.5084783 40.5045379,15 37.4262295,15 C35.6224114,15 34.0187247,15.8549505 33,17.1808807 C31.9812753,15.8549505 30.3775886,15 28.5737705,15 Z"/>
+    <text fill="#E43535" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300">
+      <tspan x="14.404" y="48">90bpm</tspan>
+    </text>
+  </g>
+</svg>

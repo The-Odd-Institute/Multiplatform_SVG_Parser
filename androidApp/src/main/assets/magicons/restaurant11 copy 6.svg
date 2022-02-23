@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="53" height="3" x="6" y="31" fill="#979797"/>
+    <path fill="#D8D8D8" d="M14,25 L51,25 L51,43.5 C51,53.7172679 42.7195144,62 32.5,62 L32.5,62 C22.2827321,62 14,53.7195144 14,43.5 L14,25 Z"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M12,25 L53,25"/>
+    <circle cx="17.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="22.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="27.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="32.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="37.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="42.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="47.5" cy="38.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="17.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="22.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="27.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="32.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="37.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="42.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="47.5" cy="33.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="17.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="22.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="27.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="32.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="37.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="42.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="47.5" cy="43.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="22.5" cy="48.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="27.5" cy="48.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="32.5" cy="48.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="37.5" cy="48.5" r="1.5" fill="#ECECEC"/>
+    <circle cx="42.5" cy="48.5" r="1.5" fill="#ECECEC"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-width="2" d="M27.7262146 21.7959556C30.3720778 19.0528728 32.431367 17.1356918 30.3720778 14.1097881 29.4113653 12.6981243 26.9204898 10.4795496 27.0019514 8.26009519 27.083413 6.04064081 29.5822045 3.46169001 30.3720778 3M34.7262146 21.7959556C37.3720778 19.0528728 39.431367 17.1356918 37.3720778 14.1097881 36.4113653 12.6981243 33.9204898 10.4795496 34.0019514 8.26009519 34.083413 6.04064081 36.5822045 3.46169001 37.3720778 3"/>
+  </g>
+</svg>

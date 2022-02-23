@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="coloredpencils-a" points="10 13 0 0 20 0"/>
+    <polygon id="coloredpencils-c" points="10 13 0 0 20 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(-15 33.192 -29.266)">
+      <rect width="20" height="34" y="12" fill="#F53B3E"/>
+      <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3,16 L3,26"/>
+      <path fill="#FF78C7" d="M0,6 C0,2.6862915 2.67653633,0 6.00065947,0 L13.9993405,0 C17.3134132,0 20,2.69303423 20,6 L20,12 L0,12 L0,6 Z"/>
+      <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M1 13L19 13M1 45L19 45"/>
+      <g transform="translate(0 46)">
+        <mask id="coloredpencils-b" fill="#fff">
+          <use xlink:href="#coloredpencils-a"/>
+        </mask>
+        <use fill="#FFDD95" xlink:href="#coloredpencils-a"/>
+        <rect width="8" height="8" x="6" y="8" fill="#F53B3E" mask="url(#coloredpencils-b)"/>
+      </g>
+    </g>
+    <rect width="20" height="34" x="32" y="16" fill="#5EA7FF"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35,20 L35,30"/>
+    <path fill="#B4DFFB" d="M32,10 C32,6.6862915 34.6765363,4 38.0006595,4 L45.9993405,4 C49.3134132,4 52,6.69303423 52,10 L52,16 L32,16 L32,10 Z"/>
+    <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M33 17L51 17M33 49L51 49"/>
+    <g transform="translate(32 50)">
+      <mask id="coloredpencils-d" fill="#fff">
+        <use xlink:href="#coloredpencils-c"/>
+      </mask>
+      <use fill="#FFDD95" xlink:href="#coloredpencils-c"/>
+      <rect width="8" height="8" x="6" y="8" fill="#5EA7FF" mask="url(#coloredpencils-d)"/>
+    </g>
+  </g>
+</svg>

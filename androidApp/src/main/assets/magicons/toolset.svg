@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="toolset-a" points="4.5 0 9 10 0 10"/>
+    <path id="toolset-b" d="M6.75,5 L4.5,0 L2.25,5 L6.75,5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M16,15 L25,15 L25,54.4980048 C25,56.9843881 22.9802243,59 20.5,59 L20.5,59 C18.0147186,59 16,56.9950767 16,54.4980048 L16,15 Z"/>
+    <g transform="translate(16 5)">
+      <use fill="#D3B288" xlink:href="#toolset-a"/>
+      <use fill="#0A3586" xlink:href="#toolset-b"/>
+    </g>
+    <path fill="#507BCE" fill-rule="nonzero" d="M19,17 L19,55 C19,55.5522847 19.4477153,56 20,56 C20.5522847,56 21,55.5522847 21,55 L21,17 C21,16.4477153 20.5522847,16 20,16 C19.4477153,16 19,16.4477153 19,17 Z"/>
+    <g transform="rotate(90 19.5 21.5)">
+      <rect width="14" height="54" x="20" y="-20" fill="#5B68C0" transform="rotate(-90 27 7)"/>
+      <polygon fill="#B4DFFB" fill-rule="nonzero" points="8 14 8 5 6 5 6 14"/>
+      <polygon fill="#B4DFFB" fill-rule="nonzero" points="20 14 20 5 18 5 18 14"/>
+      <polygon fill="#B4DFFB" fill-rule="nonzero" points="14 14 14 8 12 8 12 14"/>
+      <polygon fill="#B4DFFB" fill-rule="nonzero" points="26 14 26 8 24 8 24 14"/>
+    </g>
+    <path fill="#FB3A3A" d="M43,12.008788 C43,10.3470803 44.3496704,9 46.0092545,9 L46.9907455,9 C48.6527109,9 50,10.3455902 50,12.008788 L50,30 L43,30 L43,12.008788 Z"/>
+    <path fill="#BD7575" d="M15,30 L51,30 L51,58.0059354 C51,60.7640811 48.7616406,63 45.9943542,63 L20.0056458,63 C17.2411039,63 15,60.7577202 15,58.0059354 L15,30 Z"/>
+  </g>
+</svg>

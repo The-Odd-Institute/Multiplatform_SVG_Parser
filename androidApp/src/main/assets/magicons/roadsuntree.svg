@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#979797" points="23 22 37 22 49 63 11 63"/>
+    <path stroke="#FFF" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M30,61 L30,27"/>
+    <path fill="#ED9111" d="M45,20 C45,11.7157288 38.2842712,5 30,5 C21.7157288,5 15,11.7157288 15,20 L45,20 Z"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M3,21 L61.0344725,21"/>
+    <path stroke="#BD7575" stroke-linecap="square" stroke-width="2" d="M54,43 L54,45"/>
+    <polygon fill="#22BA8E" points="54 22 61 43 47 43"/>
+    <path stroke="#BD7575" stroke-linecap="square" stroke-width="2" d="M9,55 L9,57"/>
+    <polygon fill="#22BA8E" points="9 23 16 55 2 55"/>
+  </g>
+</svg>

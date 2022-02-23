@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 58 8)">
+    <rect width="4" height="33" x="7" fill="#22BA8E"/>
+    <polyline fill="#4796E7" points="9 39 18 29 0 29"/>
+    <rect width="4" height="33" x="32.5" y="23.5" fill="#22BA8E" transform="matrix(0 -1 -1 0 74.5 74.5)"/>
+    <polyline fill="#4796E7" points="12 40 22 31 22 49"/>
+  </g>
+</svg>

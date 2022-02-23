@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#BD7575" d="M11,30 L54,30 L54,43.0049706 C54,46.8682186 50.8729091,50 46.9956056,50 L18.0043944,50 C14.1359742,50 11,46.875 11,43.0049706 L11,30 Z"/>
+    <rect width="29" height="19" x="17.676" y="21.183" fill="#FCC24C" transform="rotate(41 32.176 30.683)"/>
+    <circle cx="12" cy="36" r="7" fill="#80D25B"/>
+    <path fill="#FFDD95" d="M8,49 L57,49 L57,52.5 C57,54.4329966 55.4251793,56 53.4957052,56 L11.5042948,56 C9.56892621,56 8,54.4290634 8,52.5 L8,49 Z"/>
+    <circle cx="7" cy="34" r="7" fill="#80D25B"/>
+    <circle cx="21" cy="32" r="7" fill="#80D25B"/>
+    <circle cx="29" cy="33" r="7" fill="#80D25B"/>
+    <circle cx="49" cy="33" r="7" fill="#80D25B"/>
+    <circle cx="56" cy="34" r="7" fill="#80D25B"/>
+    <circle cx="38" cy="28" r="7" fill="#80D25B"/>
+    <path fill="#FFDD95" d="M8,19 C8,12.9248678 12.9226571,8 18.9965564,8 L46.0034436,8 C52.076674,8 57,12.923532 57,19 L57,30 L8,30 L8,19 Z"/>
+    <circle cx="17" cy="16" r="2" fill="#FCC24C"/>
+    <circle cx="35" cy="15" r="2" fill="#FCC24C"/>
+    <circle cx="26" cy="22" r="2" fill="#FCC24C"/>
+    <circle cx="47" cy="23" r="2" fill="#FCC24C"/>
+    <circle cx="44" cy="16" r="2" fill="#FCC24C"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="sportpants-a" d="M32.0909091,46 L53,46 C53,46 53.9941518,34.4327462 53,23 C52.0058482,11.5672538 49,0 49,0 L5,0 C5,0 2.00584815,11.4327462 1,23 C-0.00584815322,34.5672538 1,46 1,46 L21.9090909,46 L27,30 L32.0909091,46 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="44" height="7" x="12" y="5" fill="#979797"/>
+    <circle cx="40" cy="8" r="2" fill="#595959"/>
+    <g transform="translate(7 12)">
+      <mask id="sportpants-b" fill="#fff">
+        <use xlink:href="#sportpants-a"/>
+      </mask>
+      <use fill="#D8D8D8" xlink:href="#sportpants-a"/>
+      <rect width="57" height="13" x="-2" y="37" fill="#ED9111" mask="url(#sportpants-b)"/>
+    </g>
+    <path stroke="#E43535" stroke-linecap="square" stroke-width="2" d="M40,9 L40,28"/>
+    <circle cx="28" cy="8" r="2" fill="#595959"/>
+    <path stroke="#E43535" stroke-linecap="square" stroke-width="2" d="M28,9 L28,28"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#325AA6" d="M9.41613251,10.5970292 C11.3038898,7.25568707 14.8885229,5 19,5 C25.0751322,5 30,9.92486775 30,16 C30,20.8203529 26.8994355,24.9165302 22.5838675,26.4029708 C23.4854666,24.8071346 24,22.9636552 24,21 C24,14.9248678 19.0751322,10 13,10 C11.7452207,10 10.5395119,10.210096 9.41613251,10.5970292 Z" transform="matrix(-1 0 0 1 39.416 0)"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27 20L27 24M25 22L29 22M6 31L6 35M4 33L8 33M19 35L19 39M17 37L21 37"/>
+    <path fill="#5EA7FF" d="M30,42 C50.336554,42 59,62 59,62 L1,62 C1,62 9.66344604,42 30,42 Z"/>
+    <path fill="#325AA6" d="M43,47 C58.4277306,47 65,62 65,62 L21,62 C21,62 27.5722694,47 43,47 Z"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46,48 L46,31"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M45.988176,40.0293818 L43.994088,40.0293818 C42.8927836,40.0293818 42,39.1391058 42,38.0338458 L42,33"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M49.988176,44.0293818 L47.994088,44.0293818 C46.8927836,44.0293818 46,43.1391058 46,42.0338458 L46,37" transform="matrix(-1 0 0 1 95.988 0)"/>
+  </g>
+</svg>

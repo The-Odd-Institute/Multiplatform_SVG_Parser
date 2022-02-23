@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>flashlight</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-40" fill="#595959" x="24" y="52" width="18" height="12"></rect>
+        <path d="M27,63 L27,59" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M31,63 L31,59" id="Line-Copy-7" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M35,63 L35,59" id="Line-Copy-8" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M39,63 L39,59" id="Line-Copy-9" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <rect id="Rectangle-41" fill="#ED9111" x="26" y="19" width="14" height="33"></rect>
+        <circle id="Oval-21" fill="#80D25B" cx="33" cy="28" r="2"></circle>
+        <circle id="Oval-21-Copy" fill="#E43535" cx="33" cy="34" r="2"></circle>
+        <path d="M19,13 L19,5 L47,5 L47,13 C43.6862915,13 41,15.6862915 41,19 L25,19 C25,15.6862915 22.3137085,13 19,13 Z" id="Combined-Shape" fill="#979797"></path>
+        <rect id="Rectangle-43" fill="#D8D8D8" x="19" y="1" width="28" height="4"></rect>
+    </g>
+</svg>

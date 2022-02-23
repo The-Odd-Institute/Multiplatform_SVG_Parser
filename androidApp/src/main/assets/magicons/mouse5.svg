@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M18,16.9985105 C18,9.26734663 24.2757467,3 32.0008405,3 L37.9991595,3 C45.7316102,3 52,9.26304843 52,16.9985105 L52,50.0061316 C52,55.5255927 47.5201311,60 42.0056985,60 L35,60 C25.6111593,60 18,52.3866302 18,42.9946172 L18,16.9985105 Z" transform="matrix(-1 0 0 1 70 0)"/>
+    <path stroke="#5EA7FF" stroke-linecap="square" stroke-width="2" d="M42 19L47 19M42 22L47 22M42 25L47 25M35 16L35 59"/>
+    <rect width="6" height="12" x="32" y="7" fill="#80D25B" rx="3"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>scubadive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M28,19 L54,19 L54,31.9954924 C54,37.5208294 49.5304407,42 44.0034985,42 L37.9965015,42 C32.4755862,42 28,37.52444 28,31.9954924 L28,19 Z" id="Rectangle-11-Copy" fill="#B4DFFB"></path>
+        <path d="M2,19 L28,19 L28,31.9954924 C28,37.5208294 23.5304407,42 18.0034985,42 L11.9965015,42 C6.47558616,42 2,37.52444 2,31.9954924 L2,19 Z" id="Rectangle-11" fill="#B4DFFB"></path>
+        <rect id="Rectangle-12" fill="#5EA7FF" x="2" y="19" width="52" height="4"></rect>
+        <polyline id="Path-4" stroke="#FCC24C" stroke-width="4" stroke-linecap="round" points="27 43.6633975 27 57.0605344 59.0194243 57.0605344 59.0194243 8.11670416"></polyline>
+        <rect id="Rectangle-13" fill="#D8D8D8" x="22" y="45" width="10" height="9"></rect>
+        <rect id="Rectangle-14" fill="#FCC24C" x="56" y="6" width="6" height="3"></rect>
+        <path d="M5,28.883415 L8.88341499,25" id="Path-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

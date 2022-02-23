@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M32,21 L32,4"/>
+    <rect width="60" height="29" x="2" y="21" fill="#D8D8D8" rx="4"/>
+    <rect width="25" height="4" x="16" y="41" fill="#979797"/>
+    <rect width="4" height="4" x="9" y="41" fill="#979797"/>
+    <rect width="4" height="4" x="9" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="16" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="23" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="30" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="37" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="44" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="44" y="41" fill="#979797"/>
+    <rect width="4" height="4" x="9" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="51" y="34" fill="#979797"/>
+    <rect width="4" height="4" x="16" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="23" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="30" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="37" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="44" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="51" y="27" fill="#979797"/>
+    <rect width="4" height="4" x="51" y="41" fill="#979797"/>
+  </g>
+</svg>

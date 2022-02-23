@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tshirt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Combined-Shape" fill="#325AA6" points="49 26.7781746 49 62 13 62 13 26.8700577 9.77817459 30.0918831 2 22.3137085 13 6 49 6 60.0918831 22.3137085 52.3137085 30.0918831"></polygon>
+        <path d="M22,6 C22,10.9705627 26.0294373,15 31,15 C35.9705627,15 40,10.9705627 40,6 L22,6 Z" id="Oval-71" fill="#0A3586"></path>
+        <rect id="Rectangle" fill="#80D25B" x="13" y="46" width="36" height="4"></rect>
+        <rect id="Rectangle-Copy" fill="#FFDD95" x="13" y="50" width="36" height="4"></rect>
+        <text id="11" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300" fill="#FFFFFF">
+            <tspan x="24" y="38">11</tspan>
+        </text>
+    </g>
+</svg>

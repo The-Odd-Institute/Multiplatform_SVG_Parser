@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#80D25B" d="M19.7272727,53 L56.0002326,53 C58.2013211,53 60,51.2114659 60,49.0051972 L60,19.9948028 C60,17.7845869 58.2092431,16 56.0002326,16 L8.99976742,16 C6.79867889,16 5,17.7885341 5,19.9948028 L5,49.0051972 C5,51.2154131 6.79075687,53 8.99976742,53 L14,53 L14,60 L19.7272727,53 Z"/>
+    <text fill="#5B68C0" font-family="MarkerFelt-Thin, Marker Felt" font-size="16" font-weight="300">
+      <tspan x="25.92" y="34.445">be</tspan> <tspan x="16" y="47.445">green</tspan>
+    </text>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M34,12 L34,4"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-width="2" d="M27.4142177,12.227824 L22,7"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-width="2" d="M45.4142177,12.227824 L40,7" transform="matrix(-1 0 0 1 85.414 0)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#325AA6" points="24 22 38 22 50 63 12 63"/>
+    <path stroke="#5EA7FF" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M31,61 L31,27"/>
+    <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M4 21L62.0344725 21M55 43L55 45"/>
+    <polygon fill="#5EA7FF" points="55 22 62 43 48 43"/>
+    <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M10,55 L10,57"/>
+    <polygon fill="#5EA7FF" points="10 23 17 55 3 55"/>
+    <path fill="#325AA6" d="M10.4161325,7.74006977 C11.5702056,5.6973532 13.7616571,4.31834766 16.2751927,4.31834766 C19.9892012,4.31834766 23,7.32914645 23,11.043155 C23,13.990059 21.1044819,16.4942411 18.4661762,17.4029708 C19.0173653,16.4273625 19.3319233,15.3003585 19.3319233,14.0998856 C19.3319233,10.385877 16.3211245,7.37507826 12.607116,7.37507826 C11.8400115,7.37507826 11.1029062,7.50351963 10.4161325,7.74006977 Z" transform="matrix(-1 0 0 1 33.416 0)"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12L20 16M18 14L22 14M30 8L30 12M28 10L32 10"/>
+  </g>
+</svg>

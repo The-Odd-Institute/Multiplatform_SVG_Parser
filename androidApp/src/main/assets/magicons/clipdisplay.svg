@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="11" x="31" y="44" fill="#D8D8D8"/>
+    <rect width="14" height="1" x="27" y="56" stroke="#979797" stroke-width="2"/>
+    <path fill="#868686" d="M4,9.99550699 C4,8.34113416 5.33730974,7 6.99593743,7 L61.0040626,7 C62.6586731,7 64,8.34246828 64,9.99550699 L64,43.004493 C64,44.6588658 62.6626903,46 61.0040626,46 L6.99593743,46 C5.34132688,46 4,44.6575317 4,43.004493 L4,9.99550699 Z"/>
+    <rect width="54" height="33" x="7" y="10" fill="#0A3586"/>
+    <circle cx="34" cy="26" r="12" fill="#E43535"/>
+    <polygon fill="#FFF" points="40 26 30 31 30 21"/>
+  </g>
+</svg>

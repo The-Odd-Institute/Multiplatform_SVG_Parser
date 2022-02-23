@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="coloredpencil-a" points="10 13 0 0 20 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="20" height="34" x="21" y="15" fill="#F53B3E"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24,19 L24,29"/>
+    <path fill="#FF78C7" d="M21,9 C21,5.6862915 23.6765363,3 27.0006595,3 L34.9993405,3 C38.3134132,3 41,5.69303423 41,9 L41,15 L21,15 L21,9 Z"/>
+    <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M22 16L40 16M22 48L40 48"/>
+    <g transform="translate(21 49)">
+      <mask id="coloredpencil-b" fill="#fff">
+        <use xlink:href="#coloredpencil-a"/>
+      </mask>
+      <use fill="#FFDD95" xlink:href="#coloredpencil-a"/>
+      <rect width="8" height="8" x="6" y="8" fill="#F53B3E" mask="url(#coloredpencil-b)"/>
+    </g>
+  </g>
+</svg>

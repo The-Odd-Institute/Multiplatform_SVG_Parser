@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="32" cy="33" r="30" fill="#325AA6"/>
+    <circle cx="54" cy="11" r="10" fill="#5EA7FF"/>
+    <polyline stroke="#FFF" stroke-linecap="square" stroke-width="2" points="58.659 16.373 53.852 6.054 49.255 9.737" transform="matrix(1 0 0 -1 0 22.427)"/>
+    <rect width="26" height="26" x="19" y="20" fill="#22BA8E" stroke="#FFDD95" stroke-linecap="round" stroke-width="2" rx="2"/>
+    <rect width="3" height="3" x="28" y="24" fill="#80D25B"/>
+    <rect width="3" height="3" x="33" y="24" fill="#80D25B"/>
+    <rect width="3" height="3" x="28" y="39" fill="#80D25B"/>
+    <rect width="3" height="3" x="33" y="39" fill="#80D25B"/>
+    <rect width="3" height="3" x="23" y="24" fill="#80D25B"/>
+    <rect width="3" height="3" x="23" y="29" fill="#80D25B"/>
+    <rect width="3" height="3" x="23" y="34" fill="#80D25B"/>
+    <rect width="3" height="3" x="23" y="39" fill="#80D25B"/>
+    <rect width="3" height="3" x="38" y="24" fill="#80D25B"/>
+    <rect width="3" height="3" x="38" y="29" fill="#80D25B"/>
+    <rect width="3" height="3" x="38" y="34" fill="#80D25B"/>
+    <rect width="3" height="3" x="38" y="39" fill="#80D25B"/>
+  </g>
+</svg>

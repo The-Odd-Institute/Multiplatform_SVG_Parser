@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <circle id="zoomtool-a" cx="31.515" cy="25.515" r="15"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#5B68C0" d="M46.5459415,30.0459415 L52.5459415,30.0459415 L52.5459415,54.0533076 C52.5459415,55.7060937 51.1994244,57.0459415 49.5459415,57.0459415 L49.5459415,57.0459415 C47.8890873,57.0459415 46.5459415,55.7070073 46.5459415,54.0533076 L46.5459415,30.0459415 Z" transform="rotate(-45 49.546 43.546)"/>
+    <g transform="rotate(-45 31.515 25.515)">
+      <use fill="#B4DFFB" xlink:href="#zoomtool-a"/>
+      <circle cx="31.515" cy="25.515" r="14" stroke="#979797" stroke-width="2"/>
+    </g>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M5 26L11 26M53 26L59 26M56 29L56 23"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="11" x="40" y="51" fill="#BD7575"/>
+    <polygon fill="#22BA8E" points="43 33 65 55 21 55"/>
+    <polygon fill="#80D25B" points="43 29 61 47 25 47"/>
+    <polygon fill="#22BA8E" points="43 23 59 39 27 39"/>
+    <polygon fill="#80D25B" points="43 16 57 30 29 30"/>
+    <polygon fill="#22BA8E" points="43 2 54 23 32 23"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-width="2" d="M11,12.9192423 L30.2902106,12.9192423 C31.6443157,12.9192423 32.7420347,11.827503 32.7420347,10.4596212 L32.7420347,10.4596212 C32.7420347,9.10120991 31.6356849,8 30.280881,8 L28.613581,8"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-width="2" d="M5,22.9192423 L24.2902106,22.9192423 C25.6443157,22.9192423 26.7420347,21.827503 26.7420347,20.4596212 L26.7420347,20.4596212 C26.7420347,19.1012099 25.6356849,18 24.280881,18 L22.613581,18" transform="matrix(1 0 0 -1 0 40.92)"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-width="2" d="M8,44.9192423 L22.2896693,44.9192423 C23.6440733,44.9192423 24.7420347,43.827503 24.7420347,42.4596212 L24.7420347,42.4596212 C24.7420347,41.1012099 23.6356849,40 22.280881,40 L20.613581,40" transform="matrix(1 0 0 -1 0 84.92)"/>
+  </g>
+</svg>

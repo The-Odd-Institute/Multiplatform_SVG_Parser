@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="47" cy="14" r="13" fill="#E43535"/>
+    <circle cx="47" cy="23" r="2" fill="#FFF"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="4" d="M48.3819417,16.65833 C51.1433654,16.65833 53.3819417,14.4197538 53.3819417,11.65833 C53.3819417,8.89690629 51.1433654,6.65833004 48.3819417,6.65833004 C45.6205179,6.65833004 43.3819417,8.89690629 43.3819417,11.65833 L40.6180583,11.65833" transform="matrix(0 -1 -1 0 58.658 58.658)"/>
+    <rect width="29" height="24" x="12" y="30" fill="#22BA8E"/>
+    <path fill="#D8D8D8" d="M15,35 L40.0045193,35 C43.3157319,35 46,37.6827759 46,40.9981851 L46,43.0018149 C46,46.314521 43.3166691,49 40.0045193,49 L15,49 L15,35 Z"/>
+    <circle cx="39" cy="42" r="4" fill="#595959"/>
+    <rect width="8" height="2" x="18" y="38" fill="#FFF"/>
+    <rect width="8" height="2" x="18" y="44" fill="#FFF"/>
+    <polyline stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="4 28 12.05 28 12.05 56.191"/>
+    <path fill="#D8D8D8" d="M8,34.999615 C8,33.8952581 8.88772964,33 10,33 L12,33 L12,43 L10,43 C8.8954305,43 8,42.1125667 8,41.000385 L8,34.999615 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="34" height="39" x="19" y="13" fill="#0A3586" rx="6"/>
+    <rect width="2" height="9" x="53" y="24" fill="#5B68C0"/>
+    <rect width="2" height="9" x="53" y="35" fill="#5B68C0"/>
+    <path fill="#D8D8D8" d="M25.4640367,3.94779813 C25.7600411,2.31977418 27.343312,1 28.9942021,1 L43.0057979,1 C44.6594501,1 46.2412467,2.32685702 46.5359633,3.94779813 L48,12 L24,12 L25.4640367,3.94779813 Z"/>
+    <path fill="#979797" d="M25.4640367,55.9477981 C25.7600411,54.3197742 27.343312,53 28.9942021,53 L43.0057979,53 C44.6594501,53 46.2412467,54.326857 46.5359633,55.9477981 L48,64 L24,64 L25.4640367,55.9477981 Z" transform="matrix(1 0 0 -1 0 117)"/>
+    <polygon fill="#E43535" points="30 29.294 45 24 45 27.706 30 33"/>
+    <ellipse cx="27" cy="42.5" fill="#E43535" rx="4" ry="2.5"/>
+    <polyline stroke="#E43535" stroke-linecap="round" stroke-width="2" points="30 42 30 26.055 45 21"/>
+    <ellipse cx="42" cy="37.5" fill="#E43535" rx="4" ry="2.5"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M45,37 L45,21"/>
+  </g>
+</svg>

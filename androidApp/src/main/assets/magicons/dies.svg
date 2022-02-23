@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="28" height="28" x="18" y="4" fill="#D8D8D8" rx="2"/>
+    <circle cx="24" cy="26" r="3" fill="#0A3586"/>
+    <circle cx="40" cy="10" r="3" fill="#0A3586"/>
+    <circle cx="32" cy="18" r="3" fill="#0A3586"/>
+    <rect width="28" height="28" x="3" y="34" fill="#D8D8D8" rx="2"/>
+    <circle cx="9" cy="56" r="3" fill="#0A3586"/>
+    <circle cx="25" cy="56" r="3" fill="#0A3586"/>
+    <circle cx="25" cy="40" r="3" fill="#0A3586"/>
+    <circle cx="9" cy="40" r="3" fill="#0A3586"/>
+    <rect width="28" height="28" x="33" y="34" fill="#D8D8D8" rx="2"/>
+    <circle cx="39" cy="56" r="3" fill="#0A3586"/>
+    <circle cx="55" cy="56" r="3" fill="#0A3586"/>
+    <circle cx="55" cy="40" r="3" fill="#0A3586"/>
+    <circle cx="39" cy="40" r="3" fill="#0A3586"/>
+    <circle cx="47" cy="48" r="3" fill="#0A3586"/>
+  </g>
+</svg>

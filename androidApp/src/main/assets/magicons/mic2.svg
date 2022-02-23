@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#80D25B" d="M22,7.99652399 C22,6.34158949 23.343312,5 24.9942021,5 L39.0057979,5 C40.6594501,5 42,6.33870834 42,7.99652399 L42,34.9970846 C42,38.864688 38.875,42 35.0049706,42 L28.9950294,42 C25.1317814,42 22,38.8613618 22,34.9970846 L22,7.99652399 Z"/>
+    <circle cx="27" cy="19" r="2" fill="#D8D8D8"/>
+    <circle cx="27" cy="25" r="2" fill="#D8D8D8"/>
+    <circle cx="27" cy="31" r="2" fill="#D8D8D8"/>
+    <circle cx="37" cy="19" r="2" fill="#D8D8D8"/>
+    <circle cx="32" cy="19" r="2" fill="#D8D8D8"/>
+    <circle cx="37" cy="25" r="2" fill="#D8D8D8"/>
+    <circle cx="32" cy="25" r="2" fill="#D8D8D8"/>
+    <circle cx="37" cy="31" r="2" fill="#D8D8D8"/>
+    <circle cx="32" cy="31" r="2" fill="#D8D8D8"/>
+    <rect width="20" height="9" x="22" y="4" fill="#5DAF38" rx="4.5"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-width="2" d="M47,25 L47,36 C47,42.0751322 42.0797034,47 35.9994562,47 L28.0005438,47 C21.9251112,47 17,42.076468 17,36 L17,25 L17,25"/>
+    <path stroke="#ED9111" stroke-linecap="square" stroke-width="2" d="M32,48 L32,59"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24,60 L40,60"/>
+  </g>
+</svg>

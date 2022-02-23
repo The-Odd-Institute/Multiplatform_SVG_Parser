@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="56" height="28" x="4" y="33" fill="#979797" rx="14"/>
+    <circle cx="43" cy="44" r="3" fill="#595959"/>
+    <circle cx="38" cy="51" r="3" fill="#595959"/>
+    <circle cx="51" cy="44" r="3" fill="#595959"/>
+    <circle cx="46" cy="51" r="3" fill="#595959"/>
+    <rect width="4" height="14" x="14" y="41" fill="#595959"/>
+    <rect width="4" height="14" x="14" y="41" fill="#595959" transform="rotate(-90 16 48)"/>
+    <rect width="56" height="28" x="4" y="8" fill="#595959" rx="14"/>
+    <rect width="36" height="20" x="14" y="12" fill="#5EA7FF"/>
+    <rect width="3" height="3" x="8" y="15" fill="#D8D8D8"/>
+    <rect width="3" height="3" x="8" y="20" fill="#D8D8D8"/>
+    <rect width="3" height="3" x="8" y="25" fill="#D8D8D8"/>
+    <rect width="3" height="3" x="53" y="16" fill="#D8D8D8"/>
+    <rect width="3" height="3" x="53" y="21" fill="#D8D8D8"/>
+    <rect width="3" height="3" x="53" y="26" fill="#D8D8D8"/>
+  </g>
+</svg>

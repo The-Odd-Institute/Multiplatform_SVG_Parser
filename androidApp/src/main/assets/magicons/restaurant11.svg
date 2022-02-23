@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="44" height="31" x="11" y="27" fill="#E43535"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M20 26L20 15.9501244M46 26L46 15.9501244"/>
+    <rect width="47" height="16" x="10" y="6" fill="#595959"/>
+    <polygon fill="#B4DFFB" points="18 41 48 41 48 53 18 53"/>
+    <rect width="54" height="4" x="6" y="58" fill="#22BA8E" rx="2"/>
+    <path fill="#5EA7FF" d="M17.6223095,32.5 L48.4794524,32.5 L49.952905,37.6570842 C50.5593004,39.779468 49.2656353,41.5 47.0607023,41.5 L19.0410595,41.5 C16.8373447,41.5 15.5405996,39.7859846 16.1488569,37.6570842 L17.6223095,32.5 Z"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="13" font-weight="300">
+      <tspan x="13.825" y="19">DRINKS</tspan>
+    </text>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M21,47.718479 L24.8134022,44"/>
+  </g>
+</svg>

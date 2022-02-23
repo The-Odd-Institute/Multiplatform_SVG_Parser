@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>timer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-56" fill="#D8D8D8" cx="32" cy="36" r="27"></circle>
+        <rect id="Rectangle-104" fill="#979797" x="28" y="6" width="8" height="4"></rect>
+        <rect id="Rectangle-105" fill="#D8D8D8" x="26" y="3" width="12" height="3" rx="1.5"></rect>
+        <rect id="Rectangle-105-Copy" fill="#979797" transform="translate(48.946152, 11.299038) rotate(-330.000000) translate(-48.946152, -11.299038) " x="42.9461524" y="9.79903811" width="12" height="3" rx="1.5"></rect>
+        <circle id="Oval-56-Copy" fill="#80D25B" cx="32" cy="36" r="22"></circle>
+        <path d="M32,18 C41.993724,18 50.0952381,26.1015141 50.0952381,36.0952381 C50.0952381,36.3986272 50.0877717,36.7002724 50.0730126,37 L32,37 L32,18 Z" id="Combined-Shape" fill="#9C4D4D"></path>
+    </g>
+</svg>

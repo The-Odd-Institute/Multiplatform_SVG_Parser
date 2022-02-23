@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="64" height="30" y="32" fill="#4796E7" rx="2"/>
+    <path stroke="#FFAF40" stroke-linecap="square" stroke-width="2" d="M17,35 L21,35"/>
+    <path stroke="#80D25B" stroke-linecap="square" stroke-width="2" d="M26,35 L30,35"/>
+    <rect width="25" height="4" x="23" y="56" fill="#FFF"/>
+    <rect width="4" height="4" x="51" y="56" fill="#FFF"/>
+    <rect width="4" height="10" x="58" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="16" y="56" fill="#FFF"/>
+    <rect width="4" height="4" x="51" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="51" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="51" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="58" y="56" fill="#FFF"/>
+    <rect width="4" height="4" x="58" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="9" y="56" fill="#FFF"/>
+    <rect width="4" height="4" x="9" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="2" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="16" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="23" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="30" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="37" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="44" y="50" fill="#FFF"/>
+    <rect width="4" height="4" x="16" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="9" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="23" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="30" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="37" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="44" y="44" fill="#FFF"/>
+    <rect width="4" height="4" x="16" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="23" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="30" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="37" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="44" y="38" fill="#FFF"/>
+    <rect width="4" height="4" x="2" y="56" fill="#FFF"/>
+    <rect width="4" height="4" x="2" y="38" fill="#FFF"/>
+    <rect width="11" height="4" x="2" y="50" fill="#FFF"/>
+    <path fill="#D8D8D8" d="M32,3.54400273 C32,3.54400273 37.3000057,1 42.6000114,1 C47.9000171,1 53.2000227,3.54400273 53.2000227,3.54400273 L53.2000227,34.9200364 C53.2000227,34.9200364 47.9000171,32.3760337 42.6000114,32.3760337 C37.3000057,32.3760337 32,34.9200364 32,34.9200364 L32,3.54400273 Z"/>
+    <path fill="#ECECEC" d="M11,3.54400273 C11,3.54400273 16.3000057,1 21.6000114,1 C26.9000171,1 32.2000227,3.54400273 32.2000227,3.54400273 L32.2000227,34.9200364 C32.2000227,34.9200364 26.9000171,32.3760337 21.6000114,32.3760337 C16.3000057,32.3760337 11,34.9200364 11,34.9200364 L11,3.54400273 Z"/>
+    <path stroke="#B6B6B6" stroke-width="2" d="M14 7.87662777C14 7.87662777 21.1094365 3.631173 28.7817057 7.91133253M14 12.8766278C14 12.8766278 21.1094365 8.631173 28.7817057 12.9113325M14 17.8766278C14 17.8766278 21.1094365 13.631173 28.7817057 17.9113325M14 22.8766278C14 22.8766278 21.1094365 18.631173 28.7817057 22.9113325M14 27.8766278C14 27.8766278 21.1094365 23.631173 28.7817057 27.9113325M35 7.87662777C35 7.87662777 42.1094365 3.631173 49.7817057 7.91133253M35 12.8766278C35 12.8766278 42.1094365 8.631173 49.7817057 12.9113325M35 17.8766278C35 17.8766278 42.1094365 13.631173 49.7817057 17.9113325M35 22.8766278C35 22.8766278 42.1094365 18.631173 49.7817057 22.9113325M35 27.8766278C35 27.8766278 42.1094365 23.631173 49.7817057 27.9113325"/>
+  </g>
+</svg>

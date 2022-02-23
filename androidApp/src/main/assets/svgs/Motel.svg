@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#9C4D4D" stroke-linecap="square" stroke-width="2" d="M13 7L13 59M42 7L42 59"/>
+    <path fill="#BD7575" d="M46,17 L4,17 L4,33 L46,33 L46,37 L64,25 L46,13 L46,17 Z"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="12" y="29">MOTEL</tspan>
+    </text>
+    <path fill="#E43535" d="M18,36 C18,36 20.375,37 22.75,37 C25.125,37 27.5,36 27.5,36 C27.5,36 29.875,37 32.25,37 C34.625,37 37,36 37,36 L37,50 C37,50 34.625,49 32.25,49 C29.875,49 27.5,50 27.5,50 C27.5,50 25.125,49 22.75,49 C20.375,49 18,50 18,50 L18,36 Z"/>
+    <path stroke="#BD7575" stroke-linecap="square" stroke-width="2" d="M9 10L45 10M9 52L45 52"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="22.3" y="47">66</tspan>
+    </text>
+  </g>
+</svg>

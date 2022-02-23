@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tentcamp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Triangle-7" fill="#22BA8E" points="32 12 61 60 3 60"></polygon>
+        <path d="M32,13 L32,9" id="Line" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,13 L28.8377223,9.83772234" id="Line" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,13 L35.1622777,9.83772234" id="Line" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Rectangle-77" fill="#FCC24C" points="32 37 58 60 32 60"></polygon>
+        <rect id="Rectangle-75" fill="#FCC24C" x="19" y="42" width="8" height="8"></rect>
+        <path d="M1,61 L63.008064,61" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

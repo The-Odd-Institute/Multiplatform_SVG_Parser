@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="3" height="4" x="39.159" y="21.295" fill="#80D25B" transform="rotate(45 40.659 23.295)"/>
+    <circle cx="43.841" cy="20.113" r="3.5" fill="#80D25B" transform="rotate(45 43.84 20.113)"/>
+    <rect width="11" height="7" x="31.977" y="22.977" fill="#FFDD95" transform="rotate(45 37.477 26.477)"/>
+    <path stroke="#80D25B" stroke-linecap="round" stroke-width="2" d="M58.9132124,14.8559704 C56.8321217,12.7748797 53.9571217,11.4876984 50.7814844,11.4876984 C47.6058471,11.4876984 44.7308471,12.7748797 42.6497564,14.8559704" transform="rotate(45 50.781 13.172)"/>
+    <path stroke="#80D25B" stroke-linecap="round" stroke-width="2" d="M53.6705717,16.6843975 C52.3133387,15.3271645 50.4383387,14.4876984 48.3672709,14.4876984 C46.2962031,14.4876984 44.4212031,15.3271645 43.06397,16.6843975" transform="rotate(45 48.367 15.586)"/>
+    <rect width="11" height="12" x="18.188" y="34.265" fill="#FFDD95" transform="rotate(45 23.688 40.265)"/>
+    <rect width="15" height="17" x="23.613" y="24.341" fill="#0A3586" transform="rotate(45 31.113 32.84)"/>
+    <circle cx="31" cy="28" r="2" fill="#E43535"/>
+    <rect width="24" height="14" x="33.962" y="39.983" fill="#5B68C0" transform="rotate(45 45.962 46.983)"/>
+    <rect width="24" height="14" x="4.971" y="10.991" fill="#5B68C0" transform="rotate(45 16.97 17.991)"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>race</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-86" fill="#E43535" points="21 21 43 21 51 60 13 60"></polygon>
+        <path d="M32,58 L32,26" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="4"></path>
+        <rect id="Rectangle-84" fill="#80D25B" x="2" y="8" width="60" height="18"></rect>
+        <rect id="Rectangle-87" fill="#D8D8D8" x="13" y="12" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-4" fill="#D8D8D8" x="42" y="12" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-2" fill="#D8D8D8" x="13" y="18" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-5" fill="#D8D8D8" x="42" y="18" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy" fill="#D8D8D8" x="19" y="12" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-6" fill="#D8D8D8" x="48" y="12" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-3" fill="#D8D8D8" x="19" y="18" width="3" height="3"></rect>
+        <rect id="Rectangle-87-Copy-7" fill="#D8D8D8" x="48" y="18" width="3" height="3"></rect>
+        <rect id="Rectangle-85" fill="#BD7575" x="7" y="26" width="2" height="33"></rect>
+        <rect id="Rectangle-85-Copy" fill="#BD7575" x="55" y="26" width="2" height="33"></rect>
+    </g>
+</svg>

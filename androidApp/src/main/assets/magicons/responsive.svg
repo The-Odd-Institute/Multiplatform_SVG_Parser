@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#595959" points="4 7 60 7 60 42 4 42"/>
+    <rect width="52" height="31" x="6" y="9" fill="#E8E8E8"/>
+    <path fill="#4796E7" d="M0,42 L64,42 L64,44.5 C64,45.8807119 62.8891602,47 61.4911242,47 L2.50887585,47 C1.12326198,47 0,45.8903379 0,44.5 L0,42 Z"/>
+    <path fill="#595959" d="M38,30.9982456 C38,30.4469298 38.4547089,30 38.9999602,30 L54.0000398,30 C54.5523026,30 55,30.4555207 55,30.9982456 L55,58.0017544 C55,58.5530702 54.5452911,59 54.0000398,59 L38.9999602,59 C38.4476974,59 38,58.5444793 38,58.0017544 L38,30.9982456 Z"/>
+    <rect width="15" height="21" x="39" y="33" fill="#B4DFFB"/>
+    <rect width="7" height="6" x="43" y="35" fill="#FFAF40"/>
+    <rect width="7" height="6" x="43" y="43" fill="#BD7575"/>
+    <rect width="7" height="3" x="43" y="51" fill="#80D25B"/>
+    <circle cx="46.5" cy="56.5" r="1.5" fill="#868686"/>
+    <rect width="14" height="12" x="9" y="18" fill="#FFAF40"/>
+    <rect width="14" height="12" x="25" y="18" fill="#BD7575"/>
+    <rect width="14" height="12" x="41" y="18" fill="#80D25B"/>
+  </g>
+</svg>

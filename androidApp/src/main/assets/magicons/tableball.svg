@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tableball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-185" fill="#325AA6" x="20" y="47" width="43" height="11" rx="5.5"></rect>
+        <circle id="Oval-91" fill="#FF78C7" cx="24.5" cy="18.5" r="8.5"></circle>
+        <path d="M30,18.5 C30,15.4624339 27.5375661,13 24.5,13" id="Oval-91-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M24,29 L30.0053014,36.2509262" id="Path-49" stroke="#FFDD95" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M31,32 L37.0053014,39.2509262" id="Path-49-Copy" stroke="#FFDD95" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M35,22.3745369 L38,26" id="Path-49-Copy-2" stroke="#FFDD95" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

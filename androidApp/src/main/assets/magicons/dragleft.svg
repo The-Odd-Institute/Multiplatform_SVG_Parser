@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="21" height="55" x="39" y="5" fill="#5EA7FF"/>
+    <path fill="#FFAF40" d="M36,30 L13,30 L13,36 L36,36 L36,41 L48,33 L36,25 L36,30 Z" transform="rotate(-180 30.5 33)"/>
+    <polyline stroke="#5B68C0" stroke-width="2" points="16 59 6 59 6 49 6 49"/>
+    <polyline stroke="#5B68C0" stroke-width="2" points="16 16 6 16 6 6 6 6" transform="rotate(90 11 11)"/>
+    <polyline stroke="#5B68C0" stroke-width="2" points="59 59 49 59 49 49 49 49" transform="rotate(-90 54 54)"/>
+    <polyline stroke="#5B68C0" stroke-width="2" points="59 16 49 16 49 6 49 6" transform="rotate(-180 54 11)"/>
+    <path stroke="#5B68C0" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M19 6L45.8974047 6M59 19L59 45.8974047M6 19L6 45.8974047M19 59L45.8974047 59"/>
+  </g>
+</svg>

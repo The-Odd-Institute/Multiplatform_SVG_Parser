@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="26" height="8" x="19" y="12" fill="#979797"/>
+    <rect width="40" height="46" x="12" y="16" fill="#D8D8D8" rx="3"/>
+    <rect width="40" height="36" x="12" y="22" fill="#595959"/>
+    <g transform="matrix(-1 0 0 1 47 20)">
+      <path fill="#80D25B" d="M15.435675,31 C20.301337,31 25,26.2163013 25,21.3131203 C25,16.4099394 17.1226939,3 17.1226939,3 C17.1226939,3 7.62882483,15.3918301 7.05405343,20.6592359 C6.47928203,25.9266417 10.570013,31 15.435675,31 Z" transform="rotate(36 16 17)"/>
+      <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M22,10 C22,10 12.8859478,15.6488685 9.57160406,26.0527799 C8.71883296,28.7296763 7.43565096,30.6395938 6,32"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="17 24 10.935 23.715 8 18"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="19 18 14.459 17.197 13 14"/>
+    </g>
+    <path fill="#80D25B" d="M15,3.99961498 C15,2.89525812 15.8997849,2 17.0022853,2 L45.9977147,2 C47.1035463,2 48,2.88743329 48,3.99961498 L48,12 L15,12 L15,3.99961498 Z"/>
+  </g>
+</svg>

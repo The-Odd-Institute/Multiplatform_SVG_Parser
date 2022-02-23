@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>poolstairs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,55 C24,50.0294373 19.9705627,46 15,46 C10.0294373,46 6,50.0294373 6,55" id="Oval-10" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M42,55 C42,50.0294373 37.9705627,46 33,46 C28.0294373,46 24,50.0294373 24,55" id="Oval-10-Copy" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M60,55 C60,50.0294373 55.9705627,46 51,46 C46.0294373,46 42,50.0294373 42,55" id="Oval-10-Copy-2" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M33,55 C33,50.0294373 28.9705627,46 24,46 C19.0294373,46 15,50.0294373 15,55" id="Oval-10-Copy-5" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M51,55 C51,50.0294373 46.9705627,46 42,46 C37.0294373,46 33,50.0294373 33,55" id="Oval-10-Copy-4" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M19,41 L19,15.5088478 L19,15.5088478 C19,11.3618257 22.3662928,8 26.5,8 L26.5,8" id="Rectangle-127" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M42,41 L42,15.5088478 L42,15.5088478 C42,11.3618257 45.3662928,8 49.5,8 L49.5,8" id="Rectangle-127-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M19,21 L42,21" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M19,28 L42,28" id="Line-Copy-74" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M19,35 L42,35" id="Line-Copy-75" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

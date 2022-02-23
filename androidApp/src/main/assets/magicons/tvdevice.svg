@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="29" height="29" x="5" y="31" fill="#595959" rx="4"/>
+    <text fill="#868686" font-family="MarkerFelt-Thin, Marker Felt" font-size="12" font-weight="300">
+      <tspan x="14" y="50">TV</tspan>
+    </text>
+    <rect width="19" height="53" x="38" y="7" fill="#595959" rx="3"/>
+    <path stroke="#ED9111" stroke-linecap="square" stroke-width="2" d="M43,9 L53,9"/>
+    <circle cx="44" cy="23" r="2" fill="#868686"/>
+    <circle cx="44" cy="31" r="2" fill="#868686"/>
+    <circle cx="44" cy="39" r="2" fill="#868686"/>
+    <circle cx="51" cy="23" r="2" fill="#868686"/>
+    <circle cx="51" cy="31" r="2" fill="#868686"/>
+    <circle cx="51" cy="39" r="2" fill="#868686"/>
+  </g>
+</svg>

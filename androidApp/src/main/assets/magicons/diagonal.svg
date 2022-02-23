@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="31" cy="32" r="29" fill="#80D25B" transform="rotate(-135 31 32)"/>
+    <polyline stroke="#FFDD95" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" points="19 20 43 20 43 44" transform="rotate(-90 31 32)"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-width="6" d="M45,33 L15.9827637,33" transform="rotate(-135 30 32)"/>
+  </g>
+</svg>

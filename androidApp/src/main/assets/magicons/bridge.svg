@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#ED9111" stroke="#595959" stroke-linecap="round" stroke-width="2" d="M55,33 C55,26.372583 44.7025492,21 32,21 C19.2974508,21 9,26.372583 9,33 L55,33 Z"/>
+    <path stroke="#595959" stroke-linecap="square" stroke-width="2" d="M17 25L17 32.0710678M23 23L23 32.0710678M29 22L29 32.0710678M35 22L35 32.0710678M41 23L41 32.0710678M47 25L47 32.0710678"/>
+    <path fill="#ED9111" stroke="#595959" stroke-linecap="round" stroke-width="2" d="M9,33 C9,28.581722 5.418278,25 1,25 L1,33.0816456 L9,33 Z"/>
+    <path fill="#ED9111" stroke="#595959" stroke-linecap="round" stroke-width="2" d="M63,33 C63,28.581722 59.418278,25 55,25 L55,33.0816456 L63,33 Z" transform="matrix(-1 0 0 1 118 0)"/>
+    <rect width="4" height="21" x="9" y="34" fill="#D8D8D8"/>
+    <path fill="#D8D8D8" d="M16,59 C16,56.2385763 13.7614237,54 11,54 C8.23857625,54 6,56.2385763 6,59 L16,59 Z"/>
+    <rect width="4" height="21" x="51" y="34" fill="#D8D8D8"/>
+    <path fill="#D8D8D8" d="M58,59 C58,56.2385763 55.7614237,54 53,54 C50.2385763,54 48,56.2385763 48,59 L58,59 Z"/>
+  </g>
+</svg>

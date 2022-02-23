@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="52" height="58" x="5" y="3" fill="#B4DFFB" rx="4"/>
+    <rect width="18" height="8" x="10" y="7" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="12" height="8" x="28" y="7" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="12" height="8" x="40" y="7" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="15" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 15 40 15 40 21 28 21"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 15 52 15 52 21 40 21"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 21 40 21 40 27 28 27"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 21 52 21 52 27 40 27"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 27 40 27 40 33 28 33"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 27 52 27 52 33 40 33"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 33 40 33 40 39 28 39"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 33 52 33 52 39 40 39"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 39 40 39 40 45 28 45"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 39 52 39 52 45 40 45"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 45 40 45 40 51 28 51"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="28 51 40 51 40 57 28 57"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 45 52 45 52 51 40 51"/>
+    <polygon fill="#D8D8D8" stroke="#979797" stroke-linecap="round" stroke-width="2" points="40 51 52 51 52 57 40 57"/>
+    <rect width="18" height="6" x="10" y="21" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="27" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="33" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="39" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="45" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="6" x="10" y="51" fill="#B6B6B6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

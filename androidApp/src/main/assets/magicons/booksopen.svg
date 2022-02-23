@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="52" height="10" x="7" y="48" fill="#5B68C0" rx="2"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="14 48 14 58 16 58 16 48"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="19 48 19 58 21 58 21 48"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="41 48 41 58 43 58 43 48"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="22 54 40 54 40 52 22 52"/>
+    <rect width="52" height="10" x="7" y="38" fill="#22BA8E" rx="2"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="24 38 24 48 26 48 26 38"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="29 38 29 48 31 48 31 38"/>
+    <polygon fill="#9ACCFF" fill-rule="nonzero" points="51 38 51 48 53 48 53 38"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="32 44 50 44 50 42 32 42"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="12.673 34.895 17.586 14.167 16.613 13.936 11.7 34.664"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="12.761 34.871 21.552 15.894 20.644 15.474 11.853 34.451"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="12.696 35.392 25.032 17.414 24.208 16.848 11.872 34.826"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="12.744 35.392 27.797 20.007 27.082 19.308 12.029 34.693"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="12.918 35.648 30.229 23.205 29.645 22.393 12.334 34.836"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="13.134 35.725 31.693 27.961 31.307 27.039 12.748 34.802"/>
+    <polygon fill="#D2D2D2" fill-rule="nonzero" points="13.446 36.103 32.58 32.994 32.42 32.006 13.285 35.116"/>
+    <polygon fill="#C13F98" fill-rule="nonzero" points="12.004 33.771 12.004 14 10 14 10 34.52 13.045 38 36 38 36 36.002 13.957 36.002"/>
+  </g>
+</svg>

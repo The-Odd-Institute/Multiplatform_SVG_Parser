@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M32,37 L32,61"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27,62 L37,62"/>
+    <polygon fill="#ECECEC" points="31.178 36.892 9 7 55 7 32.811 36.907"/>
+    <polyline stroke="#979797" stroke-linecap="square" stroke-width="2" points="29.003 24.51 29.003 7.159 20 3"/>
+    <circle cx="37" cy="18" r="7" fill="#FCC24C"/>
+    <polygon fill="#D650C7" points="31.064 36.916 17.21 18 46.835 18 32.982 36.916"/>
+  </g>
+</svg>

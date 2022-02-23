@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>mountaintrip</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-138" fill="#BD7575" points="1 17 23 17 23 43 1 43"></polygon>
+        <polygon id="Rectangle-142" fill="#AB5F5F" points="18 11 23 11 23 17 13 17"></polygon>
+        <circle id="Oval-73" fill="#FCC24C" cx="15" cy="27" r="2"></circle>
+        <circle id="Oval-73-Copy-4" fill="#FCC24C" cx="15" cy="33" r="2"></circle>
+        <circle id="Oval-73-Copy" fill="#FCC24C" cx="15" cy="22" r="2"></circle>
+        <path d="M22,22 L16.9009805,22" id="Line" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,27 L16.9009805,27" id="Line-Copy-54" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,33 L16.9009805,33" id="Line-Copy-55" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M1,38.3158077 C1,38.3158077 12.0074962,35.3862601 17.7790887,35.3862601 C23.5506812,35.3862601 30.5614455,39.3158077 35.3728941,39.3158077 C40.1843428,39.3158077 44.218905,38.9291815 44.218905,38.9291815 C49.0685698,38.5904245 53,42.2509017 53,47.1225508 L53,53 L1,53 L1,38.3158077 Z" id="Rectangle-139" fill="#BD7575"></path>
+        <rect id="Rectangle-140" fill="#AB5F5F" x="1" y="51" width="52" height="4"></rect>
+        <rect id="Rectangle-200" fill="#AB5F5F" x="1" y="54" width="6" height="4"></rect>
+        <polygon id="Rectangle-200-Copy" fill="#AB5F5F" points="10 54 20 54 17 58 10 58"></polygon>
+        <rect id="Rectangle-200-Copy-3" fill="#AB5F5F" x="29" y="54" width="6" height="4"></rect>
+        <rect id="Rectangle-200-Copy-4" fill="#AB5F5F" x="38" y="54" width="6" height="4"></rect>
+        <rect id="Rectangle-200-Copy-5" fill="#AB5F5F" x="47" y="54" width="6" height="4"></rect>
+        <rect id="Rectangle-199" fill="#AB5F5F" x="1" y="13" width="3" height="4"></rect>
+        <polygon id="Triangle-15" fill="#BD7575" points="40 8 50 26 30 26"></polygon>
+        <polygon id="Triangle-15-Copy" fill="#AB5F5F" points="51 3 61 26 41 26"></polygon>
+    </g>
+</svg>

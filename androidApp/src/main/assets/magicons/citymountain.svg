@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#9C4D4D" points="44 24 63 60 25 60"/>
+    <polygon fill="#D8D8D8" points="44 21 53 37 45.38 41.692 42.743 33.318 35 37"/>
+    <rect width="29" height="44" x="4" y="16" fill="#979797"/>
+    <path stroke="#595959" stroke-linecap="square" stroke-width="2" d="M8 20L29 20M8 26L29 26M8 32L29 32M8 38L29 38M8 44L29 44M8 50L29 50"/>
+    <rect width="20" height="7" x="8" y="9" fill="#595959"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M18,8 L18,3"/>
+    <path fill="#80D25B" d="M27,60 C27,56.1340068 23.8659932,53 20,53 C16.1340068,53 13,56.1340068 13,60 L27,60 Z"/>
+    <path fill="#80D25B" d="M39,60 C39,56.1340068 35.8659932,53 32,53 C28.1340068,53 25,56.1340068 25,60 L39,60 Z"/>
+    <path fill="#22BA8E" d="M55,60 C55,56.1340068 51.8659932,53 48,53 C44.1340068,53 41,56.1340068 41,60 L55,60 Z"/>
+    <path fill="#80D25B" d="M44,60 C44,57.2385763 41.7614237,55 39,55 C36.2385763,55 34,57.2385763 34,60 L44,60 Z"/>
+    <path fill="#22BA8E" d="M29,60 C29,57.2385763 26.7614237,55 24,55 C21.2385763,55 19,57.2385763 19,60 L29,60 Z"/>
+  </g>
+</svg>

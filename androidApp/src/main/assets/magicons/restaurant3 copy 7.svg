@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#979797" d="M7,11.9958262 C7,9.78899235 8.79426827,8 11.0071897,8 L52.9928103,8 C55.2059201,8 57,9.79652125 57,11.9958262 L57,20 L7,20 L7,11.9958262 Z"/>
+    <path fill="#D8D8D8" d="M32,20 L57,20 L57,49.9997876 C57,52.2090439 55.2020617,54 52.9971835,54 L32,54 L32,20 Z"/>
+    <path fill="#ECECEC" d="M7,20 L32,20 L32,49.9997876 C32,52.2090439 30.2020617,54 27.9971835,54 L7,54 L7,20 Z" transform="matrix(-1 0 0 1 39 0)"/>
+    <polygon fill="#979797" points="1 21 7 21 7 27 1 25"/>
+    <polygon fill="#979797" points="57 21 63 21 63 25 57 27"/>
+    <rect width="8" height="4" x="28" y="4" fill="#D8D8D8"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M27,4 L37,4"/>
+  </g>
+</svg>

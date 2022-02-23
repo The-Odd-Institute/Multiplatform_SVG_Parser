@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="hexagon-a" points="27 0 53.73 19.42 43.52 50.843 10.48 50.843 .27 19.42"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(6 6)">
+    <mask id="hexagon-b" fill="#fff">
+      <use xlink:href="#hexagon-a"/>
+    </mask>
+    <use fill="#FFAF40" xlink:href="#hexagon-a"/>
+    <rect width="39" height="60" x="27" y="-2" fill="#FFDD95" mask="url(#hexagon-b)"/>
+  </g>
+</svg>

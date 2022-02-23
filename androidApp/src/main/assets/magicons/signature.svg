@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="signature-a" points="4.5 0 9 10 0 10"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#595959" d="M7.10517764,39.9436912 C7.37354539,38.8702202 8.4834157,38 9.58795205,38 L54.5942488,38 C55.6970795,38 56.8081883,38.8683514 57.0770233,39.9436912 L62.1051776,60.0563088 C62.3735454,61.1297798 61.7052712,62 60.596202,62 L3.58599885,62 C2.48424688,62 1.80818828,61.1316486 2.07702325,60.0563088 L7.10517764,39.9436912 Z"/>
+    <polygon fill="#B4DFFB" points="10.6 40.974 53.604 40.974 57.083 57.041 7.099 57.041"/>
+    <polygon fill="#4796E7" points="19.187 43.041 44.005 43.041 46.596 53.041 16.596 53.041"/>
+    <g transform="rotate(90 15.5 20.5)">
+      <path fill="#FB3A3A" d="M12.5,-12.5 L21.5,-12.5 L21.5,17.0026101 C21.5,19.4864499 19.4802243,21.5 17,21.5 L17,21.5 C14.5147186,21.5 12.5,19.4875399 12.5,17.0026101 L12.5,-12.5 Z" transform="rotate(90 17 4.5)"/>
+      <g transform="rotate(90 22 22)">
+        <mask id="signature-b" fill="#fff">
+          <use xlink:href="#signature-a"/>
+        </mask>
+        <use fill="#D3B288" xlink:href="#signature-a"/>
+        <path fill="#FB3A3A" d="M4.5,0 L6.5530501,4.1061002 C6.79989371,4.59978743 6.55628335,5 6.00019251,5 L2.99980749,5 C2.44762906,5 2.19617081,4.60765839 2.4469499,4.1061002 L4.5,0 Z" mask="url(#signature-b)"/>
+      </g>
+      <path stroke="#FF8E8E" stroke-linecap="round" stroke-width="2" d="M17.5,-9.5 L17.5,18.5" transform="rotate(90 18 4.5)"/>
+    </g>
+  </g>
+</svg>

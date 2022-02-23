@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>treeforest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Triangle" fill="#80D25B" points="15.5 11 26 31 5 31"></polygon>
+        <polygon id="Triangle-Copy" fill="#80D25B" points="15.5 23 26 43 5 43"></polygon>
+        <polygon id="Triangle-Copy-2" fill="#80D25B" points="15.5 35 26 55 5 55"></polygon>
+        <rect id="Rectangle-19" fill="#BD7575" x="13" y="55" width="5" height="9"></rect>
+        <polygon id="Triangle-Copy-5" fill="#80D25B" points="38.5 1 49 21 28 21"></polygon>
+        <polygon id="Triangle-Copy-4" fill="#80D25B" points="38.5 13 49 33 28 33"></polygon>
+        <polygon id="Triangle-Copy-3" fill="#80D25B" points="38.5 25 49 45 28 45"></polygon>
+        <rect id="Rectangle-19-Copy" fill="#BD7575" x="36" y="45" width="5" height="9"></rect>
+        <polygon id="Triangle-Copy-8" fill="#22BA8E" points="48.5 10 59 30 38 30"></polygon>
+        <polygon id="Triangle-Copy-7" fill="#22BA8E" points="48.5 22 59 42 38 42"></polygon>
+        <polygon id="Triangle-Copy-6" fill="#22BA8E" points="48.5 34 59 54 38 54"></polygon>
+        <rect id="Rectangle-19-Copy-2" fill="#BD7575" x="46" y="54" width="5" height="9"></rect>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>mountainslandscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="21.5 0 43 52 0 52"></polygon>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Triangle-13" fill="#BD7575" points="14 27 28 61 0 61"></polygon>
+        <g id="Path-42" transform="translate(14.000000, 9.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#AB5F5F" xlink:href="#path-1"></use>
+            <path d="M13.3076207,10.5857842 C14.2440205,11.4356519 18.9869448,17.2637581 18.9869448,17.2637581 L20.6204569,14.3556651 L22.9426929,17.4853859 L26.6728398,11.7892852 L25.1625034,-2.04567891 L16.9406399,0.554254195 C16.9406399,0.554254195 12.371221,9.73591642 13.3076207,10.5857842 Z" fill="#D8D8D8" mask="url(#mask-2)"></path>
+        </g>
+        <circle id="Oval-81" fill="#FCC24C" cx="14" cy="13" r="7"></circle>
+        <path d="M42,8.48659971 C42,8.48659971 45.8125963,5.11708767 49.2004721,8.52379807 C49.2004721,8.52379807 53.0234274,6.28954225 54.8367296,9.62844805" id="Path-43" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M50,14.4865997 C50,14.4865997 53.8125963,11.1170877 57.2004721,14.5237981 C57.2004721,14.5237981 61.0234274,12.2895423 62.8367296,15.628448" id="Path-43-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M45,20.1723757 C45,20.1723757 48.8125963,16.8028636 52.2004721,20.209574 C52.2004721,20.209574 56.0234274,17.9753182 57.8367296,21.314224" id="Path-43-Copy-2" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

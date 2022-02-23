@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>rubgyball</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M37.5,70 C43.7978947,70 58,55.4492544 58,37.5 C58,19.5507456 44.0774115,5 37.5,5 C30.9225885,5 17,19.5507456 17,37.5 C17,55.4492544 31.2021053,70 37.5,70 Z" id="path-1"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(-5.000000, -6.000000)">
+            <g id="Oval-54">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#9C4D4D" transform="translate(37.500000, 37.500000) rotate(-315.000000) translate(-37.500000, -37.500000) " xlink:href="#path-1"></use>
+                <circle fill="#BD7575" mask="url(#mask-2)" cx="37" cy="37" r="25"></circle>
+            </g>
+            <path d="M36.8535534,51.3535534 L36.8535534,25.2767438" id="Line" stroke="#9C4D4D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(37.353553, 37.853553) rotate(-315.000000) translate(-37.353553, -37.853553) "></path>
+            <path d="M37.5961941,32.9038059 L45.5961941,32.9038059" id="Line" stroke="#9C4D4D" stroke-width="2" stroke-linecap="square" transform="translate(41.596194, 32.903806) rotate(-315.000000) translate(-41.596194, -32.903806) "></path>
+            <path d="M34.767767,35.732233 L42.767767,35.732233" id="Line-Copy-67" stroke="#9C4D4D" stroke-width="2" stroke-linecap="square" transform="translate(38.767767, 35.732233) rotate(-315.000000) translate(-38.767767, -35.732233) "></path>
+            <path d="M31.9393398,38.5606602 L39.9393398,38.5606602" id="Line-Copy-68" stroke="#9C4D4D" stroke-width="2" stroke-linecap="square" transform="translate(35.939340, 38.560660) rotate(-315.000000) translate(-35.939340, -38.560660) "></path>
+            <path d="M29.1109127,41.3890873 L37.1109127,41.3890873" id="Line-Copy-69" stroke="#9C4D4D" stroke-width="2" stroke-linecap="square" transform="translate(33.110913, 41.389087) rotate(-315.000000) translate(-33.110913, -41.389087) "></path>
+            <path d="M26.2824856,44.2175144 L34.2824856,44.2175144" id="Line-Copy-70" stroke="#9C4D4D" stroke-width="2" stroke-linecap="square" transform="translate(30.282486, 44.217514) rotate(-315.000000) translate(-30.282486, -44.217514) "></path>
+        </g>
+    </g>
+</svg>

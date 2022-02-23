@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#ECECEC" points="12 3 41.105 3 53 14.753 53 62 12 62"/>
+    <path fill="#5EA7FF" d="M33.8063492,37.5390579 L40.0563492,38.9693927 L32.5563492,20.0563492 L25.0563492,38.9693927 L31.3063492,37.5390579 L31.3063492,49.0563492 L33.8063492,49.0563492 L33.8063492,37.5390579 Z" transform="rotate(-45 32.556 34.556)"/>
+    <polygon fill="#D8D8D8" points="41 3 53 3 53 15" transform="rotate(-180 47 9)"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="restaurant8-copy-8-a" d="M25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 C38.8071187,50 50,38.8071187 50,25 L25,25 L25,0 Z"/>
+    <path id="restaurant8-copy-8-c" d="M25,25 C25,11.1928813 13.8071187,0 0,0 L0,25 L25,25 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(3 12)">
+      <mask id="restaurant8-copy-8-b" fill="#fff">
+        <use xlink:href="#restaurant8-copy-8-a"/>
+      </mask>
+      <use fill="#FFDD95" xlink:href="#restaurant8-copy-8-a"/>
+      <circle cx="25" cy="25" r="20" fill="#ED9111" mask="url(#restaurant8-copy-8-b)"/>
+    </g>
+    <circle cx="32" cy="49" r="4" fill="#E43535"/>
+    <circle cx="21" cy="26" r="3" fill="#E43535"/>
+    <circle cx="19" cy="47" r="3" fill="#E43535"/>
+    <g transform="translate(31 9)">
+      <mask id="restaurant8-copy-8-d" fill="#fff">
+        <use xlink:href="#restaurant8-copy-8-c"/>
+      </mask>
+      <use fill="#FFDD95" xlink:href="#restaurant8-copy-8-c"/>
+      <circle cy="25" r="20" fill="#ED9111" mask="url(#restaurant8-copy-8-d)"/>
+    </g>
+    <circle cx="42" cy="28" r="3" fill="#E43535"/>
+    <circle cx="15" cy="35" r="2" fill="#E43535"/>
+    <circle cx="24" cy="38" r="2" fill="#E43535"/>
+    <path stroke="#ECECEC" stroke-linecap="round" stroke-width="2" d="M39.539186 43.2158758C39.539186 43.2158758 39.3676688 41.7404507 35.2765116 42.4781633M28.0992874 41.3639549C28.0992874 41.3639549 25.8948128 42.6043216 25.8786785 44.1558503M21.5632426 52.0191896C21.5632426 52.0191896 23.7841807 50.4123433 25.2494401 52.0540924M12.9689199 40.8111075C12.9689199 40.8111075 16.8046069 40.122271 17.7858368 41.1924043"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-width="2" d="M19.890542 32.6754605C19.890542 32.6754605 15.5797159 32.3725304 15.6580825 28.6830402M38.3934749 25C38.3934749 25 35.1152451 26.2400375 35 27.7438217"/>
+    <path stroke="#ECECEC" stroke-linecap="round" stroke-width="2" d="M33.953081,17.4120672 C33.953081,17.4120672 35.9106018,16.3498365 37.5158017,19.1621467"/>
+  </g>
+</svg>

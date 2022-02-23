@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="58" height="32" x="3" y="16" fill="#D8D8D8" rx="2" transform="rotate(90 32 32)"/>
+    <circle cx="32" cy="58" r="2" fill="#868686" transform="rotate(90 32 58)"/>
+    <rect width="49" height="28" x="7.5" y="16.5" fill="#0A3586" rx="1" transform="rotate(90 32 30.5)"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300">
+      <tspan x="25" y="35">kg</tspan>
+    </text>
+  </g>
+</svg>

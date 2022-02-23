@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="restaurant3-copy-a" d="M19,0 L36.4316906,45.6544278 C38.4024135,50.8158448 35.5251634,55 29.9933138,55 L8.00668621,55 C2.48014602,55 -0.404350566,50.8209181 1.56830937,45.6544278 L19,0 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(13 7)">
+      <mask id="restaurant3-copy-b" fill="#fff">
+        <use xlink:href="#restaurant3-copy-a"/>
+      </mask>
+      <use fill="#FCC24C" transform="matrix(1 0 0 -1 0 55)" xlink:href="#restaurant3-copy-a"/>
+      <circle cx="22" cy="17" r="6" fill="#E43535" mask="url(#restaurant3-copy-b)"/>
+      <circle cx="22.5" cy="37.5" r="4.5" fill="#E43535" mask="url(#restaurant3-copy-b)"/>
+      <circle cx="7" cy="25" r="6" fill="#E43535" mask="url(#restaurant3-copy-b)"/>
+    </g>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-width="8" d="M49.3553391,13.3223305 C44.8312289,8.79822031 38.5812289,6 31.6776695,6 C24.7741102,6 18.5241102,8.79822031 14,13.3223305"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-width="2" d="M29.9082472 14.986472C29.9082472 14.986472 31.5568092 18.6252248 25.0794036 20.0756963M29.5472736 34.5943393C29.5472736 34.5943393 32.2876549 31.4423011 35.3077617 33.8963797M28.6988117 40.9641879C28.6988117 40.9641879 27.1578066 46.9142548 28.8489271 47.8749165M38.5700651 15.3687249C38.5700651 15.3687249 43.2515015 15.3195891 44.0678511 17.5995647M21.7292749 17.1383852C21.7292749 17.1383852 19.9429781 15.6890744 19.6922698 19.6853187"/>
+  </g>
+</svg>

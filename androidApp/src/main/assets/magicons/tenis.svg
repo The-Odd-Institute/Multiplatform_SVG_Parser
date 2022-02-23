@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tenis</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval-25" stroke="#979797" stroke-width="2" stroke-linecap="round" cx="22" cy="19" rx="14" ry="17"></ellipse>
+        <path d="M18,3 L18,29.0249844" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M14,12 L30,12" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M14,19 L30,19" id="Line-Copy-19" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M14,26 L30,26" id="Line-Copy-20" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M26,4 L26,29.0249844" id="Line-Copy-18" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M20.851389,43.4433252 C20.851389,43.4433252 15.4443282,34.4555619 13,32" id="Path-17" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M30.851389,43.4433252 C30.851389,43.4433252 25.4443282,34.4555619 23,32" id="Path-17-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(26.925694, 37.721663) scale(-1, 1) translate(-26.925694, -37.721663) "></path>
+        <rect id="Rectangle-55" fill="#D650C7" x="19" y="43" width="6" height="20"></rect>
+        <circle id="Oval-26" fill="#80D25B" cx="50.5" cy="32.5" r="6.5"></circle>
+    </g>
+</svg>

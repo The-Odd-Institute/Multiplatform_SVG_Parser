@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>doubletir</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13-Copy" transform="translate(33.000000, 30.500000) rotate(-315.000000) translate(-33.000000, -30.500000) translate(26.000000, -6.000000)">
+            <path d="M7,51 L7,0.910080855" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14,58 C14,54.1340068 10.8659932,51 7,51 C3.13400675,51 0,54.1340068 0,58 L14,58 Z" id="Oval-101" fill="#E43535"></path>
+            <path d="M4,58 L10,58 L10,70.0005775 C10,71.6571128 8.65348288,73 7,73 L7,73 C5.34314575,73 4,71.6556493 4,70.0005775 L4,58 Z" id="Rectangle-208" fill="#325AA6"></path>
+        </g>
+        <g id="Group-13-Copy-2" transform="translate(33.000000, 30.500000) rotate(-45.000000) translate(-33.000000, -30.500000) translate(26.000000, -6.000000)">
+            <path d="M7,51 L7,0.910080855" id="Line" stroke="#D8D8D8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14,58 C14,54.1340068 10.8659932,51 7,51 C3.13400675,51 -3.63797881e-12,54.1340068 -3.63797881e-12,58 L14,58 Z" id="Oval-101" fill="#80D25B"></path>
+            <path d="M4,58 L10,58 L10,70.0005775 C10,71.6571128 8.65348288,73 7,73 L7,73 C5.34314575,73 4,71.6556493 4,70.0005775 L4,58 Z" id="Rectangle-208" fill="#325AA6"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#4796E7" d="M9,4.99649128 C9,3.89385959 9.89339733,3 10.9918842,3 L22.0081158,3 C23.1082031,3 24,3.88783214 24,4.99649128 L24,61 L9,61 L9,4.99649128 Z"/>
+    <path stroke="#DFCC00" stroke-linecap="square" stroke-width="2" d="M13 36L20 36M13 40L20 40M13 44L20 44"/>
+    <circle cx="16.5" cy="17.5" r="4.5" fill="#325AA6"/>
+    <path fill="#FF78C7" d="M24,4.99649128 C24,3.89385959 24.8933973,3 25.9918842,3 L37.0081158,3 C38.1082031,3 39,3.88783214 39,4.99649128 L39,61 L24,61 L24,4.99649128 Z"/>
+    <path stroke="#DFCC00" stroke-linecap="square" stroke-width="2" d="M28 36L35 36M28 40L35 40M28 44L35 44"/>
+    <path fill="#5DAF38" d="M39,4.99649128 C39,3.89385959 39.8933973,3 40.9918842,3 L52.0081158,3 C53.1082031,3 54,3.88783214 54,4.99649128 L54,61 L39,61 L39,4.99649128 Z"/>
+    <circle cx="31.5" cy="17.5" r="4.5" fill="#325AA6"/>
+    <path stroke="#DFCC00" stroke-linecap="square" stroke-width="2" d="M43 36L50 36M43 40L50 40M43 44L50 44"/>
+    <circle cx="46.5" cy="17.5" r="4.5" fill="#325AA6"/>
+  </g>
+</svg>

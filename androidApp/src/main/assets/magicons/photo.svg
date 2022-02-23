@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <rect id="photo-a" width="50" height="31"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="58" height="49" x="3" y="7" fill="#D8D8D8" rx="4"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M8 46L23 46M47 46L56 46M8 50L18 50"/>
+    <g transform="translate(7 11)">
+      <mask id="photo-b" fill="#fff">
+        <use xlink:href="#photo-a"/>
+      </mask>
+      <use fill="#5EA7FF" xlink:href="#photo-a"/>
+      <circle cx="19" cy="15" r="7" fill="#FCC24C" mask="url(#photo-b)"/>
+      <polygon fill="#9C4D4D" points="-9.373 18.153 8.112 9.927 24.378 25.33 36.225 14.212 66.095 33.59 52.006 55.627 -13.868 51.642" mask="url(#photo-b)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="64" height="44" y="8" fill="#595959"/>
+    <rect width="23" height="38" x="41" y="14" fill="#D8D8D8"/>
+    <rect width="19" height="6" x="43" y="17" fill="#E43535"/>
+    <polygon fill="#BD7575" points="43 25 51 25 51 36 43 36"/>
+    <polygon fill="#22BA8E" points="54 25 62 25 62 36 54 36"/>
+    <polygon fill="#FFAF40" points="43 39 51 39 51 50 43 50"/>
+    <polygon fill="#80D25B" points="54 39 62 39 62 50 54 50"/>
+    <path stroke="#80D25B" stroke-linecap="square" stroke-width="2" d="M4,23 L10,23"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M4,31 L14,31"/>
+    <path stroke="#80D25B" stroke-linecap="square" stroke-width="2" d="M18 31L30 31M4 27L26 27"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M14,23 L33,23"/>
+    <path stroke="#E43535" stroke-linecap="square" stroke-width="2" d="M4,35 L10,35"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M4,43 L14,43"/>
+    <path stroke="#FFC05F" stroke-linecap="square" stroke-width="2" d="M18,43 L30,43"/>
+    <path stroke="#E43535" stroke-linecap="square" stroke-width="2" d="M4,39 L26,39"/>
+    <path stroke="#FFC05F" stroke-linecap="square" stroke-width="2" d="M14,35 L23,35"/>
+    <rect width="64" height="7" y="7" fill="#ECECEC"/>
+    <circle cx="3.5" cy="10.5" r="1.5" fill="#E43535"/>
+    <circle cx="8.5" cy="10.5" r="1.5" fill="#FFC05F"/>
+    <circle cx="13.5" cy="10.5" r="1.5" fill="#80D25B"/>
+  </g>
+</svg>

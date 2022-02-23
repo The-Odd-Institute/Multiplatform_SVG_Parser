@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>woodhouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-45" fill="#BD7575" points="10 22 32 11.0330945 54 22 54 60 10 60"></polygon>
+        <path d="M10,29 L21.0432357,29 C21.5991876,29 22.0498756,28.5561352 22.0498756,28 L22.0498756,28 C22.0498756,27.4477153 21.5922204,27 21.0432357,27 L10,27 L10,29 Z" id="Line" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M15,19 L26.0432357,19 C26.5991876,19 27.0498756,18.5561352 27.0498756,18 L27.0498756,18 C27.0498756,17.4477153 26.5922204,17 26.0432357,17 L15,17 L15,19 Z" id="Line-Copy-16" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M10,34 L15.9970707,34 C16.5509732,34 17,33.5561352 17,33 L17,33 C17,32.4477153 16.5621186,32 15.9970707,32 L10,32 L10,34 Z" id="Line-Copy-10" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M11,24 L16.9970707,24 C17.5509732,24 18,23.5561352 18,23 L18,23 C18,22.4477153 17.5621186,22 16.9970707,22 L11,22 L11,24 Z" id="Line-Copy-15" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M10,39 L21.0432357,39 C21.5991876,39 22.0498756,38.5561352 22.0498756,38 L22.0498756,38 C22.0498756,37.4477153 21.5922204,37 21.0432357,37 L10,37 L10,39 Z" id="Line-Copy-11" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M10,44 L19.0046024,44 C19.5543453,44 20,43.5561352 20,43 L20,43 C20,42.4477153 19.5443356,42 19.0046024,42 L10,42 L10,44 Z" id="Line-Copy-12" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <rect id="Rectangle-48" fill="#BD7575" x="42" y="8" width="7" height="14"></rect>
+        <path d="M10,49 L17.0029699,49 C17.5536144,49 18,48.5561352 18,48 L18,48 C18,47.4477153 17.5469637,47 17.0029699,47 L10,47 L10,49 Z" id="Line-Copy-13" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <path d="M10,54 L18.0024554,54 C18.553384,54 19,53.5561352 19,53 L19,53 C19,52.4477153 18.5536886,52 18.0024554,52 L10,52 L10,54 Z" id="Line-Copy-14" fill="#9C4D4D" fill-rule="nonzero"></path>
+        <polygon id="Line" fill="#E43535" fill-rule="nonzero" points="57.7293014 26.7354349 59.7454339 23.2806976 32.0049995 7.0917997 4.26456512 23.2806976 6.28069756 26.7354349 32.0049995 11.7231214"></polygon>
+        <rect id="Rectangle-46" fill="#9C4D4D" x="25" y="45" width="14" height="15"></rect>
+        <path d="M37,51 L37,54" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <rect id="Rectangle-47" fill="#FCC24C" x="27" y="27" width="10" height="10"></rect>
+        <path d="M32,27 L32,37" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

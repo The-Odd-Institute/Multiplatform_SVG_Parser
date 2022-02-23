@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>holeflag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval-51" fill="#80D25B" cx="18" cy="58" rx="10" ry="3"></ellipse>
+        <rect id="Rectangle-99" fill="#9C4D4D" x="16" y="2" width="4" height="57"></rect>
+        <path d="M53,19.5 C53,19.5 47.505411,20.8629421 42.421284,23.7013204 C37.3371571,26.5396988 34.0437744,30.4098131 31.1811355,31.6676393 C24.1451314,34.7592169 20,34 20,34 L20,5 C20,5 25.6790935,9.44951874 29.2138581,11.0238899 C33.8657503,13.0958255 38.2011921,13.1568871 43.0484887,14.8616078 C47.8957853,16.5663285 53,19.5 53,19.5 Z" id="Triangle-8" fill="#E43535"></path>
+    </g>
+</svg>

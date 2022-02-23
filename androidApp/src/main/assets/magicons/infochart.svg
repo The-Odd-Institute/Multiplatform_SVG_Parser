@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <circle id="infochart-a" cx="10" cy="10" r="10"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#D8D8D8" d="M31,7.50247397 C31,6.67268051 31.6657972,6 32.5,6 L32.5,6 C33.3284271,6 34,6.67854309 34,7.50247397 L34,54 L31,54 L31,7.50247397 Z"/>
+    <rect width="64" height="5" x="1" y="10" fill="#325AA6" rx="2"/>
+    <path fill="#B4DFFB" d="M4,15 L61,15 L61,46.0021074 C61,48.2100825 59.1999609,50 56.9918707,50 L8.00812931,50 C5.79450062,50 4,48.2162267 4,46.0021074 L4,15 Z"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M32 22L53.023796 22M32 32L53.023796 32M11 43L32.023796 43M37 43L53 43M32 27L41 27M46 27L55 27"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M32.7242161,53 L23,60.2163054"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M41.7242161,53 L32,60.2163054" transform="matrix(-1 0 0 1 73.724 0)"/>
+    <g transform="translate(8 18)">
+      <mask id="infochart-b" fill="#fff">
+        <use xlink:href="#infochart-a"/>
+      </mask>
+      <use fill="#22BA8E" xlink:href="#infochart-a"/>
+      <polygon fill="#F53B3E" points="10.025 21.377 10.025 10.131 17.881 20.74" mask="url(#infochart-b)"/>
+      <polygon fill="#FFAF40" points="10 10 22.901 10.217 15.758 19.589" mask="url(#infochart-b)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(5 2)">
+      <rect width="6.828" height="12" x="9.444" y="38.142" fill="#BD7575" transform="rotate(45 12.858 44.142)"/>
+      <polygon fill="#B4DFFB" points="29.132 6.954 36.132 -1.046 43.132 6.954 41.132 42.782 31.132 42.782" transform="rotate(45 36.132 20.868)"/>
+      <path stroke="#5EA7FF" stroke-linecap="round" d="M34.5,42.5829641 L34.5,3.00908946" transform="rotate(45 34.5 22.883)"/>
+      <ellipse cx="7.201" cy="49.799" fill="#9C4D4D" rx="6" ry="4" transform="rotate(45 7.201 49.799)"/>
+      <rect width="20" height="5" x="8.868" y="35.632" fill="#9C4D4D" transform="rotate(45 18.868 38.132)"/>
+    </g>
+    <g transform="matrix(-1 0 0 1 62 2)">
+      <rect width="6.828" height="12" x="9.444" y="38.142" fill="#BD7575" transform="rotate(45 12.858 44.142)"/>
+      <polygon fill="#B4DFFB" points="29.132 6.954 36.132 -1.046 43.132 6.954 41.132 42.782 31.132 42.782" transform="rotate(45 36.132 20.868)"/>
+      <path stroke="#5EA7FF" stroke-linecap="round" d="M34.5,42.5829641 L34.5,3.00908946" transform="rotate(45 34.5 22.883)"/>
+      <ellipse cx="7.201" cy="49.799" fill="#9C4D4D" rx="6" ry="4" transform="rotate(45 7.201 49.799)"/>
+      <rect width="20" height="5" x="8.868" y="35.632" fill="#9C4D4D" transform="rotate(45 18.868 38.132)"/>
+    </g>
+  </g>
+</svg>

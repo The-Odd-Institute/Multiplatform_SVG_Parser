@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>golfterrain</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30.5,60 C36.3935088,60 40.6556329,56.9869307 45.0951082,55.3253279 C49.5345835,53.6637251 57.508756,54.7284813 57.508756,50.0523882 C57.508756,42.3204017 45.4116882,32 30.5,32 C15.5883118,32 3.5,38.2680135 3.5,46 C3.5,50.6037396 11.6051125,51.5126426 18.2204849,54.0643055 C24.8358574,56.6159684 24.4669524,60 30.5,60 Z" id="Oval-64" fill="#80D25B"></path>
+        <path d="M49,46 L49,4.98780669" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Triangle-10" fill="#E43535" points="30 12.5 47 6 47 19"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="60" height="30" x="2" y="16" fill="#ECECEC"/>
+    <rect width="10" height="10" x="2" y="16" fill="#ECECEC"/>
+    <rect width="10" height="10" x="12" y="16" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="22.182" y="16" fill="#ECECEC"/>
+    <rect width="10" height="10" x="32.182" y="16" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="42.182" y="16" fill="#979797"/>
+    <rect width="10" height="10" x="52" y="16" fill="#595959"/>
+    <rect width="10" height="10" x="12" y="26" fill="#ECECEC"/>
+    <rect width="10" height="10" x="22" y="26" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="32.182" y="26" fill="#ECECEC"/>
+    <rect width="10" height="10" x="42.182" y="26" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="52" y="26" fill="#979797"/>
+    <rect width="10" height="10" x="2" y="26" fill="#979797"/>
+    <rect width="10" height="10" x="22" y="36" fill="#ECECEC"/>
+    <rect width="10" height="10" x="32" y="36" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="42.182" y="36" fill="#ECECEC"/>
+    <rect width="10" height="10" x="52" y="36" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="11.83" y="36" fill="#979797"/>
+    <rect width="10" height="10" x="2" y="36" fill="#595959"/>
+  </g>
+</svg>

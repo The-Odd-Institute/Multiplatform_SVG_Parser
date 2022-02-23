@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>baseballset</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7" cy="7" r="7"></circle>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,39 L57.8126332,36.3383065 C60.6775368,36.151465 63,38.3328171 63,41.1939882 L63,41.8060118 C63,44.6745723 60.6714943,46.8481409 57.8126332,46.6616935 L17,44 L17,39 Z" id="Rectangle-66" fill="#BD7575"></path>
+        <polygon id="Rectangle-67" fill="#9C4D4D" points="0 37 6 38 6 45 0 46"></polygon>
+        <rect id="Rectangle-68" fill="#BD7575" x="6" y="39" width="11" height="5"></rect>
+        <path d="M17,40 L17,43.1231056" id="Line" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M10,40 L10,43.1231056" id="Line-Copy-22" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <g id="Oval-33-+-Oval-33-Copy-Mask" transform="translate(24.000000, 15.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#ED9111" xlink:href="#path-1"></use>
+            <circle id="Oval-33" stroke="#FCC24C" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)" cx="14" cy="7" r="6"></circle>
+            <circle id="Oval-33-Copy" stroke="#FCC24C" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)" cx="-2" cy="7" r="6"></circle>
+        </g>
+    </g>
+</svg>

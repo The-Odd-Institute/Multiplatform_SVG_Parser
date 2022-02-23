@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="mushroom-a" d="M25.5,43.1215999 C39.5832611,43.1215999 51,44.7127946 51,31.1818182 C51,17.6508418 39.5832611,0 25.5,0 C11.4167389,0 0,17.6508418 0,31.1818182 C0,44.7127946 11.4167389,43.1215999 25.5,43.1215999 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(6 5)">
+      <mask id="mushroom-b" fill="#fff">
+        <use xlink:href="#mushroom-a"/>
+      </mask>
+      <use fill="#E43535" xlink:href="#mushroom-a"/>
+      <circle cx="4" cy="15" r="10" fill="#ECECEC" mask="url(#mushroom-b)"/>
+      <circle cx="47" cy="15" r="10" fill="#ECECEC" mask="url(#mushroom-b)"/>
+    </g>
+    <circle cx="31.5" cy="30.5" r="7.5" fill="#D8D8D8"/>
+    <path fill="#FCC24C" d="M16,45 L47,45 L47,52.9924559 C47,55.7580461 44.7705564,58 42.002098,58 L20.997902,58 C18.237637,58 16,55.7652203 16,52.9924559 L16,45 Z"/>
+    <path stroke="#0A3586" stroke-linecap="round" stroke-width="2" d="M25 49L25 53M38 49L38 53"/>
+  </g>
+</svg>

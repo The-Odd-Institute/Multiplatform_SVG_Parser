@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#80D25B" points="11 2 40.105 2 52 13.753 52 61 11 61"/>
+    <rect width="33" height="18" x="11" y="25" fill="#ECECEC"/>
+    <polygon fill="#22BA8E" points="40 2 52 2 52 14" transform="rotate(-180 46 8)"/>
+    <text fill="#5B68C0" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300">
+      <tspan x="13" y="39">green</tspan>
+    </text>
+  </g>
+</svg>

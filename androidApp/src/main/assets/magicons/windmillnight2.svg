@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M11,31.0053227 C11,27.6886745 13.6827759,25 16.9981851,25 L19.0018149,25 C22.314521,25 25,27.6764399 25,31.0053227 L25,61 L11,61 L11,31.0053227 Z"/>
+    <path stroke="#BD7575" stroke-linecap="square" stroke-width="2" d="M18,25 L18,15.7804555"/>
+    <g transform="rotate(-45 12.364 -6.293)">
+      <rect width="4" height="9" fill="#5B68C0"/>
+      <rect width="4" height="9" y="15" fill="#5B68C0"/>
+      <path stroke="#0A3586" stroke-linecap="square" stroke-width="2" d="M2,16 L2,8"/>
+    </g>
+    <g transform="rotate(-135 10.393 9.678)">
+      <rect width="4" height="9" fill="#5B68C0"/>
+      <rect width="4" height="9" y="15" fill="#5B68C0"/>
+      <path stroke="#0A3586" stroke-linecap="square" stroke-width="2" d="M2,16 L2,8"/>
+    </g>
+    <rect width="6" height="9" x="15" y="52" fill="#5EA7FF"/>
+    <path fill="#5EA7FF" d="M14,32.9999433 C14,30.7908356 15.7953562,29 18,29 L18,29 C20.209139,29 22,30.7996535 22,32.9999433 L22,38 L14,38 L14,32.9999433 Z"/>
+    <path stroke="#0A3586" stroke-linecap="square" stroke-width="2" d="M2 61L62.0333241 61M52 48L52 60"/>
+    <path fill="#0A3586" d="M52,49 C55.8659932,49 59,47.7916306 59,40.75 C59,33.7083694 55.8659932,25 52,25 C48.1340068,25 45,33.7083694 45,40.75 C45,47.7916306 48.1340068,49 52,49 Z"/>
+    <path stroke="#0A3586" stroke-linecap="square" stroke-width="2" d="M43,48 L43,60"/>
+    <path fill="#5B68C0" d="M43,52 C46.8659932,52 50,50.7916306 50,43.75 C50,36.7083694 46.8659932,28 43,28 C39.1340068,28 36,36.7083694 36,43.75 C36,50.7916306 39.1340068,52 43,52 Z"/>
+  </g>
+</svg>

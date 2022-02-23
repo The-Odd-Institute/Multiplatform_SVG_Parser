@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="12.5" cy="35.5" r="3.5" fill="#22BA8E"/>
+    <circle cx="12.5" cy="16.5" r="8.5" fill="#80D25B"/>
+    <circle cx="32.5" cy="16.5" r="8.5" fill="#80D25B"/>
+    <circle cx="52.5" cy="16.5" r="8.5" fill="#80D25B"/>
+    <circle cx="32.5" cy="35.5" r="3.5" fill="#F5413E"/>
+    <circle cx="52.5" cy="35.5" r="3.5" fill="#80D25B"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M5 45L20 45M25 45L40 45M7 49L18 49M27 49L38 49M7 53L18 53M27 53L38 53M45 45L60 45M47 49L58 49M47 53L58 53"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="9 18.101 12.296 20.671 16.177 13"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="29 18.101 32.296 20.671 36.177 13"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48.823 18.101 52.119 20.671 56 13"/>
+  </g>
+</svg>

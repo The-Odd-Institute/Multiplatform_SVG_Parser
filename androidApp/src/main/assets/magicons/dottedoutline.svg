@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M17,32 L49,32"/>
+    <polygon stroke="#5B68C0" stroke-dasharray="4 4" stroke-linecap="round" stroke-width="2" points="7 6 59 6 59 58 7 58"/>
+    <polygon fill="#D8D8D8" points="8 32 20 26 20 38"/>
+    <polygon fill="#D8D8D8" points="46 32 58 26 58 38" transform="matrix(-1 0 0 1 104 0)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(90 21.5 41.5)">
+      <path fill="#FCC24C" d="M6,24 C8.209139,24 10,18.627417 10,12 C10,5.372583 6,0 6,0 C6,0 2,5.372583 2,12 C2,18.627417 3.790861,24 6,24 Z"/>
+      <rect width="12" height="3" y="28" fill="#FCC24C"/>
+      <rect width="10" height="16" x="1" y="12" fill="#ED9111"/>
+    </g>
+    <path stroke="#FFDD95" stroke-linecap="square" stroke-width="2" d="M27 21L17 21M19 44L16 44M13 44L10 44M27 29L21 29M18 38L2 38"/>
+    <g transform="rotate(90 9 44)">
+      <path fill="#FCC24C" d="M6,24 C8.209139,24 10,18.627417 10,12 C10,5.372583 6,0 6,0 C6,0 2,5.372583 2,12 C2,18.627417 3.790861,24 6,24 Z"/>
+      <rect width="12" height="3" y="28" fill="#FCC24C"/>
+      <rect width="10" height="16" x="1" y="12" fill="#ED9111"/>
+    </g>
+  </g>
+</svg>

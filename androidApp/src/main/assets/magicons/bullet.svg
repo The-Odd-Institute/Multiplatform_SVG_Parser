@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FCC24C" d="M32,48 C36.418278,48 40,37.254834 40,24 C40,10.745166 32,0 32,0 C32,0 24,10.745166 24,24 C24,37.254834 27.581722,48 32,48 Z"/>
+    <rect width="24" height="6" x="20" y="56" fill="#FCC24C"/>
+    <rect width="18" height="32" x="23" y="24" fill="#ED9111"/>
+  </g>
+</svg>

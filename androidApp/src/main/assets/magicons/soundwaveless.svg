@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="36" cy="31" r="7" fill="#80D25B"/>
+    <circle cx="38" cy="31" r="15" stroke="#FFDD95" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="38" cy="31" r="10" stroke="#FFDD95" stroke-linecap="round" stroke-width="2"/>
+    <polygon fill="#5DAF38" points="12 31 40 4 40 58"/>
+    <path fill="#80D25B" d="M7,24.0095579 C7,21.7951402 8.78716697,20 11.0072357,20 L24,20 L24,42 L11.0072357,42 C8.79410055,42 7,40.1996477 7,37.9904421 L7,24.0095579 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="58" height="40" x="-6" y="11" fill="#D8D8D8" rx="2" transform="rotate(90 23 31)"/>
+    <circle cx="23" cy="57" r="2" fill="#868686" transform="rotate(90 23 57)"/>
+    <rect width="49" height="36" x="-1.5" y="11.5" fill="#9F5757" rx="1" transform="rotate(90 23 29.5)"/>
+    <rect width="8" height="26" x="19" y="16" fill="#80D25B"/>
+    <rect width="8" height="26" x="19" y="16" fill="#80D25B" transform="rotate(-90 23 29)"/>
+    <rect width="14" height="12" x="46.294" y="46.579" fill="#FFDD95" transform="rotate(-30 53.294 52.579)"/>
+    <path fill="#FFDD95" d="M40.4772413,34.6733938 L51.4771193,34.6733938 C53.1340409,34.6733938 54.4772413,36.0263193 54.4772413,37.6659335 L54.4772413,47.6832939 C54.4772413,50.43925 52.2418285,52.6733938 49.485215,52.6733938 L37.4746632,52.6733938 C36.3715176,52.6733938 35.4772413,51.780771 35.4772413,50.6783045 L35.4772413,36.919527 L35.4772413,24.1762166 C35.4772413,22.7939457 36.5869034,21.6733938 37.9772413,21.6733938 C39.3579532,21.6733938 40.4772413,22.7993744 40.4772413,24.1762166 L40.4772413,34.6733938 Z" transform="rotate(-30 44.977 37.173)"/>
+    <path stroke="#FFCC60" stroke-linecap="square" stroke-width="2" d="M42.1961524,37.3564065 L42.1961524,41.3564065" transform="rotate(-30 42.196 39.356)"/>
+    <path stroke="#FFCC60" stroke-linecap="square" stroke-width="2" d="M45.660254,35.3564065 L45.660254,39.3564065" transform="rotate(-30 45.66 37.356)"/>
+    <path stroke="#FFCC60" stroke-linecap="square" stroke-width="2" d="M49.1243557,33.3564065 L49.1243557,37.3564065" transform="rotate(-30 49.124 35.356)"/>
+  </g>
+</svg>

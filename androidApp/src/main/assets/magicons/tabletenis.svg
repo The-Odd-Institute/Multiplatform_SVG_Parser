@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tabletenis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,39.4432241 C5.54126951,37.326979 0,29.424803 0,20 C0,8.954305 7.61115925,0 17,0 C26.3888407,0 34,8.954305 34,20 C34,29.424803 28.4587305,37.326979 21,39.4432241 L21,50.9941413 C21,52.1019465 20.1132936,53 19.0018986,53 L14.9981014,53 C13.8945804,53 13,52.1029399 13,50.9941413 L13,39.4432241 Z" id="path-1"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-83" transform="translate(3.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#80D25B" xlink:href="#path-1"></use>
+            <rect fill="#595959" mask="url(#mask-2)" x="0" y="44" width="34" height="11"></rect>
+            <rect id="Rectangle-83-Copy" fill="#FCC24C" mask="url(#mask-2)" x="0" y="33" width="34" height="11"></rect>
+        </g>
+        <circle id="Oval-42" fill="#595959" cx="50.5" cy="41.5" r="5.5"></circle>
+        <path d="M50.5,38 C48.5670034,38 47,39.5670034 47,41.5" id="Oval-42-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

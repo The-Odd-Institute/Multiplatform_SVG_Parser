@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="bookpencil-a" points="4.5 0 9 10 0 10"/>
+    <path id="bookpencil-b" d="M6.75,5 L4.5,0 L2.25,5 L6.75,5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#6B6B6B" d="M-15.5,36.5 C-15.5,33.7385763 -13.2647111,31.5 -10.4924448,31.5 L31.5,31.5 L31.5,41.5 L-15.5,41.5 L-15.5,36.5 Z" transform="rotate(-90 8 36.5)"/>
+    <rect width="33" height="42" x="10" y="18" fill="#ED9111"/>
+    <path fill="#D0D0D0" d="M3,13 C3,10.2385763 5.23520515,8 8.00691225,8 L41,8 L41,18 L8.00691225,18 C5.24167097,18 3,15.7558048 3,13 L3,13 Z"/>
+    <path fill="#989898" fill-rule="nonzero" d="M8,14 L38,14 C38.5522847,14 39,13.5522847 39,13 C39,12.4477153 38.5522847,12 38,12 L8,12 C7.44771525,12 7,12.4477153 7,13 C7,13.5522847 7.44771525,14 8,14 Z"/>
+    <path fill="#957F62" d="M49,20 L58,20 L58,54.5071706 C58,56.9884918 55.9802243,59 53.5,59 L53.5,59 C51.0147186,59 49,56.9853149 49,54.5071706 L49,20 Z"/>
+    <g transform="translate(49 10)">
+      <use fill="#D3B288" xlink:href="#bookpencil-a"/>
+      <use fill="#957F62" xlink:href="#bookpencil-b"/>
+    </g>
+    <path fill="#D2B288" fill-rule="nonzero" d="M52,20 L52,58 C52,58.5522847 52.4477153,59 53,59 C53.5522847,59 54,58.5522847 54,58 L54,20 C54,19.4477153 53.5522847,19 53,19 C52.4477153,19 52,19.4477153 52,20 Z"/>
+  </g>
+</svg>

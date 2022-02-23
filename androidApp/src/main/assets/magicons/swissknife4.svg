@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swissknife4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-155" fill="#D8D8D8" x="50" y="27" width="4" height="23"></rect>
+        <path d="M48,38 L56,38" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M48,35 L56,35" id="Line-Copy-89" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M48,32 L56,32" id="Line-Copy-90" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M48,29 L56,29" id="Line-Copy-91" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M7,3 C7,3 12.0983757,4.09809682 15.9064669,14.601546 C17.1914793,18.1458577 18.1333874,25.0592057 18.1333874,30.5844467 L18.1333874,51 L7,51 L7,3 Z" id="Rectangle-150-Copy-2" fill="#D8D8D8"></path>
+        <path d="M3,49 L60,49 L60,55 C60,58.3137085 57.3082008,61 54.0077343,61 L8.99226572,61 C5.68282874,61 3,58.3069658 3,55 L3,49 Z" id="Rectangle-149-Copy-2" fill="#E43535"></path>
+        <circle id="Oval-78-Copy-5" fill="#FF78C7" cx="10" cy="55" r="2"></circle>
+        <circle id="Oval-78-Copy-4" fill="#FF78C7" cx="54" cy="55" r="2"></circle>
+        <path d="M10,13 L10,45" id="Line-Copy-88" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M18.1467473,36 L12,62.2748706"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M15,51 L32,51"/>
+    <circle cx="26" cy="51" r="3" fill="#D8D8D8"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M35.1467473,36 L29,62.2748706" transform="matrix(-1 0 0 1 64.147 0)"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M15 21L15 19M19 21L19 19M23 21L23 19M27 21L27 19M31 21L31 19"/>
+    <path fill="#D8D8D8" d="M11,21 L36,21 L36,29.5 C36,34.1944204 32.2030381,38 27.5012561,38 L19.4987439,38 C14.8050172,38 11,34.1848682 11,29.5 L11,21 Z"/>
+    <path fill="#D8D8D8" d="M33,4 L53,4 L53,11 C53,14.8659932 49.875,18 46.0049706,18 L39.9950294,18 C36.1317814,18 33,14.8581267 33,11 L33,4 Z" transform="rotate(-90 43 11)"/>
+  </g>
+</svg>

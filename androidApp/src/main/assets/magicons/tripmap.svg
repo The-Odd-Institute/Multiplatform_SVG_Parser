@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tripmap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-203" fill="#5395EA" points="4 14 18 9 18 56 4 61"></polygon>
+        <polygon id="Rectangle-203-Copy" fill="#B4DFFB" transform="translate(25.000000, 35.000000) scale(-1, 1) translate(-25.000000, -35.000000) " points="18 14 32 9 32 56 18 61"></polygon>
+        <rect id="Rectangle-204" fill="#5395EA" x="32" y="14" width="28" height="47"></rect>
+        <path d="M46,47.2670629 C44.1520524,47.2670629 38,38.418278 38,34 C38,29.581722 41.581722,26 46,26 C50.418278,26 54,29.581722 54,34 C54,38.418278 47.8479476,47.2670629 46,47.2670629 Z M46,36 C47.6568542,36 49,34.6568542 49,33 C49,31.3431458 47.6568542,30 46,30 C44.3431458,30 43,31.3431458 43,33 C43,34.6568542 44.3431458,36 46,36 Z" id="Combined-Shape" fill="#FCC24C"></path>
+    </g>
+</svg>

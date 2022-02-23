@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>shortpants</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31.0909091,46 L52,46 L48,0 L4,0 L0,46 L20.9090909,46 L26,30 L31.0909091,46 Z" id="path-1"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-186" fill="#595959" x="10" y="7" width="44" height="7"></rect>
+        <g id="Rectangle-188" transform="translate(6.000000, 14.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FCC24C" xlink:href="#path-1"></use>
+            <rect fill="#E43535" mask="url(#mask-2)" x="-3" y="37" width="57" height="13"></rect>
+        </g>
+        <path d="M18,15 L18,21.0827625" id="Line" stroke="#ED9111" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,15 L22,28" id="Line-Copy-128" stroke="#ED9111" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

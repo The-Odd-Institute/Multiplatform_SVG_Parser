@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>canoedouble</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval-8" fill="#5EA7FF" cx="32" cy="32" rx="10" ry="29"></ellipse>
+        <path d="M27,27.9900998 C27,25.2341438 29.2441952,23 32,23 L32,23 C34.7614237,23 37,25.2433178 37,27.9900998 L37,41 L27,41 L27,27.9900998 Z" id="Rectangle-16" fill="#325AA6"></path>
+        <g id="Group-3" transform="translate(2.000000, 2.000000)">
+            <path d="M3.77817459,4.77127685 C3.77817459,2.56594737 5.57353075,0.778174593 7.77817459,0.778174593 L7.77817459,0.778174593 C9.98731359,0.778174593 11.7781746,2.56550446 11.7781746,4.77127685 L11.7781746,14.7781746 L3.77817459,14.7781746 L3.77817459,4.77127685 Z" id="Rectangle-15" fill="#ED9111" transform="translate(7.778175, 7.778175) rotate(-45.000000) translate(-7.778175, -7.778175) "></path>
+            <path d="M12,12 L16,16" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+        <g id="Group-3-Copy-2" transform="translate(10.500000, 54.000000) scale(1, -1) translate(-10.500000, -54.000000) translate(2.000000, 46.000000)">
+            <path d="M3.77817459,4.77127685 C3.77817459,2.56594737 5.57353075,0.778174593 7.77817459,0.778174593 L7.77817459,0.778174593 C9.98731359,0.778174593 11.7781746,2.56550446 11.7781746,4.77127685 L11.7781746,14.7781746 L3.77817459,14.7781746 L3.77817459,4.77127685 Z" id="Rectangle-15" fill="#ED9111" transform="translate(7.778175, 7.778175) rotate(-45.000000) translate(-7.778175, -7.778175) "></path>
+            <path d="M12,12 L16,16" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+        <g id="Group-3-Copy" transform="translate(53.500000, 10.000000) scale(-1, 1) translate(-53.500000, -10.000000) translate(45.000000, 2.000000)">
+            <path d="M3.77817459,4.77127685 C3.77817459,2.56594737 5.57353075,0.778174593 7.77817459,0.778174593 L7.77817459,0.778174593 C9.98731359,0.778174593 11.7781746,2.56550446 11.7781746,4.77127685 L11.7781746,14.7781746 L3.77817459,14.7781746 L3.77817459,4.77127685 Z" id="Rectangle-15" fill="#ED9111" transform="translate(7.778175, 7.778175) rotate(-45.000000) translate(-7.778175, -7.778175) "></path>
+            <path d="M12,12 L16,16" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+        <g id="Group-3-Copy-3" transform="translate(53.500000, 54.000000) scale(-1, -1) translate(-53.500000, -54.000000) translate(45.000000, 46.000000)">
+            <path d="M3.77817459,4.77127685 C3.77817459,2.56594737 5.57353075,0.778174593 7.77817459,0.778174593 L7.77817459,0.778174593 C9.98731359,0.778174593 11.7781746,2.56550446 11.7781746,4.77127685 L11.7781746,14.7781746 L3.77817459,14.7781746 L3.77817459,4.77127685 Z" id="Rectangle-15" fill="#ED9111" transform="translate(7.778175, 7.778175) rotate(-45.000000) translate(-7.778175, -7.778175) "></path>
+            <path d="M12,12 L16,16" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

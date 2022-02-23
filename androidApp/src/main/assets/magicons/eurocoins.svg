@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="33" cy="44" r="20" fill="#FFDD95"/>
+    <circle cx="33" cy="36" r="20" fill="#FFAF40"/>
+    <circle cx="33" cy="29" r="20" fill="#FFDD95"/>
+    <circle cx="33" cy="22" r="20" fill="#FFAF40"/>
+    <text fill="#FFDD95" font-family="MarkerFelt-Thin, Marker Felt" font-size="34" font-weight="300">
+      <tspan x="20" y="34">€</tspan>
+    </text>
+  </g>
+</svg>

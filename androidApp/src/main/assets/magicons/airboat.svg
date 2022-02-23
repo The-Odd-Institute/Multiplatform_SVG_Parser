@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>airboat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-51" fill="#595959" x="20" y="8" width="26" height="47"></rect>
+        <rect id="Rectangle-52" fill="#979797" x="22" y="26" width="22" height="12"></rect>
+        <path d="M22,12.9977296 L22,50.0022704 C22,52.2107913 23.7881549,54 25.9933547,54 L40.0066453,54 C42.2120343,54 44,52.2108136 44,50.0022704 L44,12.9977296 C44,10.7892087 42.2118451,9 40.0066453,9 L25.9933547,9 C23.7879657,9 22,10.7891864 22,12.9977296 Z M16,12.9977296 C16,7.4763943 20.4733401,3 25.9933547,3 L40.0066453,3 C45.5263452,3 50,7.47629124 50,12.9977296 L50,50.0022704 C50,55.5236057 45.5266599,60 40.0066453,60 L25.9933547,60 C20.4736548,60 16,55.5237088 16,50.0022704 L16,12.9977296 Z" id="Rectangle-49" fill="#22BA8E" fill-rule="nonzero"></path>
+        <rect id="Rectangle-50" fill="#D8D8D8" x="16" y="30" width="6" height="4"></rect>
+        <rect id="Rectangle-50-Copy" fill="#D8D8D8" x="44" y="30" width="6" height="4"></rect>
+        <path d="M4,37 L12,37 L12,46.002848 C12,47.6581293 10.6609799,49 8.99833453,49 L7.00166547,49 C5.34389141,49 4,47.6583772 4,46.002848 L4,37 Z" id="Rectangle-53" fill="#D8D8D8"></path>
+        <path d="M8,37 L8,10.9807763" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M6,8.0093689 C6,7.45190985 6.44335318,7 7.0093689,7 L8.9906311,7 C9.54809015,7 10,7.44335318 10,8.0093689 L10,11 L6,11 L6,8.0093689 Z" id="Rectangle-54" fill="#D8D8D8"></path>
+        <path d="M54,37 L62,37 L62,46.002848 C62,47.6581293 60.6609799,49 58.9983345,49 L57.0016655,49 C55.3438914,49 54,47.6583772 54,46.002848 L54,37 Z" id="Rectangle-53-Copy" fill="#D8D8D8"></path>
+        <path d="M58,37 L58,10.9807763" id="Line-Copy-17" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M56,8.0093689 C56,7.45190985 56.4433532,7 57.0093689,7 L58.9906311,7 C59.5480902,7 60,7.44335318 60,8.0093689 L60,11 L56,11 L56,8.0093689 Z" id="Rectangle-54-Copy" fill="#D8D8D8"></path>
+    </g>
+</svg>

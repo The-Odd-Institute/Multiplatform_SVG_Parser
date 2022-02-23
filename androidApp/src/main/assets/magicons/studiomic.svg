@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M22.6378151,19.984034 C22.8378443,17.7837128 24.7917156,16 26.9947834,16 L37.0052166,16 C39.2114745,16 41.1619743,17.781717 41.3621849,19.984034 L43,38 L21,38 L22.6378151,19.984034 Z"/>
+    <rect width="2" height="2" x="25" y="18" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="29" y="18" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="33" y="18" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="37" y="18" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="25" y="22" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="29" y="22" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="33" y="22" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="37" y="22" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="25" y="26" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="29" y="26" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="33" y="26" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="37" y="26" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="25" y="30" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="29" y="30" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="33" y="30" fill="#5EA7FF"/>
+    <rect width="2" height="2" x="37" y="30" fill="#5EA7FF"/>
+    <path fill="#FFAF40" d="M21,38 L43,38 L43,41.9907455 C43,43.6527109 41.6569187,45 39.9986131,45 L24.0013869,45 C22.3437667,45 21,43.6503296 21,41.9907455 L21,38 Z"/>
+    <path fill="#595959" d="M29,45 L35,45 L35,47 C35,48.1045695 34.1017394,49 33.0020869,49 L30.9979131,49 C29.8944962,49 29,48.1122704 29,47 L29,45 Z"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31,4 L31,12 M51.2989899,11.9939033 L45.6421356,17.6507576 M60,32 L52,32 M52.0060967,52.2989899 L46.3492424,46.6421356 M32,61 L32,53 M11.7010101,53.0060967 L17.3578644,47.3492424 M3,33 L11,33 M10.9939033,12.7010101 L16.6507576,18.3578644"/>
+  </g>
+</svg>

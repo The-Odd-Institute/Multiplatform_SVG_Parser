@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>golfball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-30" fill="#ECECEC" cx="32" cy="24" r="24"></circle>
+        <path d="M32,5 C21.5065898,5 13,13.5065898 13,24" id="Oval-30-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M28,49 C28,49 30.25,50.1636511 32.5,50.1636511 C34.75,50.1636511 37,49 37,49 L37,59 L28,59 L28,49 Z" id="Rectangle-61" fill="#595959"></path>
+        <rect id="Rectangle-60" fill="#D8D8D8" x="27" y="34" width="3" height="3"></rect>
+        <rect id="Rectangle-60-Copy" fill="#D8D8D8" x="32" y="32" width="3" height="3"></rect>
+        <rect id="Rectangle-60-Copy-2" fill="#D8D8D8" x="37" y="30" width="3" height="3"></rect>
+        <rect id="Rectangle-60-Copy-5" fill="#D8D8D8" x="37" y="35" width="3" height="3"></rect>
+        <rect id="Rectangle-60-Copy-4" fill="#D8D8D8" x="42" y="33" width="3" height="3"></rect>
+        <rect id="Rectangle-60-Copy-3" fill="#D8D8D8" x="47" y="31" width="3" height="3"></rect>
+        <path d="M16,59 L49,59" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

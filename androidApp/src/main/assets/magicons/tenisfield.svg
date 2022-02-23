@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tenisfield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-196" fill="#FCC24C" x="0" y="19" width="30" height="24"></rect>
+        <rect id="Rectangle-196-Copy" fill="#FCC24C" x="32" y="19" width="30" height="24"></rect>
+        <rect id="Rectangle-197" fill="#ED9111" x="0" y="19" width="30" height="5"></rect>
+        <rect id="Rectangle-197-Copy-2" fill="#ED9111" x="32" y="19" width="30" height="5"></rect>
+        <rect id="Rectangle-197-Copy" fill="#ED9111" x="0" y="38" width="30" height="5"></rect>
+        <rect id="Rectangle-197-Copy-3" fill="#ED9111" x="32" y="38" width="30" height="5"></rect>
+        <rect id="Rectangle-198" fill="#ED9111" x="7" y="24" width="5" height="14"></rect>
+        <rect id="Rectangle-198-Copy" fill="#ED9111" x="51" y="24" width="5" height="14"></rect>
+        <path d="M31,19 L31,43" id="Line" stroke="#595959" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

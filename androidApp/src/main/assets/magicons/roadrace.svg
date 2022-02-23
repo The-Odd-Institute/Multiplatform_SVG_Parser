@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>roadrace</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-112-Copy-5" fill="#595959" x="1" y="4" width="3" height="55"></rect>
+        <polygon id="Rectangle-194-Copy" fill="#979797" points="18 5 45 5 55 62 8 62"></polygon>
+        <path d="M31,7 L31,58.009803" id="Line-Copy-129" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="4"></path>
+        <rect id="Rectangle-112-Copy-4" fill="#595959" x="59" y="4" width="3" height="55"></rect>
+        <path d="M1,7 C1,7 16.25,7 31.5,7 L62,7 L62,25 C62,25 46.75,25 31.5,25 C16.25,25 1,25 1,25 L1,7 Z" id="Rectangle-111-Copy-2" fill="#ED9111"></path>
+    </g>
+</svg>

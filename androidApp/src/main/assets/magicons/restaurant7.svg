@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#5B68C0" d="M8,32 L38,32 L38,58.9949259 C38,61.2068672 36.2132053,63 34.0007252,63 L11.9992748,63 C9.79053632,63 8,61.1993157 8,58.9949259 L8,32 Z"/>
+    <rect width="24" height="9" x="11" y="35" fill="#80D25B"/>
+    <path stroke="#5EA7FF" stroke-linecap="square" stroke-width="2" d="M12 48L16 48M21 48L25 48M30 48L34 48M12 53L16 53M21 53L25 53M30 53L34 53M12 58L16 58M21 58L25 58"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M37.051127,30.8758605 L44.9408088,30.8758605 L44.9408088,12.9873161 C44.9408088,10.77685 46.7286329,8.98491326 48.9417678,8.98491326 L53.0563006,8.98491326 C55.2659692,8.98491326 57.0572595,10.7763223 57.0572595,12.9858207 L57.0572595,17.4319962"/>
+    <path stroke="#5EA7FF" stroke-linecap="square" stroke-width="2" d="M30,58 L34,58"/>
+    <rect width="30" height="14" x="8" y="18" fill="#5EA7FF"/>
+    <rect width="16" height="24" x="15" y="2" fill="#ECECEC"/>
+    <text fill="#5B68C0" font-family="MarkerFelt-Thin, Marker Felt" font-size="16" font-weight="300">
+      <tspan x="16.9" y="20">%</tspan>
+    </text>
+    <path stroke="#5B68C0" stroke-linecap="square" stroke-width="2" d="M14,26 L32,26"/>
+    <polygon fill="#5EA7FF" points="54 17 60 17 60 48 57 52 54 48"/>
+  </g>
+</svg>

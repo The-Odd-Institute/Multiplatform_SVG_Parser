@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>woodpalete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13,42 L20,42 L20,59.0025781 C20,60.1057238 19.1134452,61 17.9940809,61 L15.0059191,61 C13.8980806,61 13,60.1090746 13,59.0025781 L13,42 Z" id="Rectangle-119" fill="#FFDD95"></path>
+        <rect id="Rectangle-120" fill="#E43535" x="13" y="50" width="7" height="7"></rect>
+        <path d="M6,5.00368123 C6,3.34479389 7.34559019,2 9.00878799,2 L23.991212,2 C25.6529197,2 27,3.34984627 27,5.00368123 L27,40.9963188 C27,42.6552061 25.6701677,43.7900471 24.0332238,43.5316077 L16.5,42.3422681 L8.96677619,43.5316077 C7.32827094,43.7902936 6,42.6501537 6,40.9963188 L6,5.00368123 Z" id="Rectangle-118" fill="#BD7575"></path>
+        <circle id="Oval-61" fill="#FF78C7" cx="46" cy="41" r="6"></circle>
+    </g>
+</svg>

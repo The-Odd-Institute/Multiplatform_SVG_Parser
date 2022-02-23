@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polyline stroke="#979797" stroke-linecap="square" stroke-width="2" points="16 25.445 32 9.445 48 25.445"/>
+    <path fill="#BD7575" d="M1,28.9932874 C1,27.8924252 1.90035102,27 2.99263021,27 L61.0073698,27 C62.1078691,27 63,27.8997127 63,28.9932874 L63,54.0067126 C63,55.1075748 62.099649,56 61.0073698,56 L2.99263021,56 C1.89213093,56 1,55.1002873 1,54.0067126 L1,28.9932874 Z"/>
+    <rect width="58" height="25" x="3" y="29" fill="#5EA7FF"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="16" font-weight="300">
+      <tspan x="16.34" y="47">OPEN</tspan>
+    </text>
+    <rect width="10" height="3" x="10" y="24" fill="#AB5F5F"/>
+    <rect width="10" height="3" x="44" y="24" fill="#AB5F5F"/>
+    <circle cx="32" cy="11" r="3" fill="#D8D8D8"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="23" height="55" x="22" y="1" fill="#5EA7FF" rx="3"/>
+    <rect width="3" height="3" x="27" y="42" fill="#B4DFFB"/>
+    <rect width="3" height="3" x="32" y="42" fill="#B4DFFB"/>
+    <rect width="3" height="3" x="37" y="42" fill="#B4DFFB"/>
+    <rect width="3" height="3" x="27" y="47" fill="#B4DFFB"/>
+    <rect width="3" height="3" x="32" y="47" fill="#B4DFFB"/>
+    <rect width="3" height="3" x="37" y="47" fill="#B4DFFB"/>
+    <path fill="#B4DFFB" d="M30,56 L38,56 L38,57.5 C38,58.3284271 37.3316845,59 36.4952612,59 L31.5047388,59 C30.6736945,59 30,58.3342028 30,57.5 L30,56 Z"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M34,60 L34,63"/>
+    <circle cx="33.5" cy="24.5" r="3.5" fill="#E43535"/>
+    <circle cx="33.5" cy="33.5" r="3.5" fill="#FFDD95"/>
+    <rect width="3" height="13" x="32" y="4" fill="#595959"/>
+    <rect width="3" height="13" x="32" y="4" fill="#595959" transform="rotate(-90 33.5 10.5)"/>
+  </g>
+</svg>

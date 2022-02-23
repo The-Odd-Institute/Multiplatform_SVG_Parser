@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="19" height="57" x="20" y="4" fill="#22BA8E"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M38 7L40 7M38 11L40 11M38 15L40 15M38 19L40 19M38 23L40 23M38 27L40 27M38 31L40 31M38 35L40 35M38 39L40 39M38 43L40 43M38 47L40 47M38 51L40 51M38 55L40 55M38 59L40 59"/>
+    <rect width="11" height="62" x="18" y="1" fill="#0A3586"/>
+    <rect width="2" height="2" x="20" y="3" fill="#D8D8D8"/>
+    <rect width="2" height="2" x="20" y="59" fill="#D8D8D8"/>
+  </g>
+</svg>

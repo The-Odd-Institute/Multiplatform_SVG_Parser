@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#5EA7FF" stroke="#B4DFFB" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="20 33 44 33 62 58 2 58"/>
+    <path stroke="#B4DFFB" stroke-linecap="square" stroke-width="2" d="M12,45 L52,45"/>
+    <path stroke="#B4DFFB" stroke-linecap="round" stroke-width="2" d="M20,57.818894 L27.475595,33"/>
+    <path stroke="#B4DFFB" stroke-linecap="round" stroke-width="2" d="M36,57.818894 L43.475595,33" transform="matrix(-1 0 0 1 79.476 0)"/>
+    <path fill="#80D25B" d="M47.5044647,22.529591 C50.2658885,22.529591 52.5044647,20.1876959 52.5044647,17.2988218 C52.5044647,14.4099477 47.5044647,5.52959101 47.5044647,5.52959101 C47.5044647,5.52959101 42.5044647,14.4099477 42.5044647,17.2988218 C42.5044647,20.1876959 44.743041,22.529591 47.5044647,22.529591 Z" transform="rotate(75 47.504 14.03)"/>
+    <path fill="#80D25B" d="M17.5044647,22.529591 C20.2658885,22.529591 22.5044647,20.1876959 22.5044647,17.2988218 C22.5044647,14.4099477 17.5044647,5.52959101 17.5044647,5.52959101 C17.5044647,5.52959101 12.5044647,14.4099477 12.5044647,17.2988218 C12.5044647,20.1876959 14.743041,22.529591 17.5044647,22.529591 Z" transform="scale(-1 1) rotate(75 0 -8.783)"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M44,15 C37.372583,15 32,20.372583 32,27"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M32,15 C25.372583,15 20,20.372583 20,27" transform="matrix(-1 0 0 1 52 0)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="34" height="39" x="17" y="12" fill="#0A3586" rx="6"/>
+    <rect width="24" height="2" x="22" y="23" fill="#979797"/>
+    <rect width="5" height="12" x="23" y="18" fill="#D8D8D8" rx="2"/>
+    <rect width="5" height="12" x="40" y="18" fill="#D8D8D8" rx="2"/>
+    <rect width="24" height="2" x="22" y="37" fill="#979797"/>
+    <rect width="5" height="12" x="23" y="32" fill="#D8D8D8" rx="2"/>
+    <rect width="5" height="12" x="40" y="32" fill="#D8D8D8" rx="2"/>
+    <rect width="2" height="9" x="51" y="23" fill="#5B68C0"/>
+    <rect width="2" height="9" x="51" y="34" fill="#5B68C0"/>
+    <path fill="#5EA7FF" d="M23.4640367,2.94779813 C23.7600411,1.31977418 25.343312,0 26.9942021,0 L41.0057979,0 C42.6594501,0 44.2412467,1.32685702 44.5359633,2.94779813 L46,11 L22,11 L23.4640367,2.94779813 Z"/>
+    <path fill="#5EA7FF" d="M23.4640367,54.9477981 C23.7600411,53.3197742 25.343312,52 26.9942021,52 L41.0057979,52 C42.6594501,52 44.2412467,53.326857 44.5359633,54.9477981 L46,63 L22,63 L23.4640367,54.9477981 Z" transform="matrix(1 0 0 -1 0 115)"/>
+  </g>
+</svg>

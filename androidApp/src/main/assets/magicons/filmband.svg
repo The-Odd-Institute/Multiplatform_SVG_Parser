@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="34" height="58" x="16" y="4" fill="#595959"/>
+    <rect width="4" height="5" x="18" y="6" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="13" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="20" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="27" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="34" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="41" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="48" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="18" y="55" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="6" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="13" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="20" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="27" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="34" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="41" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="48" fill="#D8D8D8"/>
+    <rect width="4" height="5" x="44" y="55" fill="#D8D8D8"/>
+    <rect width="18" height="30" x="24" y="6" fill="#979797"/>
+    <rect width="18" height="24" x="24" y="38" fill="#979797"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>fence</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-98" fill="#BD7575" points="6 18.2626919 12.5 8 19 18.2626919 19 59.2626919 6 59.2626919"></polygon>
+        <polygon id="Rectangle-98-Copy-2" fill="#BD7575" points="32 18.2626919 38.5 8 45 18.2626919 45 59.2626919 32 59.2626919"></polygon>
+        <polygon id="Rectangle-98-Copy" fill="#9C4D4D" points="19 18.2626919 25.5 8 32 18.2626919 32 59.2626919 19 59.2626919"></polygon>
+        <polygon id="Rectangle-98-Copy-3" fill="#9C4D4D" points="45 18.2626919 51.5 8 58 18.2626919 58 59.2626919 45 59.2626919"></polygon>
+        <path d="M7,26 L57.009999,26" id="Line" stroke="#ED9111" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M7,53 L57.009999,53" id="Line-Copy-56" stroke="#ED9111" stroke-width="2" stroke-linecap="square"></path>
+        <circle id="Oval-48" fill="#D8D8D8" cx="12.5" cy="46.5" r="2.5"></circle>
+        <circle id="Oval-48-Copy" fill="#D8D8D8" cx="25.5" cy="46.5" r="2.5"></circle>
+        <circle id="Oval-48-Copy-2" fill="#D8D8D8" cx="38.5" cy="46.5" r="2.5"></circle>
+        <circle id="Oval-48-Copy-3" fill="#D8D8D8" cx="51.5" cy="46.5" r="2.5"></circle>
+    </g>
+</svg>

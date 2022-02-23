@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="14" height="54.833" x="13" y="7" fill="#4796E7"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="13 21 27 21 27 19 13 19"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="13 25 27 25 27 23 13 23"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="13 29 27 29 27 27 13 27"/>
+    <circle cx="20" cy="51" r="5" fill="#0A3586"/>
+    <rect width="14" height="54.833" x="27" y="1" fill="#C13F98"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="27 15 41 15 41 13 27 13"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="27 19 41 19 41 17 27 17"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="27 23 41 23 41 21 27 21"/>
+    <circle cx="34" cy="45" r="5" fill="#0A3586"/>
+    <rect width="14" height="54.833" x="41" y="7" fill="#80D25B"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="41 21 55 21 55 19 41 19"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="41 25 55 25 55 23 41 23"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="41 29 55 29 55 27 41 27"/>
+    <circle cx="48" cy="51" r="5" fill="#0A3586"/>
+  </g>
+</svg>

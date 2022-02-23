@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="26" height="8" x="19" y="12" fill="#979797"/>
+    <rect width="46" height="46" x="9" y="16" fill="#595959" rx="3"/>
+    <rect width="46" height="30" x="9" y="25" fill="#D650C7"/>
+    <path fill="#D650C7" d="M15,3.99961498 C15,2.89525812 15.8997849,2 17.0022853,2 L45.9977147,2 C47.1035463,2 48,2.88743329 48,3.99961498 L48,12 L15,12 L15,3.99961498 Z"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="12" font-weight="300">
+      <tspan x="11.618" y="45">PROTEIN</tspan>
+    </text>
+  </g>
+</svg>

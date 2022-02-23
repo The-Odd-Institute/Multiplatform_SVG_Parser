@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="57" height="22" x="4" y="9" fill="#BD7575"/>
+    <rect width="57" height="22" x="4" y="35" fill="#BD7575"/>
+    <rect width="57" height="4" x="4" y="31" fill="#9F5757"/>
+    <rect width="57" height="4" x="4" y="6" fill="#9F5757"/>
+    <rect width="57" height="4" x="4" y="57" fill="#9F5757"/>
+    <rect width="6" height="16" x="10" y="15" fill="#80D25B"/>
+    <rect width="6" height="16" x="35" y="15" fill="#5B68C0"/>
+    <rect width="6" height="16" x="44.598" y="14.428" fill="#22BA8E" transform="rotate(-30 47.598 22.428)"/>
+    <rect width="6" height="21" x="16" y="10" fill="#F5413E"/>
+    <path fill="#F5413E" d="M15.5,43.5 L21.5,43.5 L21.5,61.491212 C21.5,63.1529197 20.1534829,64.5 18.5,64.5 L18.5,64.5 C16.8431458,64.5 15.5,63.1544098 15.5,61.491212 L15.5,43.5 Z" transform="rotate(90 18.5 54)"/>
+    <path fill="#FFAF40" d="M14.9779381,41.5451152 C14.9779381,40.1516714 16.0973926,39.0220619 17.5,39.0220619 L17.5,39.0220619 C18.8928963,39.0220619 20.0220619,40.1536986 20.0220619,41.5451152 L20.0220619,58.0220619 L14.9779381,58.0220619 L14.9779381,41.5451152 Z" transform="rotate(90 17.5 48.522)"/>
+    <rect width="10" height="15" x="22" y="16" fill="#FFAF40"/>
+    <path fill="#4796E7" d="M10,41 L27.0025781,41 C28.1057238,41 29,41.8938998 29,43.0048815 L29,43.9951185 C29,45.102384 28.1090746,46 27.0025781,46 L10,46 L10,41 Z"/>
+    <rect width="6" height="21" x="42" y="36" fill="#D8D8D8"/>
+    <rect width="6" height="15" x="48" y="42" fill="#595959"/>
+  </g>
+</svg>

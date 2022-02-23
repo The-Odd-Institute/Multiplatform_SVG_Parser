@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>sportshirt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14,31 C15.6568656,30.9999336 17,29.6479949 17,27.9994225 L17,6 L47,6 L47,27.9994225 C47,29.6479949 48.3431344,30.9999336 50,31 L50,62 L14,62 L14,31 Z M23,6 C23,10.9705627 27.0294373,15 32,15 C36.9705627,15 41,10.9705627 41,6 L23,6 Z" id="Combined-Shape" fill="#ED9111"></path>
+        <rect id="Rectangle-Copy-3" fill="#80D25B" x="14" y="46" width="36" height="4"></rect>
+        <rect id="Rectangle-Copy-2" fill="#325AA6" x="14" y="50" width="36" height="4"></rect>
+        <text id="15" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300" fill="#0A3586">
+            <tspan x="24" y="35">15</tspan>
+        </text>
+    </g>
+</svg>

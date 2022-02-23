@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#B4DFFB" stroke-linecap="square" stroke-width="2" d="M32,25 L32,44"/>
+    <rect width="22" height="15" x="21" y="9" fill="#5DAF38" rx="2"/>
+    <polyline stroke="#B4DFFB" stroke-linecap="round" stroke-width="2" points="10 47 10 34 10 34 54 34 54 47"/>
+    <rect width="16" height="12" x="24" y="45" fill="#FF5EAC" rx="2"/>
+    <rect width="16" height="12" x="45" y="45" fill="#FF5EAC" rx="2"/>
+    <rect width="16" height="12" x="3" y="45" fill="#FF5EAC" rx="2"/>
+  </g>
+</svg>

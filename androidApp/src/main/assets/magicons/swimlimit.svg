@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swimlimit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="13"></circle>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,26 L32,2.91320724" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Triangle-3" fill="#ED9111" points="52 13 33 21 33 5"></polygon>
+        <g id="Rectangle-24" transform="translate(19.000000, 26.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#E43535" xlink:href="#path-1"></use>
+            <rect fill="#D8D8D8" mask="url(#mask-2)" x="-1" y="-3" width="27" height="8"></rect>
+        </g>
+        <path d="M23,48 C23,43.0294373 18.9705627,39 14,39 C9.02943725,39 5,43.0294373 5,48" id="Oval-10" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M41,48 C41,43.0294373 36.9705627,39 32,39 C27.0294373,39 23,43.0294373 23,48" id="Oval-10-Copy" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M59,48 C59,43.0294373 54.9705627,39 50,39 C45.0294373,39 41,43.0294373 41,48" id="Oval-10-Copy-2" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M32,58 C32,53.0294373 27.9705627,49 23,49 C18.0294373,49 14,53.0294373 14,58" id="Oval-10-Copy-5" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M50,58 C50,53.0294373 45.9705627,49 41,49 C36.0294373,49 32,53.0294373 32,58" id="Oval-10-Copy-4" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

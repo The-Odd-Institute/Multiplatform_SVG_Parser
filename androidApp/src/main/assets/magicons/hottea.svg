@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>hottea</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,14.0049248 C5,7.92707265 9.923532,3 16,3 L16,3 C22.0751322,3 27,7.92279257 27,14.0049248 L27,63 L5,63 L5,14.0049248 Z" id="Rectangle-205" fill="#325AA6"></path>
+        <path d="M15,7 C11.6862915,7 9,9.6862915 9,13" id="Oval-99" stroke="#5395EA" stroke-width="2" stroke-linecap="round"></path>
+        <rect id="Rectangle-206" fill="#ED9111" x="4" y="19" width="24" height="4" rx="2"></rect>
+        <rect id="Rectangle-206-Copy" fill="#ED9111" x="4" y="49" width="24" height="4" rx="2"></rect>
+        <path d="M29,24 L29,47.0217289" id="Line" stroke="#325AA6" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M35,43 L55,43 L55,57.0079737 C55,59.7649937 52.763962,62 50.0047466,62 L39.9952534,62 C37.2364511,62 35,59.7645872 35,57.0079737 L35,43 Z" id="Rectangle-207" fill="#22BA8E"></path>
+        <circle id="Oval-100" stroke="#22BA8E" stroke-width="2" stroke-linecap="round" cx="53" cy="51" r="7"></circle>
+        <path d="M40.8567356,39.2743809 C40.8567356,39.2743809 37.3540844,35.9373223 39.9704485,32.9771703 C42.5868126,30.0170182 41.7371611,26.021399 40.2984099,25" id="Path-57" stroke="#ED9111" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M45.8567356,39.2743809 C45.8567356,39.2743809 42.3540844,35.9373223 44.9704485,32.9771703 C47.5868126,30.0170182 46.7371611,26.021399 45.2984099,25" id="Path-57-Copy" stroke="#ED9111" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M50.8567356,39.2743809 C50.8567356,39.2743809 47.3540844,35.9373223 49.9704485,32.9771703 C52.5868126,30.0170182 51.7371611,26.021399 50.2984099,25" id="Path-57-Copy-2" stroke="#ED9111" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

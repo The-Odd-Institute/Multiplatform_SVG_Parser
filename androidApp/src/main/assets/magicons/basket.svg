@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>basket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.448472,8.56002119 C14.3053573,7.14616053 16.3505957,6 17.9992106,6 L47.0007894,6 C48.6572077,6 50.6952411,7.1471479 51.551528,8.56002119 L58.448472,19.9399788 C59.3053573,21.3538395 60,23.8502643 60,25.5071684 L60,35.9928316 C60,37.6536448 58.6540999,39 57.0039024,39 L7.99609755,39 C6.34139856,39 5,37.6497357 5,35.9928316 L5,25.5071684 C5,23.8463552 5.69524115,21.3528521 6.551528,19.9399788 L13.448472,8.56002119 Z" id="Rectangle-89" fill="#D650C7"></path>
+        <rect id="Rectangle-90" fill="#ED9111" x="18" y="21" width="29" height="18"></rect>
+        <ellipse id="Oval-66" stroke="#979797" stroke-width="2" stroke-linecap="round" cx="33" cy="44" rx="9" ry="4"></ellipse>
+        <path d="M25,50 C25,52.209139 28.581722,54 33,54 L33,54 C37.418278,54 41,52.209139 41,50" id="Oval-66-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M24,44 L26.7182366,60.9895001" id="Path-37" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M41.9556769,44.0443778 L39.2374403,61.0338779" id="Path-37-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M30.1159752,47.9900929 L31.067064,61.0567071" id="Path-38" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M35.9260565,48.0335225 L35.1280143,61.1716343" id="Path-39" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

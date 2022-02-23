@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="37" cy="20" r="5" fill="#80D25B"/>
+    <rect width="31" height="40" x="10" y="20" fill="#5EA7FF"/>
+    <circle cx="25" cy="46" r="6" fill="#F3B156"/>
+    <circle cx="15" cy="20" r="5" fill="#22BA8E"/>
+    <circle cx="49" cy="12" r="5" fill="#80D25B"/>
+    <circle cx="21" cy="15" r="6" fill="#80D25B"/>
+    <circle cx="41" cy="14" r="6" fill="#22BA8E"/>
+    <circle cx="30" cy="12" r="6" fill="#80D25B"/>
+    <circle cx="28" cy="18" r="5" fill="#22BA8E"/>
+    <circle cx="35" cy="11" r="5" fill="#80D25B"/>
+    <polygon fill="#5B68C0" points="41 20 53 11 53 49 41 60"/>
+    <polygon fill="#5EA7FF" points="41 20 53 9 58 18 47 31"/>
+    <polygon fill="#B4DFFB" points="10 20 41 20 37 32 6 32"/>
+  </g>
+</svg>

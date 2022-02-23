@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="24" height="43" x="6" y="19" fill="#D8D8D8" rx="5"/>
+    <rect width="14" height="6" x="11" y="13" fill="#979797"/>
+    <path fill="#D8D8D8" d="M29,13 C29,9.6862915 24.0751322,7 18,7 C11.9248678,7 7,9.6862915 7,13 L29,13 Z"/>
+    <rect width="2" height="2" x="11" y="10" fill="#FFF"/>
+    <rect width="2" height="2" x="15" y="8" fill="#FFF"/>
+    <rect width="2" height="2" x="19" y="10" fill="#FFF"/>
+    <rect width="2" height="2" x="23" y="9" fill="#FFF"/>
+    <path fill="#ECECEC" d="M9,29 L27,29 L27,55.9999809 C27,57.6568457 25.6470745,59 24.0074602,59 L11.9925398,59 C10.3398057,59 9,57.6526814 9,55.9999809 L9,29 Z"/>
+    <rect width="24" height="43" x="36" y="19" fill="#D8D8D8" rx="5"/>
+    <rect width="14" height="6" x="41" y="13" fill="#979797"/>
+    <path fill="#D8D8D8" d="M59,13 C59,9.6862915 54.0751322,7 48,7 C41.9248678,7 37,9.6862915 37,13 L59,13 Z"/>
+    <rect width="2" height="2" x="41" y="10" fill="#FFF"/>
+    <rect width="2" height="2" x="45" y="8" fill="#FFF"/>
+    <rect width="2" height="2" x="49" y="10" fill="#FFF"/>
+    <rect width="2" height="2" x="53" y="9" fill="#FFF"/>
+    <path fill="#595959" d="M39,29 L57,29 L57,55.9999809 C57,57.6568457 55.6470745,59 54.0074602,59 L41.9925398,59 C40.3398057,59 39,57.6526814 39,55.9999809 L39,29 Z"/>
+    <text fill="#595959" font-family="MarkerFelt-Thin, Marker Felt" font-size="13" font-weight="300">
+      <tspan x="15.315" y="47">S</tspan>
+    </text>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="13" font-weight="300">
+      <tspan x="45.575" y="47">P</tspan>
+    </text>
+  </g>
+</svg>

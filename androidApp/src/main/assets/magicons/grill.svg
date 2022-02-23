@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>grill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,57 L24,39" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M36,57 L44,39" id="Line-Copy-111" stroke="#979797" stroke-width="2" stroke-linecap="square" transform="translate(40.000000, 48.000000) scale(-1, 1) translate(-40.000000, -48.000000) "></path>
+        <path d="M7,25 L57,25 L57,33.5 C57,38.1944204 53.2008347,42 48.5040253,42 L15.4959747,42 C10.8037774,42 7,38.1848682 7,33.5 L7,25 Z" id="Rectangle-167" fill="#595959"></path>
+        <circle id="Oval-84" fill="#D8D8D8" cx="15" cy="60" r="4"></circle>
+        <circle id="Oval-84-Copy" fill="#D8D8D8" cx="45" cy="60" r="4"></circle>
+        <path d="M8,23 L8,22" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M12,23 L12,22" id="Line-Copy-99" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M16,23 L16,22" id="Line-Copy-100" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M20,23 L20,22" id="Line-Copy-101" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M24,23 L24,22" id="Line-Copy-102" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M28,23 L28,22" id="Line-Copy-103" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M32,23 L32,22" id="Line-Copy-104" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M36,23 L36,22" id="Line-Copy-105" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M40,23 L40,22" id="Line-Copy-106" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M44,23 L44,22" id="Line-Copy-107" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M48,23 L48,22" id="Line-Copy-108" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M52,23 L52,22" id="Line-Copy-109" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M56,23 L56,22" id="Line-Copy-110" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <rect id="Rectangle-168" fill="#BD7575" x="12" y="15" width="17" height="5" rx="2.5"></rect>
+        <rect id="Rectangle-168-Copy" fill="#BD7575" x="34" y="15" width="17" height="5" rx="2.5"></rect>
+        <path d="M20.344524,12.3665777 C20.344524,12.3665777 17.5016411,11.2105817 20.083565,8.16655847 C22.6654889,5.12253525 20.6294105,2 20.6294105,2" id="Path-46" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M31.344524,12.3665777 C31.344524,12.3665777 28.5016411,11.2105817 31.083565,8.16655847 C33.6654889,5.12253525 31.6294105,2 31.6294105,2" id="Path-46-Copy" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M42.344524,12.3665777 C42.344524,12.3665777 39.5016411,11.2105817 42.083565,8.16655847 C44.6654889,5.12253525 42.6294105,2 42.6294105,2" id="Path-46-Copy-2" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

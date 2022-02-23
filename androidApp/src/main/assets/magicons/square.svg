@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#E43535" points="12 3 52 3 52 61 12 61"/>
+    <polygon fill="#FFF" points="31.944 22 39.968 32.583 31.944 43.052 24 32.583"/>
+    <polygon fill="#FFF" points="17.019 5 20.068 9.022 17.019 13 14 9.022"/>
+    <polygon fill="#FFF" points="47.019 51 50.068 55.022 47.019 59 44 55.022"/>
+  </g>
+</svg>

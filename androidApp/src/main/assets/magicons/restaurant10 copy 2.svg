@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(30 11.877 37.606)">
+      <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M11,22 L11,34"/>
+      <ellipse cx="11" cy="37" fill="#D8D8D8" rx="10" ry="3"/>
+      <path fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M22,3.77889591 L22,12.0098623 C22,17.527263 17.5214543,22 11.9978027,22 L10.0021973,22 C4.47813629,22 0,17.524314 0,11.9955345 L0,3.70407821"/>
+      <ellipse cx="11" cy="4" fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+    </g>
+    <g transform="scale(-1 1) rotate(30 -61.096 -70.523)">
+      <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M11,22 L11,34"/>
+      <ellipse cx="11" cy="37" fill="#D8D8D8" rx="10" ry="3"/>
+      <path fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M22,3.77889591 L22,12.0098623 C22,17.527263 17.5214543,22 11.9978027,22 L10.0021973,22 C4.47813629,22 0,17.524314 0,11.9955345 L0,3.70407821"/>
+      <ellipse cx="11" cy="4" fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+    </g>
+  </g>
+</svg>

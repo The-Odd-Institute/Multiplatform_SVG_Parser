@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="nopizza-a" d="M52.5056533,12.2753409 C52.5056533,26.3705036 43.6763203,38.4034651 31.2467139,43.1451656 L0,0.7841223 L51.6217547,4.65297381 C52.1997817,7.09984512 52.5056533,9.65187293 52.5056533,12.2753409 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 12)">
+      <mask id="nopizza-b" fill="#fff">
+        <use xlink:href="#nopizza-a"/>
+      </mask>
+      <use fill="#BD7575" xlink:href="#nopizza-a"/>
+      <circle cx="14" cy="9" r="35" fill="#FFDD95" mask="url(#nopizza-b)"/>
+    </g>
+    <circle cx="27" cy="24" r="5" fill="#E43535"/>
+    <circle cx="39" cy="24" r="4" fill="#E43535"/>
+    <circle cx="21" cy="35" r="2" fill="#E43535"/>
+    <circle cx="13.5" cy="19.5" r="2.5" fill="#E43535"/>
+    <circle cx="35.486" cy="38.486" r="5.486" fill="#E43535"/>
+    <path stroke="#BD7575" stroke-linecap="round" stroke-width="2" d="M18.2715765,19.1618544 L19.4629569,25.2407755"/>
+    <path stroke="#80D25B" stroke-linecap="round" stroke-width="2" d="M26.4445931 32.704274C26.4445931 32.704274 29.3617522 29.661424 33.3109891 30.6757073M40.5863748 32.8065214L43.3600486 35.7191613"/>
+    <path stroke="#FF78C7" stroke-linecap="round" stroke-width="2" d="M48.1781063,19.717154 L47.1279516,25.9553778"/>
+    <path stroke="#BD7575" stroke-linecap="round" stroke-width="2" d="M29.0499258,44.4937996 L31.9416642,47.2945887"/>
+    <path fill="#E43535" fill-rule="nonzero" stroke="#FFF" stroke-width="2" d="M6.41021742,60.2903139 L60.5872217,6.41819854 C61.3704711,5.63935699 61.3740444,4.37303208 60.5952028,3.58978268 C59.8163613,2.80653328 58.5500364,2.80296001 57.766787,3.58180156 L3.58978268,57.4539169 C2.80653328,58.2327584 2.80296001,59.4990834 3.58180156,60.2823328 C4.36064311,61.0655822 5.62696802,61.0691554 6.41021742,60.2903139 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>firecamp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,42.6887628 C39.7319865,42.6887628 46,36.4207493 46,28.6887628 C46,23.1910492 37.6852836,6.46274241 37.6852836,10.1857431 C37.6852836,13.9087439 36.3001505,15.746716 35.3191938,15.1590673 C29.2366488,11.5152782 33.1771474,5 32,5 C24.2680135,5 18,20.9567763 18,28.6887628 C18,36.4207493 24.2680135,42.6887628 32,42.6887628 Z" id="Oval" fill="#E43535"></path>
+        <g id="Group" transform="translate(31.639198, 52.204169) rotate(-15.000000) translate(-31.639198, -52.204169) translate(9.139198, 48.704169)">
+            <path d="M42,0 L3,0 L3,7 L42,7 C43.6568542,7 45,5.43299662 45,3.5 C45,1.56700338 43.6568542,0 42,0 Z" id="Combined-Shape" fill="#9C4D4D"></path>
+            <ellipse id="Oval-2" fill="#BD7575" cx="3" cy="3.5" rx="3" ry="3.5"></ellipse>
+        </g>
+        <g id="Group-Copy" transform="translate(31.639198, 52.204169) scale(-1, -1) rotate(-345.000000) translate(-31.639198, -52.204169) translate(9.139198, 48.704169)">
+            <path d="M42,-3.63797881e-12 L3,-3.63797881e-12 L3,7 L42,7 C43.6568542,7 45,5.43299662 45,3.5 C45,1.56700338 43.6568542,-3.63797881e-12 42,-3.63797881e-12 Z" id="Combined-Shape" fill="#9C4D4D"></path>
+            <ellipse id="Oval-2" fill="#BD7575" cx="3" cy="3.5" rx="3" ry="3.5"></ellipse>
+        </g>
+        <path d="M26.5234325,13.0057014 C26.5234325,13.0057014 20.9155942,20.4370776 20.9155942,25.8980278" id="Path-2" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

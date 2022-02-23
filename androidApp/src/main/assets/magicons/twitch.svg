@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#D650C7" d="M33,43 L44.5,43 L51,36.5 L51,13 L16,13 L16,43 L27,43 L27,49 L33,43 Z M34.7777778,51 L27,58 L20,58 L20,51 L8,51 L8,14 L11.5,8 L57,8 L57,39.5 L44.5,51 L34.7777778,51 Z"/>
+    <rect width="4" height="13" x="28" y="21" fill="#D650C7"/>
+    <rect width="4" height="13" x="38" y="21" fill="#D650C7"/>
+  </g>
+</svg>

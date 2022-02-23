@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="60" height="40" x="2" y="10" fill="#D8D8D8" rx="2"/>
+    <circle cx="59" cy="30" r="2" fill="#868686"/>
+    <rect width="51" height="34" x="5" y="13" fill="#325AA6" rx="1"/>
+    <polygon stroke="#FFAF40" stroke-linecap="round" stroke-width="2" points="17 18 48 38 17 38"/>
+    <rect width="4" height="4" x="17" y="34" stroke="#FFAF40" stroke-width="2"/>
+    <text fill="#56E287" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="35.75" y="25">C</tspan>
+    </text>
+    <text fill="#56E287" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="8.4" y="30">A</tspan>
+    </text>
+    <text fill="#56E287" font-family="MarkerFelt-Thin, Marker Felt" font-size="8" font-weight="300">
+      <tspan x="30.36" y="45">x</tspan>
+    </text>
+  </g>
+</svg>

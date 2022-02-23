@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>treewood</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M50,57 L50,7 L14,7 L14,57 C14,60.3137085 22.0588745,63 32,63 C41.9411255,63 50,60.3137085 50,57 Z" id="Combined-Shape" fill="#BD7575"></path>
+        <path d="M21,19 L21,29" id="Line" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M44,11 L44,17" id="Line-Copy-116" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M17,10 L17,16" id="Line-Copy-118" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,9 L32,15" id="Line-Copy-117" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M45,47 L45,57" id="Line-Copy-115" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M36,24 L36,34" id="Line-Copy-112" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M30,27 L30,31" id="Line-Copy-114" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,51 L22,55" id="Line-Copy-119" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M25,29 L25,47" id="Line-Copy-120" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M30,35 L30,56" id="Line-Copy-113" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <ellipse id="Oval-86" fill="#AB5F5F" cx="32" cy="7" rx="18" ry="6"></ellipse>
+        <polygon id="Rectangle-171" fill="#BD7575" transform="translate(51.211269, 31.211269) rotate(-315.000000) translate(-51.211269, -31.211269) " points="46.2080271 21.7756671 56.1207483 21.7735957 56.2145107 40.6489421 46.2145107 40.6489421"></polygon>
+        <ellipse id="Oval-87" fill="#AB5F5F" transform="translate(57.949747, 24.949747) rotate(-45.000000) translate(-57.949747, -24.949747) " cx="57.9497475" cy="24.9497475" rx="2" ry="5"></ellipse>
+    </g>
+</svg>

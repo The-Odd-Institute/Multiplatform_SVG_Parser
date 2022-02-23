@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="64" height="44" y="10" fill="#D8D8D8"/>
+    <rect width="64" height="6" y="16" fill="#0A3586"/>
+    <rect width="9" height="21" y="22" fill="#5EA7FF"/>
+    <rect width="40" height="21" x="12" y="27" fill="#E43535"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M40,40 C40,35.581722 36.418278,32 32,32 C27.581722,32 24,35.581722 24,40"/>
+    <rect width="4" height="4" x="22" y="40" fill="#D8D8D8"/>
+    <path stroke="#FFF" stroke-linecap="square" stroke-width="2" d="M19,32 L45,32"/>
+    <rect width="4" height="4" x="30" y="30" fill="#D8D8D8"/>
+    <rect width="4" height="4" x="43.828" y="29.828" fill="#D8D8D8" transform="rotate(45 45.828 31.828)"/>
+    <rect width="4" height="4" x="16.172" y="29.828" fill="#D8D8D8" transform="rotate(45 18.172 31.828)"/>
+    <rect width="4" height="4" x="38" y="40" fill="#D8D8D8"/>
+    <rect width="9" height="21" x="55" y="22" fill="#5EA7FF"/>
+    <rect width="64" height="7" y="9" fill="#ECECEC"/>
+    <circle cx="3.5" cy="12.5" r="1.5" fill="#E43535"/>
+    <circle cx="8.5" cy="12.5" r="1.5" fill="#FFC05F"/>
+    <circle cx="13.5" cy="12.5" r="1.5" fill="#80D25B"/>
+  </g>
+</svg>

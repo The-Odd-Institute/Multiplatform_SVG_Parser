@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swissknife3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-163" fill="#979797" transform="translate(30.826272, 37.407747) rotate(-45.000000) translate(-30.826272, -37.407747) " points="12.0303301 33.7325111 49.6222132 33.7325111 39.2270761 41.082983 35.8274829 39.6128887 32.5984579 40.7875501 29.0282964 39.6128887 25.6287031 41.082983 22.2291099 39.6128887 19.0000849 40.7875501 15.4299233 39.6128887 12.0303301 41.082983"></polygon>
+        <path d="M8,3 C8,3 13.0983757,4.09809682 16.9064669,14.601546 C18.1914793,18.1458577 19.1333874,25.0592057 19.1333874,30.5844467 L19.1333874,51 L8,51 L8,3 Z" id="Rectangle-150-Copy-4" fill="#D8D8D8"></path>
+        <path d="M4,49 L61,49 L61,55 C61,58.3137085 58.3082008,61 55.0077343,61 L9.99226572,61 C6.68282874,61 4,58.3069658 4,55 L4,49 Z" id="Rectangle-149-Copy-4" fill="#E43535"></path>
+        <circle id="Oval-78-Copy-9" fill="#FF78C7" cx="11" cy="55" r="2"></circle>
+        <circle id="Oval-78-Copy-8" fill="#FF78C7" cx="55" cy="55" r="2"></circle>
+        <path d="M11,13 L11,45" id="Line-Copy-98" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

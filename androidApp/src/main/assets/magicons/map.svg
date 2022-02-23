@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>map</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M8,12 L56,12 L56,55.9936839 C56,59.3108807 53.3164587,62 49.9936134,62 L14.0063866,62 C10.6891509,62 8,59.3117828 8,55.9936839 L8,12 Z" id="Rectangle-165" stroke="#979797" stroke-width="2" fill="#D8D8D8"></path>
+        <path d="M18,56 L18,6 C18,3.23857625 15.7614237,1 13,1 C10.2385763,1 8,3.23857625 8,6 L8,56 C8,53.2385763 10.2385763,51 13,51 C15.7614237,51 18,53.2385763 18,56 Z" id="Combined-Shape" stroke="#979797" stroke-width="2" fill="#979797"></path>
+        <path d="M56,56 L56,6 C56,3.23857625 53.7614237,1 51,1 C48.2385763,1 46,3.23857625 46,6 L46,56 C46,53.2385763 48.2385763,51 51,51 C53.7614237,51 56,53.2385763 56,56 Z" id="Combined-Shape-Copy-2" stroke="#979797" stroke-width="2" fill="#979797"></path>
+        <path d="M22,20 L25.8342925,23.8342925" id="Path-44" stroke="#E43535" stroke-width="2"></path>
+        <path d="M38,50 L41.8342925,53.8342925" id="Path-44-Copy-2" stroke="#22BA8E" stroke-width="2"></path>
+        <path d="M22,23.8342925 L25.8342925,20" id="Path-44-Copy" stroke="#E43535" stroke-width="2"></path>
+        <path d="M38,53.8342925 L41.8342925,50" id="Path-44-Copy-3" stroke="#22BA8E" stroke-width="2"></path>
+        <path d="M24.5419588,26.1029889 C24.5419588,26.1029889 24.0185803,35.836427 32.4206506,38.3527184 C40.8227209,40.8690098 22.1211743,48.3618534 27.9897619,50.6673927 C33.8583495,52.972932 33.3250499,52.1973515 33.3250499,52.1973515" id="Path-45" stroke="#979797" stroke-width="2" stroke-dasharray="4"></path>
+    </g>
+</svg>

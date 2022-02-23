@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M18 58L23 58M7 20L18 20"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M28.0061905,44.2726559 C28.0061905,44.2726559 32.0854961,37.6896874 44.0389119,33.3927087 L53.0344301,61.4971639 L7.46622628,61.4971639 C7.46622628,61.4971639 15.8313747,53.2201352 19.1545643,51.5214536"/>
+    <path fill="#D8D8D8" d="M23,56 C26.8659932,56 48.8706859,54.7165072 48.8706859,49 C48.8706859,43.2834928 26.8659932,42 23,42 C19.1340068,42 16,45.1340068 16,49 C16,52.8659932 19.1340068,56 23,56 Z"/>
+    <circle cx="23" cy="49" r="3" fill="#595959"/>
+    <polyline stroke="#979797" stroke-linecap="round" stroke-width="2" points="12.538 19.927 22.833 48.649 20.718 57.442"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M45.0452845,36.0938691 C45.0452845,36.0938691 41.600131,24.6662593 43.3227078,15.4626433"/>
+    <polyline stroke="#979797" stroke-linecap="round" stroke-width="2" points="40.01 17.235 52.537 10.365 55.79 2.538"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M42,12.808681 L48,9"/>
+  </g>
+</svg>

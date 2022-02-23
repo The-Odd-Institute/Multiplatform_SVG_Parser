@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>timeframe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(18.000000, 5.000000)" stroke="#979797" stroke-width="2" stroke-linecap="square">
+            <path d="M3,4 L3,1" id="Line"></path>
+            <path d="M0,1 L6,1" id="Line"></path>
+        </g>
+        <g id="Group-4-Copy" transform="translate(10.598076, 10.232051) rotate(-30.000000) translate(-10.598076, -10.232051) translate(7.598076, 8.232051)" stroke="#979797" stroke-width="2" stroke-linecap="square">
+            <path d="M3,4 L3,1" id="Line"></path>
+            <path d="M0,1 L6,1" id="Line"></path>
+        </g>
+        <g id="Group-4-Copy-2" transform="translate(31.401924, 10.232051) scale(-1, 1) rotate(-30.000000) translate(-31.401924, -10.232051) translate(28.401924, 8.232051)" stroke="#979797" stroke-width="2" stroke-linecap="square">
+            <path d="M3,4 L3,1" id="Line"></path>
+            <path d="M0,1 L6,1" id="Line"></path>
+        </g>
+        <circle id="Oval-74" fill="#D8D8D8" cx="21" cy="26" r="17"></circle>
+        <path d="M21,23 L21,13" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Oval-75" fill="#595959" cx="21" cy="26" r="4"></circle>
+        <polygon id="Rectangle-143" fill="#FCC24C" points="47 10 61 36 47 36"></polygon>
+        <polygon id="Rectangle-143-Copy" fill="#FCC24C" transform="translate(44.000000, 49.000000) scale(-1, -1) translate(-44.000000, -49.000000) " points="37 36 51 62 37 62"></polygon>
+    </g>
+</svg>

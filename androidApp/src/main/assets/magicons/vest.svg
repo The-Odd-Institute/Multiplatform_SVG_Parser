@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>vest</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,17.0393149 L10,19.0000029 L10,63.0000029 L54,63.0000029 L54,19.0000029 L47,17.139863 L47,1.0000029 L17,1.0000029 L17,17.0393149 Z" id="Combined-Shape" fill="#FCC24C"></path>
+        <path d="M32,12.0000029 L32,62.089922" id="Line" stroke="#595959" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,1.0000029 C22,6.5228504 26.4771525,11.0000029 32,11.0000029 C37.5228475,11.0000029 42,6.5228504 42,1.0000029 L22,1.0000029 Z" id="Oval-17" fill="#595959"></path>
+        <rect id="Rectangle-32" fill="#ED9111" x="23" y="31.0000029" width="18" height="6"></rect>
+        <rect id="Rectangle-32-Copy" fill="#ED9111" x="23" y="42.0000029" width="18" height="6"></rect>
+        <path d="M22,34.0000029 L14,34.0000029" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M22,45.0000029 L14,45.0000029" id="Line-Copy-5" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M50,34.0000029 L42,34.0000029" id="Line-Copy-4" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M50,45.0000029 L42,45.0000029" id="Line-Copy-6" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

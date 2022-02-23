@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#ED9111" d="M31.5,62.9024145 C41.167867,62.9024145 49.0052218,51.3526285 49.0052218,37.1052455 C49.0052218,29.8958993 44.8103292,20.900274 41.5751165,13.7720663 C38.4167793,6.8132401 39.7055727,1.63413816 31.5,1.63413816 C23.2944273,1.63413816 24.5832207,6.8132401 21.4248835,13.7720663 C18.1896708,20.900274 13.9947782,29.8958993 13.9947782,37.1052455 C13.9947782,51.3526285 21.832133,62.9024145 31.5,62.9024145 Z"/>
+    <ellipse cx="31.5" cy="38.268" fill="#9C4D4D" rx="8" ry="15"/>
+    <circle cx="30.5" cy="30.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="34.5" cy="35.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="29.5" cy="36.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="28.5" cy="43.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="33.5" cy="43.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="31.5" cy="47.268" r="1" stroke="#0A3586" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

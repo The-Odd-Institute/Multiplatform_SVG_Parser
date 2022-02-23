@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="16" cy="24" r="6" fill="#FCC24C"/>
+    <path stroke="#FCC24C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10,31 L8,34"/>
+    <path fill="#B4DFFB" d="M18.25,4.86798691 C18.25,3.21270555 19.5943507,1.87083488 21.2494225,1.87083488 L30.2505775,1.87083488 C31.9071128,1.87083488 33.25,3.21245765 33.25,4.86798691 L33.25,13.8708349 L18.25,13.8708349 L18.25,4.86798691 Z" transform="rotate(30 25.75 7.87)"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M32.9962741,10 C39.0734641,10 44,14.9255542 44,21.0079719 L44,55"/>
+    <path fill="#5EA7FF" d="M37.125,24.9975953 C37.125,15.8848969 29.7376984,8.49759526 20.625,8.49759526 C11.5123016,8.49759526 4.125,15.8848969 4.125,24.9975953 L37.125,24.9975953 Z" transform="rotate(30 20.625 16.748)"/>
+    <rect width="10" height="5" x="39" y="52" fill="#D8D8D8"/>
+    <rect width="39" height="5" x="13" y="57" fill="#BD7575"/>
+    <path stroke="#FCC24C" stroke-linecap="round" stroke-width="2" d="M7.58396651 28L4 28M14 33L14 36.5819713"/>
+  </g>
+</svg>

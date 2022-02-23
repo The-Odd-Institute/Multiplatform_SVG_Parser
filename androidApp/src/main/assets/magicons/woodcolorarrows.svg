@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="7" height="61" x="31" y="2" fill="#9C4D4D"/>
+    <polygon fill="#D650C7" points="0 6 52 6 62 14 52 22 0 22" transform="matrix(-1 0 0 1 62 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M36,11 L50.0293864,11" transform="matrix(-1 0 0 1 87 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M14,9 L31.0293864,9" transform="matrix(-1 0 0 1 46 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M27,15 L44.0293864,15" transform="matrix(-1 0 0 1 72 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M19,14 L23,14" transform="matrix(-1 0 0 1 42 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M50,18 L54,18" transform="matrix(-1 0 0 1 104 0)"/>
+    <path stroke="#FF78C7" stroke-linecap="square" stroke-width="2" d="M19,19 L32,19" transform="matrix(-1 0 0 1 51 0)"/>
+    <polygon fill="#80D25B" points="0 26 52 26 62 34 52 42 0 42"/>
+    <path stroke="#22BA8E" stroke-linecap="square" stroke-width="2" d="M11 31L25.0293864 31M30 29L47.0293864 29M17 35L34.0293864 35M39 34L43 34M8 38L12 38M30 39L43 39"/>
+  </g>
+</svg>

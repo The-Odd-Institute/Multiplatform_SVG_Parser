@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="pencilbulb-a" points="5.898 12.921 0 0 11.796 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#E8E8E8" d="M45,41.9791065 L45,56 L27,56 L27,41.9791065 C19.905158,38.6087147 15,31.3771879 15,23 C15,11.4020203 24.4020203,2 36,2 C47.5979797,2 57,11.4020203 57,23 C57,31.3771879 52.094842,38.6087147 45,41.9791065 Z"/>
+    <rect width="22.474" height="4" x="24.763" y="50" fill="#80D25B" rx="2"/>
+    <rect width="22.474" height="4" x="24.763" y="54" fill="#5DAF38" rx="2"/>
+    <rect width="22.474" height="4" x="24.763" y="58" fill="#80D25B" rx="2"/>
+    <polygon fill="#F53B3E" points="30.081 20 42.06 20 42.06 50 30.081 50" transform="rotate(-180 36.07 35)"/>
+    <g transform="rotate(-180 21 10)">
+      <mask id="pencilbulb-b" fill="#fff">
+        <use xlink:href="#pencilbulb-a"/>
+      </mask>
+      <use fill="#FFDD95" xlink:href="#pencilbulb-a"/>
+      <rect width="6" height="8" x="3" y="8" fill="#F53B3E" mask="url(#pencilbulb-b)"/>
+    </g>
+    <polyline stroke="#4796E7" stroke-linecap="round" stroke-width="2" points="25.22 27.8 31.746 23.034 36.072 27.8 40.276 23.034 46.924 28.577"/>
+    <path stroke="#4796E7" stroke-linecap="square" stroke-width="2" d="M36,49 L36,29"/>
+  </g>
+</svg>

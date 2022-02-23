@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="27" height="5" x="35" y="56" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="35" y="51" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="35" y="46" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="35" y="41" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="35" y="36" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="35" y="31" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 97 0)"/>
+    <rect width="27" height="5" x="4" y="50" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="45" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="40" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="35" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="30" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="20" fill="#FFAF40" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="25" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <rect width="27" height="5" x="4" y="15" fill="#FFDD95" rx="2" transform="matrix(-1 0 0 1 35 0)"/>
+    <polyline stroke="#E43535" stroke-linecap="round" stroke-width="2" points="14.545 24.638 36.069 17.881 36.069 9.586 57.894 3.349" transform="matrix(-1 0 0 1 72.438 0)"/>
+    <polyline stroke="#E43535" stroke-linecap="round" stroke-width="2" points="55 21 59.091 23.547 57.045 27.89" transform="matrix(1 0 0 -1 0 48.89)"/>
+  </g>
+</svg>

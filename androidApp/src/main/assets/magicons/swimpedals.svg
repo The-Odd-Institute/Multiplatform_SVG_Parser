@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swimpedals</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(4.000000, 11.000000)">
+            <path d="M0,0 L6.75,3 L13.5,0 L20.25,3 L27,0 L24.5989853,40.0169123 C24.2681748,45.5304194 19.5207309,50 13.9920273,50 L13.0079727,50 C7.48072201,50 2.73245129,45.5408548 2.40101474,40.0169123 L0,0 Z" id="Rectangle-23" fill="#595959"></path>
+            <ellipse id="Oval-14" fill="#979797" cx="14" cy="39" rx="6" ry="8"></ellipse>
+            <path d="M7,7 L9.61183538,27.9486459" id="Path-10" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M18,7 L19.2398354,27.7950396" id="Path-10-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(18.619918, 17.397520) scale(-1, 1) translate(-18.619918, -17.397520) "></path>
+        </g>
+        <path d="M34,5 L40.75,8 L47.5,5 L54.25,8 L61,5 L58.5989853,45.0169123 C58.2681748,50.5304194 53.5207309,55 47.9920273,55 L47.0079727,55 C41.480722,55 36.7324513,50.5408548 36.4010147,45.0169123 L34,5 Z" id="Rectangle-23" fill="#595959" transform="translate(47.500000, 30.000000) scale(-1, 1) translate(-47.500000, -30.000000) "></path>
+        <ellipse id="Oval-14" fill="#979797" transform="translate(47.000000, 44.000000) scale(-1, 1) translate(-47.000000, -44.000000) " cx="47" cy="44" rx="6" ry="8"></ellipse>
+        <path d="M51.3881646,12 L54,32.9486459" id="Path-10" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(52.694082, 22.474323) scale(-1, 1) translate(-52.694082, -22.474323) "></path>
+        <path d="M41.7601646,12 L43,32.7950396" id="Path-10-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

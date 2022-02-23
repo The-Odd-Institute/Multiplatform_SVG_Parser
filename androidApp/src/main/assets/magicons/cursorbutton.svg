@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="33" cy="32" r="29" fill="#E43535"/>
+    <circle cx="33" cy="32" r="18" fill="#D8D8D8"/>
+    <circle cx="33" cy="32" r="8" fill="#E43535"/>
+    <path fill="#FFDD95" d="M44.8063492,44.5390579 L51.0563492,45.9693927 L43.5563492,27.0563492 L36.0563492,45.9693927 L42.3063492,44.5390579 L42.3063492,56.0563492 L44.8063492,56.0563492 L44.8063492,44.5390579 Z" transform="rotate(-45 43.556 41.556)"/>
+  </g>
+</svg>

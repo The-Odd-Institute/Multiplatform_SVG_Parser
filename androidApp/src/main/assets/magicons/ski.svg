@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>ski</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval-102" fill="#5395EA" cx="27" cy="11" rx="4" ry="8"></ellipse>
+        <rect id="Rectangle-209" fill="#B4DFFB" x="23" y="11" width="8" height="53"></rect>
+        <path d="M30,34 C30,32.3431458 28.6568542,31 27,31 C25.3431458,31 24,32.3431458 24,34 L30,34 Z" id="Oval-103" fill="#ED9111"></path>
+        <path d="M25,35 L25,38" id="Line" stroke="#E43535" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M29,35 L29,38" id="Line-Copy-137" stroke="#E43535" stroke-width="2" stroke-linecap="square"></path>
+        <ellipse id="Oval-102-Copy" fill="#5395EA" cx="39" cy="11" rx="4" ry="8"></ellipse>
+        <rect id="Rectangle-209-Copy" fill="#B4DFFB" x="35" y="11" width="8" height="53"></rect>
+        <path d="M42,34 C42,32.3431458 40.6568542,31 39,31 C37.3431458,31 36,32.3431458 36,34 L42,34 Z" id="Oval-103-Copy" fill="#ED9111"></path>
+        <path d="M37,35 L37,38" id="Line-Copy-139" stroke="#E43535" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M41,35 L41,38" id="Line-Copy-138" stroke="#E43535" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M15,15 L15,55" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <rect id="Rectangle-210" fill="#5395EA" x="13" y="11" width="4" height="10"></rect>
+        <path d="M13,53 L17,53" id="Line" stroke="#D8D8D8" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M51,15 L51,55" id="Line-Copy-141" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <rect id="Rectangle-210-Copy" fill="#5395EA" x="49" y="11" width="4" height="10"></rect>
+        <path d="M49,53 L53,53" id="Line-Copy-140" stroke="#D8D8D8" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

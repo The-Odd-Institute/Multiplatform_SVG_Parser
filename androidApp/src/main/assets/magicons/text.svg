@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M9 50L9 8.98780669M55 50L55 8.98780669M11 8L57.0108683 8M11 54L57.0108683 54"/>
+    <rect width="10" height="10" x="4" y="3" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="4" y="26" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="50" y="26" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="50" y="49" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="4" y="49" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="27" y="3" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="27" y="49" fill="#D8D8D8"/>
+    <rect width="10" height="10" x="50" y="3" fill="#D8D8D8"/>
+    <path fill="#0A3586" d="M34,42 L34,20 L42,20 L42,22 L46,22 L46,18.5 L46,16 L18,16 L18,18.5 L18,22 L22,22 L22,20 L30,20 L30,42 L28,42 L28,45 L36,45 L36,42 L34,42 Z"/>
+  </g>
+</svg>

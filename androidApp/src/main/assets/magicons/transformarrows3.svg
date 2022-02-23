@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#5B68C0" points="18 10 22 10 22 31 18 31" transform="rotate(-45 20 20.5)"/>
+    <polygon fill="#5B68C0" points="18 32 22 32 22 53 18 53" transform="scale(1 -1) rotate(-45 -82.604 0)"/>
+    <polygon fill="#5B68C0" points="40 10 44 10 44 31 40 31" transform="scale(-1 1) rotate(-45 0 121.897)"/>
+    <polygon fill="#5B68C0" points="41 31 45 31 45 52 41 52" transform="rotate(135 43 41.5)"/>
+    <polygon fill="#D650C7" points="8 9 21 9 8 22"/>
+    <polygon fill="#D650C7" points="8 42 21 42 8 55" transform="matrix(1 0 0 -1 0 97)"/>
+    <polygon fill="#D650C7" points="42 9 55 9 42 22" transform="matrix(-1 0 0 1 97 0)"/>
+    <polygon fill="#D650C7" points="42 42 55 42 42 55" transform="rotate(180 48.5 48.5)"/>
+  </g>
+</svg>

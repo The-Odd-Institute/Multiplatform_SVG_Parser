@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>woodaxe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M52,56.9999997 L52,28 L16,28 L16,57 C16,60.3137085 24.0588745,63 34,63 C43.9411255,63 52,60.3137085 52,57 Z" id="Combined-Shape-Copy-3" fill="#BD7575"></path>
+        <path d="M23,40 L23,50" id="Line-Copy-121" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M46,32 L46,38" id="Line-Copy-122" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M19,31 L19,37" id="Line-Copy-123" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M34,30 L34,36" id="Line-Copy-124" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M38,45 L38,55" id="Line-Copy-126" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,48 L32,52" id="Line-Copy-127" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <ellipse id="Oval-86-Copy-2" fill="#AB5F5F" cx="34" cy="28" rx="18" ry="6"></ellipse>
+        <g id="Group-12" transform="translate(27.977814, 16.582910) rotate(-239.000000) translate(-27.977814, -16.582910) translate(19.977814, 1.582910)">
+            <path d="M3.09677419,-3.63797881e-12 L7.74193548,-3.63797881e-12 C7.74193548,-3.63797881e-12 8.77419355,11.6940025 8.77419355,17.75 C8.77419355,23.8059975 8.25806452,30 8.25806452,30 L1.5483871,30 C1.5483871,30 4.12903226,26.4440025 4.12903226,17.75 C4.12903226,9.05599749 3.09677419,-3.63797881e-12 3.09677419,-3.63797881e-12 Z" id="Rectangle-146-Copy" fill="#ED9111"></path>
+            <path d="M0,2 C0,2 3.91597344,2.75525166 8,2.5 C12.0840266,2.24474834 16,0 16,0 L16,11.5 C16,11.5 11.8755273,9.11333068 8,8.75 C4.12447275,8.38666932 0,9 0,9 L0,2 Z" id="Rectangle-141-Copy" fill="#D8D8D8"></path>
+            <path d="M13.9354839,2.5 L13.9354839,8.13912997" id="Path-40-Copy" stroke="#D8D8D8" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

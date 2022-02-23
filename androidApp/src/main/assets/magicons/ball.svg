@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>ball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-49-Copy-2" fill="#ED9111" transform="translate(32.000000, 33.000000) rotate(-315.000000) translate(-32.000000, -33.000000) " cx="32" cy="33" r="29"></circle>
+        <path d="M23.0310425,6.01285822 C23.0310425,6.01285822 28.9656465,4.01736878 32.0310425,4.01736878 C35.0964385,4.01736878 41.0310425,6.01285822 41.0310425,6.01285822 L41.0310425,60.0128582 C41.0310425,60.0128582 35.019418,61.9205462 32.0310425,61.9205462 C29.042667,61.9205462 23.0310425,60.0128582 23.0310425,60.0128582 L23.0310425,6.01285822 Z" id="Rectangle-129" fill="#ECECEC" transform="translate(32.031042, 32.968958) rotate(-315.000000) translate(-32.031042, -32.968958) "></path>
+        <circle id="Oval-49-Copy-4" stroke="#5B68C0" stroke-width="2" stroke-linecap="round" transform="translate(32.000000, 33.000000) rotate(-315.000000) translate(-32.000000, -33.000000) " cx="32" cy="33" r="29"></circle>
+        <path d="M25.136039,-0.156854249 L25.136039,53.8524042" id="Line" stroke="#5B68C0" stroke-width="2" stroke-linecap="square" transform="translate(25.636039, 27.343146) rotate(-315.000000) translate(-25.636039, -27.343146) "></path>
+        <path d="M27.9644661,2.67157288 L27.9644661,56.6808313" id="Line-Copy-77" stroke="#5B68C0" stroke-width="2" stroke-linecap="square" stroke-dasharray="4" transform="translate(28.464466, 30.171573) rotate(-315.000000) translate(-28.464466, -30.171573) "></path>
+        <path d="M35.0355339,9.74264069 L35.0355339,63.7518992" id="Line-Copy-78" stroke="#5B68C0" stroke-width="2" stroke-linecap="square" stroke-dasharray="4" transform="translate(35.535534, 37.242641) rotate(-315.000000) translate(-35.535534, -37.242641) "></path>
+        <path d="M37.863961,12.5710678 L37.863961,66.5803263" id="Line-Copy-76" stroke="#5B68C0" stroke-width="2" stroke-linecap="square" transform="translate(38.363961, 40.071068) rotate(-315.000000) translate(-38.363961, -40.071068) "></path>
+    </g>
+</svg>

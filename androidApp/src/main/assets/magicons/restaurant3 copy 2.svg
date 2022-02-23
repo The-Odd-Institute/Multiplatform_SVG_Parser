@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="11" x="29" y="51" fill="#D8D8D8"/>
+    <rect width="14" height="1" x="25" y="63" stroke="#979797" stroke-width="2"/>
+    <path fill="#868686" d="M2,16.995507 C2,15.3411342 3.33730974,14 4.99593743,14 L59.0040626,14 C60.6586731,14 62,15.3424683 62,16.995507 L62,50.004493 C62,51.6588658 60.6626903,53 59.0040626,53 L4.99593743,53 C3.34132688,53 2,51.6575317 2,50.004493 L2,16.995507 Z"/>
+    <rect width="54" height="33" x="5" y="17" fill="#FFDD95"/>
+    <circle cx="32" cy="33" r="12" fill="#0A3586"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M28,36 L28,6"/>
+    <path fill="#ED9111" d="M25.7507425,3.49257535 C25.8884036,2.115964 27.1170893,1 28.504611,1 L29,1 L29,21 L24,21 L25.7507425,3.49257535 Z"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-width="2" d="M40,2 L40,7.9914698 C40,9.1007504 39.1017394,10 38.0020869,10 L35.9979131,10 C34.8944962,10 34,9.09804964 34,7.9914698 L34,2"/>
+    <path stroke="#ED9111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M37,36 L37,2"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="13" height="35" x="26.172" y="13.828" fill="#595959" transform="rotate(45 32.672 31.328)"/>
+    <rect width="3" height="8" x="32.232" y="26.268" fill="#FFDD95" transform="rotate(45 33.732 30.268)"/>
+    <path fill="#D8D8D8" d="M9.90811691,42.0918831 L22.9081169,42.0918831 L22.9081169,47.5918831 C22.9081169,50.6294492 20.4476331,53.0918831 17.4137893,53.0918831 L15.4024445,53.0918831 C12.3680112,53.0918831 9.90811691,50.6232684 9.90811691,47.5918831 L9.90811691,42.0918831 Z" transform="rotate(45 16.408 47.592)"/>
+    <circle cx="49.642" cy="14.358" r="12.5" fill="#D650C7" transform="rotate(45 49.642 14.358)"/>
+    <rect width="2" height="2" x="41" y="8" fill="#FF78C7"/>
+    <rect width="2" height="2" x="46" y="8" fill="#FF78C7"/>
+    <rect width="2" height="2" x="51" y="8" fill="#FF78C7"/>
+    <rect width="2" height="2" x="56" y="8" fill="#FF78C7"/>
+    <rect width="2" height="2" x="44" y="12" fill="#FF78C7"/>
+    <rect width="2" height="2" x="44" y="4" fill="#FF78C7"/>
+    <rect width="2" height="2" x="44" y="20" fill="#FF78C7"/>
+    <rect width="2" height="2" x="39" y="12" fill="#FF78C7"/>
+    <rect width="2" height="2" x="49" y="12" fill="#FF78C7"/>
+    <rect width="2" height="2" x="49" y="4" fill="#FF78C7"/>
+    <rect width="2" height="2" x="49" y="20" fill="#FF78C7"/>
+    <rect width="2" height="2" x="54" y="12" fill="#FF78C7"/>
+    <rect width="2" height="2" x="54" y="4" fill="#FF78C7"/>
+    <rect width="2" height="2" x="54" y="20" fill="#FF78C7"/>
+    <rect width="2" height="2" x="59" y="12" fill="#FF78C7"/>
+    <rect width="2" height="2" x="41" y="16" fill="#FF78C7"/>
+    <rect width="2" height="2" x="46" y="16" fill="#FF78C7"/>
+    <rect width="2" height="2" x="51" y="16" fill="#FF78C7"/>
+    <rect width="2" height="2" x="56" y="16" fill="#FF78C7"/>
+    <polyline stroke="#979797" stroke-linecap="round" stroke-width="2" points="12.577 51.079 5.457 58.2 22.532 58.2"/>
+  </g>
+</svg>

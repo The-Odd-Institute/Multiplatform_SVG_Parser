@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="ruler2-a" d="M58,0 L58,58 L0,58 L58,0 Z M46,30 L30,46 L46,46 L46,30 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(3 3)">
+    <mask id="ruler2-b" fill="#fff">
+      <use xlink:href="#ruler2-a"/>
+    </mask>
+    <use fill="#B4DFFB" xlink:href="#ruler2-a"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="7.586 50 12 54.414 13.414 53 9 48.586" mask="url(#ruler2-b)"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="18.586 39 23 43.414 24.414 42 20 37.586" mask="url(#ruler2-b)"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="28.586 29 33 33.414 34.414 32 30 27.586" mask="url(#ruler2-b)"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="38.586 19 43 23.414 44.414 22 40 17.586" mask="url(#ruler2-b)"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="48.586 9 53 13.414 54.414 12 50 7.586" mask="url(#ruler2-b)"/>
+  </g>
+</svg>

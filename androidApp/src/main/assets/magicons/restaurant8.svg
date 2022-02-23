@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="22" height="6" x="3" y="9" fill="#5EA7FF" rx="3"/>
+    <path fill="#FFDD95" d="M8.05104126,13 L56.0510413,13 L58.9527329,23.1559209 C59.5593119,25.2789472 58.2512462,27 56.0461329,27 L8.05594956,27 C5.84409978,27 4.54151977,25.2833252 5.14934957,23.1559209 L8.05104126,13 Z"/>
+    <rect width="44" height="31" x="10" y="27" fill="#ED9111"/>
+    <polygon fill="#B4DFFB" points="17 41 47 41 47 53 17 53"/>
+    <rect width="54" height="4" x="5" y="58" fill="#5B68C0" rx="2"/>
+    <path fill="#FFDD95" d="M16.6223095,32.5 L47.4794524,32.5 L48.952905,37.6570842 C49.5593004,39.779468 48.2656353,41.5 46.0607023,41.5 L18.0410595,41.5 C15.8373447,41.5 14.5405996,39.7859846 15.1488569,37.6570842 L16.6223095,32.5 Z"/>
+    <rect width="22" height="6" x="37" y="4" fill="#5EA7FF" rx="3"/>
+    <rect width="22" height="6" x="30" fill="#5EA7FF" rx="3"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M20,47.718479 L23.8134022,44"/>
+  </g>
+</svg>

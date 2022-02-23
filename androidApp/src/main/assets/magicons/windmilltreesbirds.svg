@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M43 50L43 4M40 19L33 25"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M53,19 L46,25" transform="matrix(-1 0 0 1 99 0)"/>
+    <circle cx="43" cy="17" r="4" fill="#D8D8D8"/>
+    <path fill="#80D25B" d="M2,63.2800379 L62.0333241,63.2800379 C62.0333241,63.2800379 58.9878623,53.8140625 52.2357555,52.0726122 C45.4836487,50.3311619 43.3996494,50.9709695 35.4151316,52.1497974 C27.4306137,53.3286253 2,63.2800379 2,63.2800379 Z"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="51 11.262 54.464 13.302 57.94 11"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="55 16.262 58.464 18.302 61.94 16"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="33 6.262 36.464 8.302 39.94 6"/>
+    <path fill="#BD7575" d="M9,33.0053227 C9,29.6886745 11.6827759,27 14.9981851,27 L17.0018149,27 C20.314521,27 23,29.6764399 23,33.0053227 L23,63 L9,63 L9,33.0053227 Z"/>
+    <path stroke="#BD7575" stroke-linecap="square" stroke-width="2" d="M16,27 L16,17.7804555"/>
+    <g transform="rotate(-45 18.778 9.192)">
+      <g transform="translate(10)">
+        <rect width="4" height="9" fill="#D8D8D8"/>
+        <rect width="4" height="9" y="15" fill="#D8D8D8"/>
+        <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M2,16 L2,8"/>
+      </g>
+      <g transform="rotate(-90 7 7)">
+        <rect width="4" height="9" fill="#D8D8D8"/>
+        <rect width="4" height="9" y="15" fill="#D8D8D8"/>
+        <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M2,16 L2,8"/>
+      </g>
+    </g>
+    <rect width="6" height="9" x="13" y="54" fill="#595959"/>
+    <path fill="#595959" d="M12,34.9999433 C12,32.7908356 13.7953562,31 16,31 L16,31 C18.209139,31 20,32.7996535 20,34.9999433 L20,40 L12,40 L12,34.9999433 Z"/>
+  </g>
+</svg>

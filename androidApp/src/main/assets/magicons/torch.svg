@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>torch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18.6320745,52.5339784 C23.2867565,52.5339784 26.8560948,44.9153975 26.8560948,40.2607154 C26.8560948,36.9510732 21.8506074,26.8805759 21.8506074,29.1218349 C21.8506074,31.363094 21.0167526,32.4695594 20.4262133,32.1157929 C16.7645006,29.9222195 19.1366941,26 18.4280474,26 C13.7733654,26 10.4080541,40.3062117 10.4080541,44.9608937 C10.4080541,49.6155758 13.9773924,52.5339784 18.6320745,52.5339784 Z" id="Oval" fill="#E43535"></path>
+        <rect id="Rectangle-39" fill="#979797" transform="translate(43.552038, 28.031223) rotate(-315.000000) translate(-43.552038, -28.031223) " x="42.5520382" y="6.53122292" width="2" height="43"></rect>
+        <rect id="Rectangle-38" fill="#9C4D4D" transform="translate(22.692388, 48.890873) rotate(-315.000000) translate(-22.692388, -48.890873) " x="18.6923882" y="39.890873" width="8" height="18" rx="4"></rect>
+        <path d="M20.2013933,21.2807141 C20.2013933,21.2807141 21.0524173,18.1942032 19.1986982,14.1365607 C17.344979,10.0789182 29.1818082,18.0339879 24.9103812,20.0744184 C20.6389542,22.1148488 20.2013933,21.2807141 20.2013933,21.2807141 Z" id="Path-15" fill="#E43535"></path>
+    </g>
+</svg>

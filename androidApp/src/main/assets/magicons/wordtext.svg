@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#4796E7" points="12 2 41.105 2 53 13.753 53 62 12 62"/>
+    <polygon fill="#B4DFFB" points="41 2 53 2 53 14" transform="rotate(-180 47 8)"/>
+    <path stroke="#FFF" stroke-linecap="square" stroke-width="2" d="M31 17L50.0262976 17M17 32L49.3447059 32M31 22L50.0262976 22M17 37L49 37M31 27L50.0262976 27M17 42L49.3447059 42M17 47L49.3447059 47M17 52L38 52"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="18" font-weight="300">
+      <tspan x="15.02" y="27">w</tspan>
+    </text>
+  </g>
+</svg>

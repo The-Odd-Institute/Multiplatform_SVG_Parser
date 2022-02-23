@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M32,6 L32,60"/>
+    <polygon fill="#80D25B" points="24 31.5 15 43 15 20" transform="matrix(-1 0 0 1 39 0)"/>
+    <polygon fill="#80D25B" points="49 31.5 40 43 40 20"/>
+  </g>
+</svg>

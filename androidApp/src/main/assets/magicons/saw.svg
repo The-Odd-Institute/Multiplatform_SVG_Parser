@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>saw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-63" fill="#D8D8D8" points="14 17 64 17 64 36 57.75 33 51.5 36 45.25 33 39 36 32.75 33 26.5 36 20.25 33 14 36"></polygon>
+        <path d="M18,21 L63,21" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M2,20.9974219 C2,19.8942762 2.89706013,19 4.00585866,19 L13.9941413,19 C15.1019465,19 16,19.8909254 16,20.9974219 L16,36.0025781 C16,37.1057238 15.1029399,38 13.9941413,38 L4.00585866,38 C2.89805351,38 2,37.1090746 2,36.0025781 L2,20.9974219 Z" id="Rectangle-62" stroke="#D650C7" stroke-width="4" stroke-linecap="round"></path>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="54" height="9" x="6" y="51" fill="#ECECEC"/>
+    <polygon fill="#FF5656" points="20.5 27 33 27 45.5 27 58 43 8 43"/>
+    <rect width="20" height="26" x="23" y="34" fill="#0A3586"/>
+    <rect width="8" height="17" x="43" y="43" fill="#325AA6"/>
+    <rect width="4" height="7" x="25" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="25" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="45" y="45" fill="#D8D8D8"/>
+    <rect width="8" height="17" x="15" y="43" fill="#325AA6"/>
+    <rect width="4" height="7" x="17" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="31" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="31" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="45" fill="#D8D8D8"/>
+    <polygon fill="#FCC24C" points="17 14.5 12.886 16.663 13.671 12.082 10.343 8.837 14.943 8.168 17 4 19.057 8.168 23.657 8.837 20.329 12.082 21.114 16.663"/>
+    <polygon fill="#FCC24C" points="49 14.5 44.886 16.663 45.671 12.082 42.343 8.837 46.943 8.168 49 4 51.057 8.168 55.657 8.837 52.329 12.082 53.114 16.663"/>
+    <polygon fill="#FCC24C" points="33 14.5 28.886 16.663 29.671 12.082 26.343 8.837 30.943 8.168 33 4 35.057 8.168 39.657 8.837 36.329 12.082 37.114 16.663"/>
+  </g>
+</svg>

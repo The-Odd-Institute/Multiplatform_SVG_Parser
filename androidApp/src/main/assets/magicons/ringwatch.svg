@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#5B68C0" d="M11,13.0065045 C11,10.7937732 12.7873299,9 14.9931023,9 L25,9 L25,22 L11,22 L11,13.0065045 Z"/>
+    <polygon fill="#5B68C0" points="20 45 24 45 14 58 10 58"/>
+    <polygon fill="#5B68C0" points="50 45 54 45 44 58 40 58" transform="matrix(-1 0 0 1 94 0)"/>
+    <path fill="#5B68C0" d="M38,13.0065045 C38,10.7937732 39.7873299,9 41.9931023,9 L52,9 L52,22 L38,22 L38,13.0065045 Z" transform="matrix(-1 0 0 1 90 0)"/>
+    <circle cx="32" cy="32" r="24" fill="#FFAF40"/>
+    <circle cx="32" cy="32" r="21" fill="#FFDD95"/>
+    <path stroke="#C13F98" stroke-linecap="square" stroke-width="2" d="M13,32 L17,32 M51,32 L47,32 M32,51 L32,47"/>
+    <polyline stroke="#F5413E" stroke-linecap="round" stroke-width="2" points="32.023 12.849 32.023 32.045 41.987 32.045"/>
+    <rect width="58" height="4" x="3" y="58" fill="#BD7575"/>
+  </g>
+</svg>

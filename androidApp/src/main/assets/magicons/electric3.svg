@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="36" height="55" x="7" y="5" fill="#ECECEC" rx="2"/>
+    <g transform="matrix(-1 0 0 1 40 20)">
+      <path fill="#80D25B" d="M15.435675,31 C20.301337,31 25,26.2163013 25,21.3131203 C25,16.4099394 17.1226939,3 17.1226939,3 C17.1226939,3 7.62882483,15.3918301 7.05405343,20.6592359 C6.47928203,25.9266417 10.570013,31 15.435675,31 Z" transform="rotate(36 16 17)"/>
+      <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M22,10 C22,10 12.8859478,15.6488685 9.57160406,26.0527799 C8.71883296,28.7296763 7.43565096,30.6395938 6,32"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="17 24 10.935 23.715 8 18"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="19 18 14.459 17.197 13 14"/>
+    </g>
+    <path fill="#ED9111" d="M38,21 C38,13.8202983 32.1797017,8 25,8 C17.8202983,8 12,13.8202983 12,21 L38,21 Z"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25,21 L25,11"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M14.827183 17.0200004L17.2990783 18.0266104M19 12L20.54421 14.4383366"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M32.827183,17.0200004 L35.2990783,18.0266104" transform="matrix(-1 0 0 1 68.126 0)"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M29,12 L30.54421,14.4383366" transform="matrix(-1 0 0 1 59.544 0)"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M42.3895427,23.9373945 L45.0453432,23.9373945 C46.1513642,23.9373945 47.0479714,24.8404042 47.0479714,25.9404782 L47.0479714,52.1070352 C47.0479714,53.2133078 47.9416358,54.1101189 49.0404726,54.1101189 L54.0334342,54.1101189 C55.1338622,54.1101189 56.0259353,53.2062958 56.0259353,52.1162255 L56.0259353,16.0270135"/>
+    <path fill="#D8D8D8" d="M51,7 L61,7 L61,12 C61,14.7614237 58.7558048,17 56,17 L56,17 C53.2385763,17 51,14.7558048 51,12 L51,7 Z"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M54 6L54 4M58 6L58 4"/>
+  </g>
+</svg>

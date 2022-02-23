@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swimhat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-74" fill="#D8D8D8" x="27" y="47" width="9" height="6"></rect>
+        <path d="M7,50 L3,50" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M62,50 L58,50" id="Line-Copy-33" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <ellipse id="Oval-35" fill="#595959" cx="18" cy="50" rx="12" ry="8"></ellipse>
+        <path d="M62,30.5 C62,14.2075999 48.7924001,1 32.5,1 C16.2075999,1 3,14.2075999 3,30.5 L62,30.5 Z" id="Oval-36" fill="#FCC24C"></path>
+        <path d="M33,6 C22.1700624,6 12.9485128,12.8863277 9.4752271,22.5191072" id="Oval-37" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        <ellipse id="Oval-35-Copy" fill="#595959" cx="47" cy="50" rx="12" ry="8"></ellipse>
+        <rect id="Rectangle-76" fill="#D650C7" x="3" y="30" width="59" height="8"></rect>
+    </g>
+</svg>

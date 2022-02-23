@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#BD7575" points="6 32 58 32 62 52 2 52"/>
+    <polygon fill="#9C4D4D" points="2 52 62 52 62 57 2 57"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M55,23 L10,23"/>
+    <path fill="#D8D8D8" d="M16.0810158,40 C16.635564,41.6961471 19.9697464,43 24,43 C28.0302536,43 31.364436,41.6961471 31.9189842,40 L32,40 L32,24 L16,24 L16,40 L16.0810158,40 Z"/>
+    <ellipse cx="24" cy="24.5" fill="#D650C7" rx="8" ry="3.5"/>
+    <ellipse cx="24.5" cy="24.5" fill="#FF78C7" rx="2.5" ry="1.5"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M53,7 L14,20"/>
+  </g>
+</svg>

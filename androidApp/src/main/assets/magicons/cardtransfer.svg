@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#5B68C0" points="35 59 62 59 62 62 35 62"/>
+    <rect width="4" height="14" x="36" y="44" fill="#4796E7" rx="1"/>
+    <rect width="4" height="14" x="43" y="44" fill="#4796E7" rx="1"/>
+    <rect width="4" height="14" x="51" y="44" fill="#4796E7" rx="1"/>
+    <rect width="4" height="14" x="58" y="44" fill="#4796E7" rx="1"/>
+    <path fill="#5B68C0" d="M47.6430685 35.2058818C48.1166143 34.9260051 48.8907995 34.9297969 49.3579297 35.2058818L61.6879919 42.4932384C62.1615378 42.7731151 62.1041981 43 61.54569 43L35.4553082 43C34.9031711 43 34.845876 42.7693233 35.3130063 42.4932384L47.6430685 35.2058818zM3 7.00187852C3 4.79170204 4.79309123 3 7.00180999 3L42.99819 3C45.2083286 3 47 4.79219474 47 7.00187852L47 27.9981215C47 30.208298 45.2069088 32 42.99819 32L7.00180999 32C4.79167136 32 3 30.2078053 3 27.9981215L3 7.00187852z"/>
+    <circle cx="12" cy="12" r="5" stroke="#F5413E" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="16" cy="12" r="5" stroke="#FFAF40" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="3" x="6" y="25" fill="#D8D8D8"/>
+    <polyline stroke="#5B68C0" stroke-dasharray="4" stroke-linecap="round" stroke-width="2" points="15.012 36.077 15.012 52.014 31.003 52.014"/>
+  </g>
+</svg>

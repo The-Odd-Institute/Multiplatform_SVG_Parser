@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>scooter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path-50" stroke="#22BA8E" stroke-width="2" stroke-linecap="round" points="12.6101197 41.0247369 24.2409036 55.0115704 56.4130629 55.0115704"></polyline>
+        <circle id="Oval-93" fill="#595959" cx="56.5" cy="55.5" r="5.5"></circle>
+        <circle id="Oval-93-Copy" fill="#D8D8D8" cx="56.5" cy="55.5" r="2.5"></circle>
+        <rect id="Rectangle-189" fill="#595959" x="10" y="48" width="5" height="13" rx="2"></rect>
+        <path d="M14,11 L14,46 L11,46 L11,11 L10,11 L10,8 L15,8 L15,11 L14,11 Z" id="Combined-Shape" fill="#D8D8D8"></path>
+        <rect id="Rectangle-193" fill="#595959" x="2" y="8" width="8" height="3"></rect>
+        <path d="M9,54 L9,49.0016655 L9,49.0016655 C9,47.3438914 10.3496704,46 12.0092545,46 L12.9907455,46 C14.6527109,46 16,47.3390201 16,49.0016655 L16,54" id="Rectangle-190" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <rect id="Rectangle-193-Copy" fill="#595959" x="15" y="8" width="8" height="3"></rect>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#E6E6E6" points="19.045 2 52 2 52 60 12 60 12 8.065"/>
+    <circle cx="32" cy="31" r="12" fill="#E43535"/>
+    <polygon fill="#FFF" points="38 31 28 36 28 26"/>
+    <polygon fill="#CDCDCD" points="19 2 19 8 12 8"/>
+    <circle cx="52" cy="55" r="9" fill="#80D25B"/>
+    <g stroke="#FFF" stroke-width="2" transform="matrix(-1 0 0 1 57 50)">
+      <path stroke-linecap="square" d="M5,0 L5,8"/>
+      <polyline stroke-linecap="round" stroke-linejoin="round" points=".987 6.021 5.077 10.296 9.029 6.021"/>
+    </g>
+  </g>
+</svg>

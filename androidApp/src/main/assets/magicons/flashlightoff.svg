@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>flashlightoff</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-151" fill="#325AA6" x="24" y="2" width="20" height="10"></rect>
+        <polygon id="Rectangle-152" fill="#ED9111" points="24 12 44 12 42 21 26 21"></polygon>
+        <rect id="Rectangle-153" fill="#325AA6" x="26" y="21" width="16" height="3"></rect>
+        <rect id="Rectangle-153-Copy-2" fill="#325AA6" x="26" y="60" width="16" height="3"></rect>
+        <polygon id="Rectangle-153-Copy" fill="#ED9111" points="26 24 42 24 42 60 26 60"></polygon>
+        <rect id="Rectangle-154" fill="#80D25B" x="42" y="29" width="4" height="10"></rect>
+    </g>
+</svg>

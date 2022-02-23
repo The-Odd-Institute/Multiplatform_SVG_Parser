@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>cordjump</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-92" fill="#FF78C7" x="2" y="36" width="8" height="26" rx="4"></rect>
+        <rect id="Rectangle-92-Copy" fill="#FF78C7" transform="translate(49.000000, 11.803919) rotate(-270.000000) translate(-49.000000, -11.803919) " x="45.1960809" y="-1.19608085" width="7.60783829" height="26" rx="3.80391915"></rect>
+        <path d="M36,8 C33.790861,8 32,9.790861 32,12 C32,14.209139 33.790861,16 36,16 L36,16" id="Oval-46" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M8,30 C5.790861,30 4,31.790861 4,34 C4,36.209139 5.790861,38 8,38 L8,38" id="Oval-46-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(6.000000, 34.000000) rotate(-270.000000) translate(-6.000000, -34.000000) "></path>
+        <path d="M5.92383774,32.1353444 L5.92383774,30.0808171 C5.92383774,26.7645316 8.60204448,24.0761511 11.9272392,24.0761511 L12.9990225,24.0761511 C16.3146096,24.0761511 19.002424,26.7614299 19.002424,30.0761508 L19.002424,47.0335887 C19.002424,50.347297 21.695533,53.0335884 24.9934777,53.0335884 L50.0437728,53.0335884 C53.3525404,53.0335884 56.0348265,50.3562881 56.0348265,47.0358661 L56.0348265,33.1013182 C56.0348265,29.7888676 53.3579731,27.0926114 50.0422908,27.0790055 L33.0210355,27.0091588 C29.7114494,26.9955779 27.0284997,24.2992657 27.0284997,20.9790188 L27.0284997,18.0663716 C27.0284997,14.7495981 29.7180878,12.0608219 31.4339738,12.0608219 L31.4339738,12.0608219" id="Path-19" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

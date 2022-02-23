@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0A3586" d="M21,64 L17,64 L17,0 L21,0 L21,1.99074554 C21,3.65032959 22.3391568,5 23.9910904,5 L42.0089096,5 C43.6582294,5 45,3.65271089 45,1.99074554 L45,5.55111512e-17 L49,0 L49,64 L45,64 L45,62.0092545 C45,60.3472891 43.6582294,59 42.0089096,59 L23.9910904,59 C22.3391568,59 21,60.3496704 21,62.0092545 L21,64 Z"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="22 16 30.083 16 30.083 14 22 14"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="22 22 30.083 22 30.083 20 22 20"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="36 16 44.083 16 44.083 14 36 14"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="36 22 44.083 22 44.083 20 36 20"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="22 47 30.083 47 30.083 45 22 45"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="22 53 30.083 53 30.083 51 22 51"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="36 47 44.083 47 44.083 45 36 45"/>
+    <polygon fill="#5EA7FF" fill-rule="nonzero" points="36 53 44.083 53 44.083 51 36 51"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M29.4644661,30.4644661 C28.5596441,31.3692881 28,32.6192881 28,34 C28,36.7614237 30.2385763,39 33,39 L33,39 C35.7614237,39 38,36.7614237 38,34 C38,32.6192881 37.4403559,31.3692881 36.5355339,30.4644661"/>
+    <path stroke="#E43535" stroke-linecap="square" stroke-width="2" d="M33,31 L33,28"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="monitortoolset-a" points="4.5 0 9 10 0 10"/>
+    <polygon id="monitortoolset-c" points="4.5 0 9 10 0 10"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="6" x="29" y="56" fill="#D8D8D8"/>
+    <rect width="14" height="1" x="25" y="62" stroke="#979797" stroke-width="2"/>
+    <path fill="#868686" d="M2,19.995507 C2,18.3411342 3.33730974,17 4.99593743,17 L59.0040626,17 C60.6586731,17 62,18.3424683 62,19.995507 L62,53.004493 C62,54.6588658 60.6626903,56 59.0040626,56 L4.99593743,56 C3.34132688,56 2,54.6575317 2,53.004493 L2,19.995507 Z"/>
+    <rect width="54" height="33" x="5" y="20" fill="#0A3586"/>
+    <rect width="9" height="42.013" x="25" y="11" fill="#5EA7FF"/>
+    <g transform="translate(25 1)">
+      <mask id="monitortoolset-b" fill="#fff">
+        <use xlink:href="#monitortoolset-a"/>
+      </mask>
+      <use fill="#D3B288" xlink:href="#monitortoolset-a"/>
+      <path fill="#0A3586" d="M4.5,0 L6.5530501,4.1061002 C6.79989371,4.59978743 6.55628335,5 6.00019251,5 L2.99980749,5 C2.44762906,5 2.19617081,4.60765839 2.4469499,4.1061002 L4.5,0 Z" mask="url(#monitortoolset-b)"/>
+    </g>
+    <path stroke="#507BCE" stroke-linecap="round" stroke-width="2" d="M29,13 L29,49"/>
+    <polygon fill="#80D25B" points="37 2 51 2 51 53 37 53"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M41.5,34.5 L41.5,27.5" transform="rotate(90 41.5 31)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M41.5,46.5 L41.5,39.5" transform="rotate(90 41.5 43)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M40,39 L40,35" transform="rotate(90 40 37)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M40,51 L40,47" transform="rotate(90 40 49)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M41.5,10.5 L41.5,3.5" transform="rotate(90 41.5 7)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M41.5,22.5 L41.5,15.5" transform="rotate(90 41.5 19)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M40,15 L40,11" transform="rotate(90 40 13)"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M40,27 L40,23" transform="rotate(90 40 25)"/>
+    <g transform="rotate(-90 33 20)">
+      <rect width="9" height="34" x="12.5" y="-12.5" fill="#FB3A3A" transform="rotate(90 17 4.5)"/>
+      <g transform="rotate(90 22 22)">
+        <mask id="monitortoolset-d" fill="#fff">
+          <use xlink:href="#monitortoolset-c"/>
+        </mask>
+        <use fill="#D3B288" xlink:href="#monitortoolset-c"/>
+        <path fill="#FB3A3A" d="M4.5,0 L6.5530501,4.1061002 C6.79989371,4.59978743 6.55628335,5 6.00019251,5 L2.99980749,5 C2.44762906,5 2.19617081,4.60765839 2.4469499,4.1061002 L4.5,0 Z" mask="url(#monitortoolset-d)"/>
+      </g>
+      <path stroke="#FF8E8E" stroke-linecap="round" stroke-width="2" d="M17.5,-9.5 L17.5,18.5" transform="rotate(90 18 4.5)"/>
+    </g>
+  </g>
+</svg>

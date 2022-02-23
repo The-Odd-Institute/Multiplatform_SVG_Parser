@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FFAF40" d="M2,16.991617 C2,15.8916773 2.88906428,15 3.99091407,15 L50.0090859,15 C51.1086374,15 52,15.8978404 52,16.991617 L52,45 L2,45 L2,16.991617 Z"/>
+    <rect width="60" height="3" x="2" y="45" fill="#BD7575"/>
+    <circle cx="13" cy="47" r="6" fill="#595959"/>
+    <circle cx="13" cy="47" r="3" fill="#D8D8D8"/>
+    <path fill="#FFAF40" d="M19,33.0058587 C19,31.8980535 19.8981161,31 21.0019996,31 L59.9980004,31 C61.1036743,31 62,31.8970601 62,33.0058587 L62,45 L19,45 L19,33.0058587 Z"/>
+    <polygon fill="#FB3A3A" fill-rule="nonzero" points="2 39 62 39 62 37 2 37"/>
+    <path fill="#C8E8FD" d="M42,23.0057983 C42,21.3457418 43.3486445,20 45.0003297,20 L52,20 L52,31 L45.0003297,31 C43.3432934,31 42,29.6511841 42,27.9942017 L42,23.0057983 Z"/>
+    <rect width="24" height="11" x="4" y="20" fill="#C8E8FD" rx="3" transform="matrix(-1 0 0 1 32 0)"/>
+    <circle cx="52" cy="47" r="6" fill="#595959"/>
+    <rect width="10" height="26" x="30" y="19" fill="#C8E8FD"/>
+    <circle cx="52" cy="47" r="3" fill="#D8D8D8"/>
+    <rect width="2" height="5" y="36" fill="#FB3A3A"/>
+    <rect width="2" height="5" x="62" y="36" fill="#FB3A3A"/>
+  </g>
+</svg>

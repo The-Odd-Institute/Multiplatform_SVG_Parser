@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="54" height="9" x="6" y="51" fill="#ECECEC"/>
+    <polygon fill="#FF5656" points="20.5 17 33 17 45.5 17 58 33 8 33"/>
+    <rect width="20" height="36" x="23" y="24" fill="#0A3586"/>
+    <rect width="8" height="27" x="43" y="33" fill="#325AA6"/>
+    <rect width="4" height="7" x="25" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="25" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="45" y="45" fill="#D8D8D8"/>
+    <rect width="8" height="27" x="15" y="33" fill="#325AA6"/>
+    <rect width="4" height="7" x="17" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="45" y="35" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="17" y="35" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="31" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="31" y="45" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="36" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="25" y="26" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="31" y="26" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="26" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="45" fill="#D8D8D8"/>
+    <polygon fill="#FCC24C" points="8 11.5 3.886 13.663 4.671 9.082 1.343 5.837 5.943 5.168 8 1 10.057 5.168 14.657 5.837 11.329 9.082 12.114 13.663"/>
+    <polygon fill="#FCC24C" points="40 11.5 35.886 13.663 36.671 9.082 33.343 5.837 37.943 5.168 40 1 42.057 5.168 46.657 5.837 43.329 9.082 44.114 13.663"/>
+    <polygon fill="#FCC24C" points="55 11.5 50.886 13.663 51.671 9.082 48.343 5.837 52.943 5.168 55 1 57.057 5.168 61.657 5.837 58.329 9.082 59.114 13.663"/>
+    <polygon fill="#FCC24C" points="24 11.5 19.886 13.663 20.671 9.082 17.343 5.837 21.943 5.168 24 1 26.057 5.168 30.657 5.837 27.329 9.082 28.114 13.663"/>
+  </g>
+</svg>

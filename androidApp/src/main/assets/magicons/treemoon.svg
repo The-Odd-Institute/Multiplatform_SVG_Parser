@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="53" cy="15" r="8" fill="#325AA6"/>
+    <circle cx="35" cy="20" r="8" fill="#325AA6"/>
+    <circle cx="44" cy="12" r="8" fill="#5EA7FF"/>
+    <circle cx="56" cy="25" r="8" fill="#5EA7FF"/>
+    <circle cx="50" cy="33" r="8" fill="#5EA7FF"/>
+    <path fill="#325AA6" d="M44,27 L48,27 C48,27 47.486833,35.7629936 48,45 C48.513167,54.2370064 52,63 52,63 L40,63 C40,63 43.513167,53.7629936 44,45 C44.486833,36.2370064 44,27 44,27 Z"/>
+    <path stroke="#325AA6" stroke-linecap="square" stroke-width="2" d="M8,62 L60.0864666,62"/>
+    <circle cx="46" cy="23" r="14" fill="#325AA6"/>
+    <circle cx="38" cy="31" r="8" fill="#5EA7FF"/>
+    <path fill="#325AA6" d="M8.41613251,8.59702925 C10.3038898,5.25568707 13.8885229,3 18,3 C24.0751322,3 29,7.92486775 29,14 C29,18.8203529 25.8994355,22.9165302 21.5838675,24.4029708 C22.4854666,22.8071346 23,20.9636552 23,19 C23,12.9248678 18.0751322,8 12,8 C10.7452207,8 9.53951195,8.210096 8.41613251,8.59702925 Z" transform="matrix(-1 0 0 1 37.416 0)"/>
+    <path stroke="#5EA7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24 47L24 51M22 49L26 49M5 29L5 33M3 31L7 31M18 33L18 37M16 35L20 35"/>
+  </g>
+</svg>

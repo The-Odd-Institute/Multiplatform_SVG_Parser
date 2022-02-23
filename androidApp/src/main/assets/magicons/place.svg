@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>place</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-113" fill="#5395EA" x="4" y="38" width="19" height="19"></rect>
+        <rect id="Rectangle-113-Copy" fill="#595959" x="23" y="38" width="19" height="19"></rect>
+        <rect id="Rectangle-113-Copy-3" fill="#ED9111" x="23" y="19" width="19" height="19"></rect>
+        <rect id="Rectangle-113-Copy-2" fill="#80D25B" x="42" y="38" width="19" height="19"></rect>
+        <text id="1" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300" fill="#0A3586">
+            <tspan x="29" y="33.670653">1</tspan>
+        </text>
+        <text id="2" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300" fill="#0A3586">
+            <tspan x="9" y="53">2</tspan>
+        </text>
+        <text id="3" font-family="MarkerFelt-Thin, Marker Felt" font-size="14" font-weight="300" fill="#0A3586">
+            <tspan x="48" y="53">3</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>skateboard2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.5502525,47.2989899 L35.5502525,47.2989899 L35.5502525,52.3082119 C35.5502525,52.8554035 35.1027631,53.2989899 34.5517502,53.2989899 L23.5487549,53.2989899 C22.9972973,53.2989899 22.5502525,52.8480147 22.5502525,52.3082119 L22.5502525,47.2989899 Z" id="Rectangle-123" fill="#595959" transform="translate(29.050253, 50.298990) rotate(-45.000000) translate(-29.050253, -50.298990) "></path>
+        <path d="M7.70101013,32.4497475 L20.7010101,32.4497475 L20.7010101,37.4589695 C20.7010101,38.0061611 20.2535207,38.4497475 19.7025078,38.4497475 L8.69951246,38.4497475 C8.14805485,38.4497475 7.70101013,37.9987723 7.70101013,37.4589695 L7.70101013,32.4497475 Z" id="Rectangle-123-Copy-2" fill="#595959" transform="translate(14.201010, 35.449747) scale(-1, -1) rotate(-45.000000) translate(-14.201010, -35.449747) "></path>
+        <path d="M48.7132034,21.136039 L61.7132034,21.136039 L61.7132034,26.145261 C61.7132034,26.6924526 61.265714,27.136039 60.7147011,27.136039 L49.7117058,27.136039 C49.1602482,27.136039 48.7132034,26.6850638 48.7132034,26.145261 L48.7132034,21.136039 Z" id="Rectangle-123-Copy" fill="#595959" transform="translate(55.213203, 24.136039) rotate(-45.000000) translate(-55.213203, -24.136039) "></path>
+        <path d="M33.863961,6.28679656 L46.863961,6.28679656 L46.863961,11.2960186 C46.863961,11.8432102 46.4164716,12.2867966 45.8654587,12.2867966 L34.8624634,12.2867966 C34.3110058,12.2867966 33.863961,11.8358214 33.863961,11.2960186 L33.863961,6.28679656 Z" id="Rectangle-123-Copy-3" fill="#595959" transform="translate(40.363961, 9.286797) scale(-1, -1) rotate(-45.000000) translate(-40.363961, -9.286797) "></path>
+        <rect id="Rectangle-122" fill="#FF78C7" transform="translate(34.000000, 30.500000) rotate(-45.000000) translate(-34.000000, -30.500000) " x="0" y="20" width="68" height="21" rx="5"></rect>
+        <path d="M19.8578644,40.1421356 L19.8578644,49.1421356" id="Line" stroke="#FCC24C" stroke-width="2" stroke-linecap="square" transform="translate(19.857864, 44.642136) rotate(-45.000000) translate(-19.857864, -44.642136) "></path>
+        <path d="M22.6862915,37.3137085 L22.6862915,46.3137085" id="Line-Copy-71" stroke="#FCC24C" stroke-width="2" stroke-linecap="square" transform="translate(22.686292, 41.813708) rotate(-45.000000) translate(-22.686292, -41.813708) "></path>
+        <path d="M46.7279221,13.2720779 L46.7279221,22.2720779" id="Line-Copy-73" stroke="#FCC24C" stroke-width="2" stroke-linecap="square" transform="translate(46.727922, 17.772078) rotate(-45.000000) translate(-46.727922, -17.772078) "></path>
+        <path d="M49.5563492,10.4436508 L49.5563492,19.4436508" id="Line-Copy-72" stroke="#FCC24C" stroke-width="2" stroke-linecap="square" transform="translate(49.556349, 14.943651) rotate(-45.000000) translate(-49.556349, -14.943651) "></path>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="sketch-a" points="4.5 0 9 10 0 10"/>
+    <path id="sketch-b" d="M6.75,5 L4.5,0 L2.25,5 L6.75,5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="54" height="33" x="5" y="13" fill="#D8D8D8"/>
+    <rect width="60" height="4" x="2" y="9" fill="#BD7575" rx="2"/>
+    <rect width="60" height="4" x="2" y="46" fill="#BD7575" rx="2"/>
+    <path fill="#E552FF" d="M44,28 L53,28 L53,57.5026101 C53,59.9864499 50.9802243,62 48.5,62 L48.5,62 C46.0147186,62 44,59.9875399 44,57.5026101 L44,28 Z"/>
+    <g transform="translate(44 18)">
+      <use fill="#D3B288" xlink:href="#sketch-a"/>
+      <use fill="#BD30D6" xlink:href="#sketch-b"/>
+    </g>
+    <path fill="#BD2FD6" fill-rule="nonzero" d="M47,30 L47,58 C47,58.5522847 47.4477153,59 48,59 C48.5522847,59 49,58.5522847 49,58 L49,30 C49,29.4477153 48.5522847,29 48,29 C47.4477153,29 47,29.4477153 47,30 Z"/>
+    <polygon fill="#BD30D6" fill-rule="nonzero" points="27.932 27.985 30.814 36.66 39.765 21.679 38.048 20.654 31.336 31.887 29.525 26.438 16.526 21.697 10.273 33.195 12.03 34.151 17.46 24.166"/>
+  </g>
+</svg>

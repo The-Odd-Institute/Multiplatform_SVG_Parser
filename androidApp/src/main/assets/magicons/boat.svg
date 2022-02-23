@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>boat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,61 C25,56.0294373 20.9705627,52 16,52 C11.0294373,52 7,56.0294373 7,61" id="Oval-10" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M43,61 C43,56.0294373 38.9705627,52 34,52 C29.0294373,52 25,56.0294373 25,61" id="Oval-10-Copy" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M61,61 C61,56.0294373 56.9705627,52 52,52 C47.0294373,52 43,56.0294373 43,61" id="Oval-10-Copy-2" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <polygon id="Rectangle-64" fill="#595959" points="7 37 59 37 55 49 11 49"></polygon>
+        <polygon id="Rectangle-65" fill="#80D25B" points="32 13 32 36 22 36"></polygon>
+        <polygon id="Rectangle-65-Copy" fill="#E43535" transform="translate(39.000000, 19.020669) scale(-1, 1) translate(-39.000000, -19.020669) " points="43.5807925 2.0413386 44 36 34 36"></polygon>
+    </g>
+</svg>

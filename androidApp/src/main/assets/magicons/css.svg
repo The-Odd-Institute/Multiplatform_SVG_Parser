@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="64" height="44" y="10" fill="#80D25B"/>
+    <rect width="64" height="7" y="9" fill="#ECECEC"/>
+    <circle cx="3.5" cy="12.5" r="1.5" fill="#E43535"/>
+    <circle cx="8.5" cy="12.5" r="1.5" fill="#FFC05F"/>
+    <circle cx="13.5" cy="12.5" r="1.5" fill="#80D25B"/>
+    <text fill="#0A3586" font-family="MarkerFelt-Thin, Marker Felt" font-size="24" font-weight="300">
+      <tspan x="16" y="43">&lt;/&gt;</tspan>
+    </text>
+  </g>
+</svg>

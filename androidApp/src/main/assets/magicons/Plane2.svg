@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#5EA7FF" d="M57.8571429,26 L11.0093184,26 C7.68841994,26 3.72527948,28.3673381 2.15283203,31.2875977 L1.08048847,33.2790928 C-0.617025256,36.4316183 0.914160781,39 4.50896028,39 L59.9954293,39 C62.2004301,39 64,37.2062268 64,34.9934955 L64,28 L64,16 L60,16 L57.8571429,26 Z"/>
+    <path fill="#FDCD6B" d="M10,26.0687821 C6.92201222,26.4774921 3.5685231,28.6584571 2.15283203,31.2875977 L1.76923077,32 L10,32 L10,26.0687821 Z"/>
+    <rect width="5" height="3" x="14" y="29" fill="#FDCD6B"/>
+    <rect width="5" height="3" x="22" y="29" fill="#FDCD6B"/>
+    <rect width="5" height="3" x="30" y="29" fill="#FDCD6B"/>
+    <rect width="5" height="3" x="38" y="29" fill="#FDCD6B"/>
+    <rect width="5" height="3" x="46" y="29" fill="#FDCD6B"/>
+    <rect width="5" height="3" x="54" y="29" fill="#FDCD6B"/>
+    <polygon fill="#5B68C0" points="24 9 30 9 30 26 18 26"/>
+    <polygon fill="#5B68C0" points="24 34 30 34 30 57 18 57" transform="matrix(1 0 0 -1 0 91)"/>
+    <path stroke="#FFDD95" stroke-linecap="square" stroke-width="2" d="M37 10L46 10M47 14L52 14M38 44L43 44M47 49L54 49"/>
+  </g>
+</svg>

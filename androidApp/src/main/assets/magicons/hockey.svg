@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>hockey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27.0487797,46.7308764 C24.8350672,46.2032174 22.0393382,46 19,46 C11.8202983,46 6,47.1340068 6,51 C6,54.8659932 11.8202983,60 19,60 C25.8043878,60 31.3877811,55.3887174 31.9529235,51.6157568 L37.0989611,41.5543068 L32.0788591,40.2268102 L27.0487797,46.7308764 Z" id="Combined-Shape" fill="#ED9111"></path>
+        <path d="M11,51 L26,51" id="Line" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M15,55 L23,55" id="Line-Copy-57" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <rect id="Rectangle-100" fill="#595959" transform="translate(44.915064, 22.869546) rotate(-330.000000) translate(-44.915064, -22.869546) " x="43.4150635" y="1.36954618" width="3" height="43"></rect>
+    </g>
+</svg>

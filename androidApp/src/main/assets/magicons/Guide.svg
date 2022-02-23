@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#D650C7" points="11 4 18 4 18 55.833 11 55.833"/>
+    <path fill="#FF78C7" d="M18,4 L50.0000796,4 C51.1046051,4 52,4.89493844 52,6.00138927 L52,52 L18,52 L18,4 Z"/>
+    <path fill="#ECECEC" d="M11,55.5 C11,53.5670034 12.5571833,52 14.4956369,52 L52,52 L52,59 L14.4956369,59 C12.56505,59 11,57.4290634 11,55.5 L11,55.5 Z"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="19.2" y="27">TRAVEL</tspan> <tspan x="25.3" y="38">guide</tspan>
+    </text>
+  </g>
+</svg>

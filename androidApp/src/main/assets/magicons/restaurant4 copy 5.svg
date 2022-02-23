@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#BD7575" d="M6.9002769,37.9814809 C6.9002769,37.9814809 3.40027708,35.98148 5.90027698,33.4814805 C7.86714792,31.5146098 11.653497,31.4782092 17.7801704,27.501916 C23.9068438,23.5256228 28.6328476,19.6506624 35.0738416,19.6506624 C41.5148356,19.6506624 44.6657539,25.232062 50.3882988,28.8160717 C53.0105444,30.4583749 58.9002754,31.9814804 60.4002762,33.4814807 C61.900277,34.9814809 58.9002762,37.9814806 58.9002762,37.9814806"/>
+    <polygon fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="7 38 59 38 56 45 10 45"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="square" stroke-linejoin="round" stroke-width="2" d="M33,45 L33,39"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35 23L35 24.5M30.5 24L29 25.5"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40.5,24 L39,25.5" transform="matrix(-1 0 0 1 79.5 0)"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15,45 L13,38"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M53,45 L51,38" transform="matrix(-1 0 0 1 104 0)"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M47,45 L45,38" transform="matrix(-1 0 0 1 92 0)"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 45L19 38M27 45L26 38"/>
+    <path fill="#FF78C7" stroke="#D650C7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M40,45 L39,38" transform="matrix(-1 0 0 1 79 0)"/>
+  </g>
+</svg>

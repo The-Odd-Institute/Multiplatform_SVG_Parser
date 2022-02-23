@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M16,34 L16,58"/>
+    <ellipse cx="16" cy="61" fill="#D8D8D8" rx="10" ry="3"/>
+    <path fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5,14 L27,14 L27,34.9993884 C27,40.5225737 22.5214543,45 16.9978027,45 L15.0021973,45 C9.47813629,45 5,40.5254411 5,34.9993884 L5,14 Z"/>
+    <path fill="#E43535" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M27,26.7788959 L27,35.0098623 C27,40.527263 22.5214543,45 16.9978027,45 L15.0021973,45 C9.47813629,45 5,40.524314 5,34.9955345 L5,26.7040782"/>
+    <ellipse cx="16" cy="14" fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+    <ellipse cx="16" cy="27" fill="#E43535" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+    <g transform="rotate(-15 44.192 -107.724)">
+      <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M11,24 L11,48"/>
+      <ellipse cx="11" cy="51" fill="#D8D8D8" rx="10" ry="3"/>
+      <path fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M0,4 L22,4 L22,24.9993884 C22,30.5225737 17.5214543,35 11.9978027,35 L10.0021973,35 C4.47813629,35 0,30.5254411 0,24.9993884 L0,4 Z"/>
+      <path fill="#E43535" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" d="M22,16.7788959 L22,25.0098623 C22,30.527263 17.5214543,35 11.9978027,35 L10.0021973,35 C4.47813629,35 0,30.524314 0,24.9955345 L0,16.7040782"/>
+      <ellipse cx="11" cy="4" fill="#ECECEC" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+      <ellipse cx="11" cy="17" fill="#E43535" stroke="#D8D8D8" stroke-linecap="round" stroke-width="2" rx="11" ry="4"/>
+    </g>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-width="2" d="M21.3508896,7.27949799 L19.3508896,5.27949799"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-width="2" d="M30.3508896,7.27949799 L28.3508896,5.27949799" transform="matrix(-1 0 0 1 59 0)"/>
+    <path stroke="#FFDD95" stroke-linecap="round" stroke-width="2" d="M25.1054718,7 L25.1054718,2.36653572"/>
+  </g>
+</svg>

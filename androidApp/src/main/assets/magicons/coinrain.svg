@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#4796E7" d="M22.1904762,32 C16.0101468,32 11,26.8832543 11,20.5714286 C11,14.2596029 16.0101468,9.14285714 22.1904762,9.14285714 C23.8098609,9.14285714 25.3489058,9.49415107 26.7385326,10.1261908 C27.3714992,4.42764354 32.1080275,0 37.8571429,0 C44.0374722,0 49.047619,5.11674572 49.047619,11.4285714 C49.047619,12.2123456 48.9703648,12.9776921 48.8232088,13.7171021 C48.8977895,13.7152282 48.9725965,13.7142857 49.047619,13.7142857 C53.9918825,13.7142857 58,17.8076823 58,22.8571429 C58,27.9066034 53.9918825,32 49.047619,32 L22.1904762,32 Z"/>
+    <path stroke="#B4DFFB" stroke-linecap="square" stroke-width="2" d="M14 35L14 26M19 30L19 21M24 38L24 34"/>
+    <circle cx="43.5" cy="38.5" r="9.5" fill="#FFAF40"/>
+    <text fill="#FFDD95" font-family="MarkerFelt-Thin, Marker Felt" font-size="12" font-weight="300">
+      <tspan x="39" y="43">€</tspan>
+    </text>
+    <circle cx="20.5" cy="51.5" r="9.5" fill="#FFAF40"/>
+    <text fill="#FFDD95" font-family="MarkerFelt-Thin, Marker Felt" font-size="16" font-weight="300">
+      <tspan x="16" y="58">$</tspan>
+    </text>
+  </g>
+</svg>

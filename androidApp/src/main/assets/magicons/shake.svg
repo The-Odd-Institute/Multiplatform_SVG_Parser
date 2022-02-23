@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="shake-a" points="0 0 22 0 20 47 2 47"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(21 16)">
+      <mask id="shake-b" fill="#fff">
+        <use xlink:href="#shake-a"/>
+      </mask>
+      <use fill="#B4DFFB" xlink:href="#shake-a"/>
+      <rect width="41" height="45" x="-10" y="10" fill="#ED9111" mask="url(#shake-b)"/>
+    </g>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M37,60 L21,2"/>
+  </g>
+</svg>

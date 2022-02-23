@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>roleskaters</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-138" fill="#FF78C7" points="8 9 30 6 30 40 8 40"></polygon>
+        <rect id="Rectangle-142" fill="#595959" x="7" y="11" width="23" height="6"></rect>
+        <circle id="Oval-73" fill="#D8D8D8" cx="12" cy="32" r="2"></circle>
+        <circle id="Oval-73-Copy" fill="#D8D8D8" cx="12" cy="26" r="2"></circle>
+        <path d="M29,23 L23.9009805,23" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M29,26 L23.9009805,26" id="Line-Copy-54" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M29,29 L23.9009805,29" id="Line-Copy-55" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M8,35.3158077 C8,35.3158077 18.855715,31 24.6273075,31 C30.3989,31 37.5614455,36.3158077 42.3728941,36.3158077 C47.1843428,36.3158077 50.5268147,35.9716644 50.5268147,35.9716644 C55.7587105,35.6094447 60,39.5630845 60,44.8229031 L60,50 L17.5073523,50 C12.2565866,50 8,45.7527232 8,40.4929046 L8,35.3158077 Z" id="Rectangle-139" fill="#FF78C7"></path>
+        <rect id="Rectangle-140" fill="#595959" x="13" y="46" width="47" height="4"></rect>
+        <circle id="Oval-72" fill="#D8D8D8" cx="20" cy="55" r="5"></circle>
+        <circle id="Oval-72-Copy" fill="#595959" cx="20" cy="55" r="2"></circle>
+        <circle id="Oval-72-Copy-3" fill="#D8D8D8" cx="30" cy="55" r="5"></circle>
+        <circle id="Oval-72-Copy-2" fill="#595959" cx="30" cy="55" r="2"></circle>
+        <circle id="Oval-72-Copy-5" fill="#D8D8D8" cx="45" cy="55" r="5"></circle>
+        <circle id="Oval-72-Copy-4" fill="#595959" cx="45" cy="55" r="2"></circle>
+        <circle id="Oval-72-Copy-7" fill="#D8D8D8" cx="55" cy="55" r="5"></circle>
+        <circle id="Oval-72-Copy-6" fill="#595959" cx="55" cy="55" r="2"></circle>
+    </g>
+</svg>

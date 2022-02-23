@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>beach</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23,50 C23,45.0294373 18.9705627,41 14,41 C9.02943725,41 5,45.0294373 5,50" id="Oval-10" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M41,50 C41,45.0294373 36.9705627,41 32,41 C27.0294373,41 23,45.0294373 23,50" id="Oval-10-Copy" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M59,50 C59,45.0294373 54.9705627,41 50,41 C45.0294373,41 41,45.0294373 41,50" id="Oval-10-Copy-2" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M32,60 C32,55.0294373 27.9705627,51 23,51 C18.0294373,51 14,55.0294373 14,60" id="Oval-10-Copy-5" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M21,20 L29,48" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M50,60 C50,55.0294373 45.9705627,51 41,51 C36.0294373,51 32,55.0294373 32,60" id="Oval-10-Copy-4" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M37.8564065,22.8564065 C37.8564065,14.0198505 30.6929625,6.85640646 21.8564065,6.85640646 C13.0198505,6.85640646 5.85640646,14.0198505 5.85640646,22.8564065 L37.8564065,22.8564065 Z" id="Oval-39" fill="#FF78C7" transform="translate(21.856406, 22.856406) rotate(-15.000000) translate(-21.856406, -22.856406) "></path>
+        <circle id="Oval-40" fill="#ED9111" cx="52.5" cy="11.5" r="8.5"></circle>
+    </g>
+</svg>

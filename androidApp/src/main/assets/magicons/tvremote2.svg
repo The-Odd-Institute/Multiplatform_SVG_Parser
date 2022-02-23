@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#ED9111" points="2 13 62 13 62 47 2 47"/>
+    <path fill="#595959" d="M2,11 C2,9.8954305 2.89473039,9 3.99630737,9 L60.0036926,9 C61.1062227,9 62,9.88772964 62,11 L62,13 L2,13 L2,11 Z"/>
+    <path fill="#595959" d="M2,49.0048815 C2,47.897616 2.89473039,47 3.99630737,47 L60.0036926,47 C61.1062227,47 62,47.8938998 62,49.0048815 L62,52 L2,52 L2,49.0048815 Z" transform="matrix(1 0 0 -1 0 99)"/>
+    <rect width="20" height="3" x="22" y="52" fill="#979797"/>
+    <path stroke="#595959" stroke-linecap="square" stroke-width="2" d="M16,56 L47,56"/>
+    <path fill="#D8D8D8" d="M39,31.0074612 C39,29.898771 39.8982124,29 40.9907951,29 L57.0092049,29 C58.1086907,29 59,29.9003455 59,31.0074612 L59,53.9938319 C59,59.5200859 54.5240618,64 49,64 L49,64 C43.4771525,64 39,59.5316753 39,53.9938319 L39,31.0074612 Z"/>
+    <rect width="3" height="3" x="42" y="32" fill="#979797"/>
+    <rect width="4" height="3" x="47" y="32" fill="#979797"/>
+    <rect width="3" height="3" x="53" y="32" fill="#979797"/>
+    <rect width="3" height="3" x="42" y="37" fill="#979797"/>
+    <rect width="4" height="3" x="47" y="37" fill="#979797"/>
+    <rect width="3" height="3" x="53" y="37" fill="#979797"/>
+    <rect width="3" height="3" x="42" y="42" fill="#979797"/>
+    <rect width="4" height="3" x="47" y="42" fill="#979797"/>
+    <rect width="3" height="3" x="53" y="42" fill="#979797"/>
+    <circle cx="49" cy="54" r="5" fill="#595959"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M49,50 L49,51 M53,54 L52,54 M49,58 L49,57 M45,54 L46,54"/>
+  </g>
+</svg>

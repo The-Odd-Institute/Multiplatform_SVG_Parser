@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <circle id="unite-a" cx="20" cy="20" r="20"/>
+    <circle id="unite-c" cx="20" cy="20" r="20"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(-45 33.192 -7.464)">
+      <mask id="unite-b" fill="#fff">
+        <use xlink:href="#unite-a"/>
+      </mask>
+      <use fill="#5B68C0" xlink:href="#unite-a"/>
+      <rect width="50" height="25" x="-2" y="20" fill="#22BA8E" mask="url(#unite-b)"/>
+    </g>
+    <g transform="rotate(-45 48.749 30.092)">
+      <mask id="unite-d" fill="#fff">
+        <use xlink:href="#unite-c"/>
+      </mask>
+      <use fill="#5B68C0" xlink:href="#unite-c"/>
+      <rect width="50" height="25" x="-2" y="20" fill="#22BA8E" mask="url(#unite-d)"/>
+    </g>
+  </g>
+</svg>

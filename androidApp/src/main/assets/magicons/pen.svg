@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#868686" points="25 11 38 11 38 49 25 49"/>
+    <polygon fill="#4796E7" points="28 49 35 49 39 54 31.5 64.399 24 54"/>
+    <rect width="3" height="4" x="30" y="51" fill="#ECECEC"/>
+    <path fill="#595959" d="M25,6.49657835 C25,2.9086172 27.9174538,0 31.5,0 L31.5,0 C35.0898509,0 38,2.91007585 38,6.49657835 L38,22 L25,22 L25,6.49657835 Z"/>
+  </g>
+</svg>

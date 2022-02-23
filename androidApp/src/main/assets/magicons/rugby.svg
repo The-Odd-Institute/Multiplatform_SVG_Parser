@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>rugby</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,35.4666667 C22.1909333,35.4666667 29.3866667,28.0942889 29.3866667,19 C29.3866667,9.90571112 22.3325552,2.53333333 19,2.53333333 C15.6674448,2.53333333 8.61333333,9.90571112 8.61333333,19 C8.61333333,28.0942889 15.8090667,35.4666667 19,35.4666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-107" fill="#80D25B" x="2" y="24" width="60" height="38"></rect>
+        <g id="Group-7-Copy" transform="translate(13.000000, 28.000000)">
+            <g id="Oval-54">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#9C4D4D" transform="translate(19.000000, 19.000000) rotate(-315.000000) translate(-19.000000, -19.000000) " xlink:href="#path-1"></use>
+                <circle fill="#BD7575" mask="url(#mask-2)" cx="18.7466667" cy="18.7466667" r="12.6666667"></circle>
+            </g>
+            <path d="M18.6724671,26.0191337 L18.6724671,12.8068835" id="Line" stroke="#9C4D4D" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.925800, 19.179134) rotate(-315.000000) translate(-18.925800, -19.179134) "></path>
+            <path d="M19.0487383,16.6712617 L23.1020717,16.6712617" id="Line" stroke="#9C4D4D" stroke-linecap="square" transform="translate(21.075405, 16.671262) rotate(-315.000000) translate(-21.075405, -16.671262) "></path>
+            <path d="M17.6156686,18.1043314 L21.6690019,18.1043314" id="Line-Copy-67" stroke="#9C4D4D" stroke-linecap="square" transform="translate(19.642335, 18.104331) rotate(-315.000000) translate(-19.642335, -18.104331) "></path>
+            <path d="M16.1825988,19.5374012 L20.2359322,19.5374012" id="Line-Copy-68" stroke="#9C4D4D" stroke-linecap="square" transform="translate(18.209266, 19.537401) rotate(-315.000000) translate(-18.209266, -19.537401) "></path>
+            <path d="M14.7495291,20.9704709 L18.8028624,20.9704709" id="Line-Copy-69" stroke="#9C4D4D" stroke-linecap="square" transform="translate(16.776196, 20.970471) rotate(-315.000000) translate(-16.776196, -20.970471) "></path>
+            <path d="M13.3164594,22.4035406 L17.3697927,22.4035406" id="Line-Copy-70" stroke="#9C4D4D" stroke-linecap="square" transform="translate(15.343126, 22.403541) rotate(-315.000000) translate(-15.343126, -22.403541) "></path>
+        </g>
+        <polyline id="Rectangle-108" stroke="#595959" stroke-width="2" stroke-linecap="round" points="49 4 49 27 15 27 15 4 15 4"></polyline>
+        <path d="M32,27 L32,33" id="Line" stroke="#595959" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

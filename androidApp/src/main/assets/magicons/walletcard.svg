@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="57" height="38" x="4" y="8" fill="#BD7575" rx="2"/>
+    <polygon fill="#22BA8E" points="9 3 57 6 57 8 9 8"/>
+    <path fill="#9C4D4D" d="M46,24.9958262 C46,22.7889923 47.787167,21 50.0072357,21 L63,21 L63,33 L50.0072357,33 C47.7941006,33 46,31.2034788 46,29.0041738 L46,24.9958262 Z"/>
+    <circle cx="52" cy="27" r="2" fill="#BD7575"/>
+    <path stroke="#9C4D4D" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M14,9 L14,44"/>
+    <path fill="#5B68C0" d="M1,38.0018785 C1,35.791702 2.79309123,34 5.00180999,34 L40.99819,34 C43.2083286,34 45,35.7921947 45,38.0018785 L45,58.9981215 C45,61.208298 43.2069088,63 40.99819,63 L5.00180999,63 C2.79167136,63 1,61.2078053 1,58.9981215 L1,38.0018785 Z"/>
+    <circle cx="10" cy="43" r="5" stroke="#F5413E" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="14" cy="43" r="5" stroke="#FFAF40" stroke-linecap="round" stroke-width="2"/>
+    <rect width="18" height="3" x="4" y="56" fill="#D8D8D8"/>
+  </g>
+</svg>

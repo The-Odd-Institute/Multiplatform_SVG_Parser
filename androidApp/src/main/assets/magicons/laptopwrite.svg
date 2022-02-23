@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="laptopwrite-a" points="4.5 0 9 10 0 10"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#325AA6" points="4 10 60 10 60 45 4 45"/>
+    <rect width="52" height="31" x="6" y="12" fill="#D8D8D8"/>
+    <g transform="rotate(135 19.697 18.916)">
+      <path fill="#FB3A3A" d="M8.5,-8.5 L17.5,-8.5 L17.5,13.0008282 C17.5,15.4856522 15.4802243,17.5 13,17.5 L13,17.5 C10.5147186,17.5 8.5,15.4814584 8.5,13.0008282 L8.5,-8.5 Z" transform="rotate(90 13 4.5)"/>
+      <g transform="rotate(90 18 18)">
+        <mask id="laptopwrite-b" fill="#fff">
+          <use xlink:href="#laptopwrite-a"/>
+        </mask>
+        <use fill="#D3B288" xlink:href="#laptopwrite-a"/>
+        <path fill="#FB3A3A" d="M4.5,0 L6.5530501,4.1061002 C6.79989371,4.59978743 6.55628335,5 6.00019251,5 L2.99980749,5 C2.44762906,5 2.19617081,4.60765839 2.4469499,4.1061002 L4.5,0 Z" mask="url(#laptopwrite-b)"/>
+      </g>
+      <path stroke="#FF8E8E" stroke-linecap="round" stroke-width="2" d="M13.5,-5.5 L13.5,14.3999192" transform="rotate(90 14 4.5)"/>
+    </g>
+    <path fill="#4796E7" d="M0,45 L64,45 L64,47.5 C64,48.8807119 62.8891602,50 61.4911242,50 L2.50887585,50 C1.12326198,50 0,48.8903379 0,47.5 L0,45 Z"/>
+    <path stroke="#FB3A3A" stroke-linecap="round" stroke-width="2" d="M29,39 L49.8368918,39"/>
+  </g>
+</svg>

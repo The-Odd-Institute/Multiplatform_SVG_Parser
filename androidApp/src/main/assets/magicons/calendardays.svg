@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#595959" d="M5,18 L57,18 L57,45.0047989 C57,52.734135 50.727585,59 42.9965501,59 L5,59 L5,18 Z"/>
+    <path fill="#80D25B" d="M43,7 L57,7 L57,21 L5,21 L5,7 L20,7 L20,12.007983 C20,13.0998238 20.897616,14 22.0048815,14 L22.9951185,14 C24.1061002,14 25,13.1081436 25,12.007983 L25,7 L38,7 L38,12.007983 C38,13.0998238 38.897616,14 40.0048815,14 L40.9951185,14 C42.1061002,14 43,13.1081436 43,12.007983 L43,7 Z"/>
+    <rect width="3" height="11" x="21" y="2" fill="#9F5757" rx="1.5"/>
+    <rect width="3" height="11" x="39" y="2" fill="#9F5757" rx="1.5"/>
+    <rect width="10" height="10" x="10" y="25" fill="#FFAF40"/>
+    <rect width="10" height="10" x="26" y="25" fill="#FFAF40"/>
+    <rect width="10" height="10" x="41" y="25" fill="#FFAF40"/>
+    <rect width="10" height="10" x="10" y="40" fill="#FFAF40"/>
+    <rect width="10" height="10" x="26" y="40" fill="#FFAF40"/>
+    <rect width="10" height="10" x="41" y="40" fill="#FFAF40"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M38.69571,12.5655212 L36.5074504,23.559023"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M39,59 L39,57"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M18.6741877,30.0855005 C18.6741877,30.0855005 14.0694322,28.7196214 11,36.9063933"/>
+    <circle cx="9" cy="39" r="4" fill="#5DAF38"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M51,30.0855005 C51,30.0855005 46.3952444,28.7196214 43.3258123,36.9063933" transform="matrix(-1 0 0 1 94.326 0)"/>
+    <circle cx="53" cy="39" r="4" fill="#5DAF38" transform="matrix(-1 0 0 1 106 0)"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M22.5611647,9.58400459 L24.6835791,24.9104056"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M23,59 L23,57"/>
+    <path fill="#22BA8E" d="M17,26.0056458 C17,23.2411039 19.2440262,21 22.0058389,21 L39.9941611,21 C42.7588096,21 45,23.2383594 45,26.0056458 L45,57 L17,57 L17,26.0056458 Z"/>
+    <rect width="16" height="21" x="23" y="32" fill="#D8D8D8"/>
+    <circle cx="35" cy="37" r="2" fill="#D650C7"/>
+    <circle cx="35" cy="42" r="2" fill="#ED9111"/>
+    <circle cx="22" cy="7" r="5" fill="#D8D8D8"/>
+    <circle cx="22" cy="7" r="3" fill="#5B68C0"/>
+    <circle cx="21" cy="6" r="1" fill="#FFF"/>
+    <circle cx="39" cy="10" r="5" fill="#D8D8D8"/>
+    <circle cx="39" cy="10" r="3" fill="#5B68C0"/>
+    <circle cx="38" cy="9" r="1" fill="#FFF"/>
+    <path fill="#595959" d="M27 63C27 60.790861 25.209139 59 23 59 20.790861 59 19 60.790861 19 63L27 63zM43 63C43 60.790861 41.209139 59 39 59 36.790861 59 35 60.790861 35 63L43 63z"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

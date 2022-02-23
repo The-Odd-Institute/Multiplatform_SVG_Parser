@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#80D25B" d="M49.5044647,50.529591 C52.2658885,50.529591 54.5044647,48.1876959 54.5044647,45.2988218 C54.5044647,42.4099477 49.5044647,33.529591 49.5044647,33.529591 C49.5044647,33.529591 44.5044647,42.4099477 44.5044647,45.2988218 C44.5044647,48.1876959 46.743041,50.529591 49.5044647,50.529591 Z" transform="rotate(75 49.504 42.03)"/>
+    <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M46,43 C39.372583,43 34,48.372583 34,55"/>
+    <rect width="57" height="14" x="5" y="3" fill="#595959" rx="3"/>
+    <circle cx="42" cy="13" r="1" fill="#E43535"/>
+    <circle cx="46" cy="13" r="1" fill="#D8D8D8"/>
+    <circle cx="50" cy="13" r="1" fill="#D8D8D8"/>
+    <circle cx="54" cy="13" r="1" fill="#80D25B"/>
+    <circle cx="58" cy="13" r="1" fill="#D8D8D8"/>
+    <circle cx="11" cy="10" r="3" fill="#80D25B"/>
+    <rect width="57" height="14" x="5" y="18" fill="#595959" rx="3"/>
+    <circle cx="11" cy="25.169" r="3" fill="#80D25B"/>
+    <circle cx="42" cy="29" r="1" fill="#80D25B"/>
+    <circle cx="46" cy="29" r="1" fill="#D8D8D8"/>
+    <circle cx="50" cy="29" r="1" fill="#E43535"/>
+    <circle cx="54" cy="29" r="1" fill="#D8D8D8"/>
+    <circle cx="58" cy="29" r="1" fill="#D8D8D8"/>
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M16.138085,35.0550263 L16.138085,44.0678771 C16.138085,45.7249976 17.4807905,47.0683592 19.1391446,47.0683592 L26.9117258,47.0683592"/>
+  </g>
+</svg>

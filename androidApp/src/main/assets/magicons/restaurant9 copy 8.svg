@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="restaurant9-copy-8-a" d="M0,0 L25,0 L23.4873366,31.0096005 C23.218188,36.5271458 18.5207309,41 12.9920273,41 L12.0079727,41 C6.48072201,41 1.78215769,36.5342326 1.51266344,31.0096005 L0,0 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="2" height="11" x="31" y="48" fill="#D8D8D8"/>
+    <polygon fill="#D8D8D8" points="25 59 32 57 39 59 39 61 25 61"/>
+    <g transform="translate(20 8)">
+      <mask id="restaurant9-copy-8-b" fill="#fff">
+        <use xlink:href="#restaurant9-copy-8-a"/>
+      </mask>
+      <use fill="#D8D8D8" xlink:href="#restaurant9-copy-8-a"/>
+      <rect width="31" height="34" x="-3" y="18" fill="#BD7575" mask="url(#restaurant9-copy-8-b)"/>
+      <rect width="40" height="9" x="-9" y="9" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+      <circle cx="20" cy="10" r="3" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+      <circle cx="10" cy="7" r="3" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+      <circle cx="12" cy="5" r="3" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+      <circle cx="16" cy="8" r="3" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+      <circle cx="13" cy="9" r="3" fill="#ECECEC" mask="url(#restaurant9-copy-8-b)"/>
+    </g>
+    <circle cx="27" cy="14" r="4" fill="#ECECEC"/>
+    <circle cx="29" cy="8" r="4" fill="#ECECEC"/>
+  </g>
+</svg>

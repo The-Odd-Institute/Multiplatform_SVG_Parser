@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#979797" points="2 25 62 25 62 41 2 41"/>
+    <polygon fill="#979797" points="2 25 62 25 62 41 2 41" transform="rotate(-90 32 33)"/>
+    <path stroke="#FFF" stroke-dasharray="4" stroke-linecap="square" stroke-width="2" d="M32 6L32 60.0092585M5 33L25.9994865 33M37.7279752 33L59.0092585 33"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>iceskaters</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.01720469,52 C4.01720469,52 9.43105909,50.3050105 10.4151739,48.0149017 C10.4340735,47.970921 12.6322514,44.4360659 14.8936155,44.5519021 C15.2856723,44.5719849 13.5982048,51.4007204 15.6719336,51.6945775 C17.7456623,51.9884345 53.1089198,52 53.1089198,52 C53.1089198,52 51.4051352,48.2743251 51.9757322,47.2705484 C52.5463292,46.2667718 54.7400164,46.2468916 54.7400164,46.2468916 L58.5559397,52 L56,56 L5.56524033,54.6259996 L4.01720469,52 Z" id="Rectangle-140-Copy" fill="#979797"></path>
+        <path d="M28,6 L6,9 L6,37.4929046 C6,42.7527232 10.2565866,47 15.5073523,47 L51.0107039,49.8408251 C52.1093618,49.928735 53.8209438,49.6400852 54.7681761,49.0637069 C54.7681761,49.0637069 56.5090478,48.8975913 58,44.8229031 C59.4909522,40.7482149 47.1179538,34.0450143 40.3728941,32.3158077 C37.1273331,31.4837549 33.3940916,29.1864784 30.9362701,25.9004362 C28.4784485,22.614394 28,6 28,6 Z" id="Combined-Shape" fill="#D8D8D8"></path>
+        <path d="M30,21 L19,25" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M32,24 L24,29" id="Line-Copy-79" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M35,28 L29,33" id="Line-Copy-80" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Oval-73-Copy-2" fill="#5B68C0" cx="11" cy="14" r="2"></circle>
+        <circle id="Oval-73-Copy-3" fill="#FF78C7" cx="11" cy="20" r="2"></circle>
+    </g>
+</svg>

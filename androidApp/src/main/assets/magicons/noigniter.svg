@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>noigniter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,25 L50,25 L50,55.9935886 C50,59.310838 47.3152423,62 43.9932975,62 L28.0067025,62 C24.6892923,62 22,59.3092474 22,55.9935886 L22,25 Z" id="Rectangle-25-Copy" fill="#D650C7"></path>
+        <rect id="Rectangle-29-Copy" fill="#FCC24C" x="22" y="43" width="28" height="5"></rect>
+        <path d="M7,11.4925436 C7,7.35452604 10.3662928,4 14.5,4 L22,4 L22,25 L14.5,25 C10.3578644,25 7,21.6492668 7,17.5074564 L7,11.4925436 Z" id="Rectangle-28-Copy" fill="#FF78C7"></path>
+        <circle id="Oval-18-Copy" fill="#D8D8D8" cx="22" cy="25" r="3"></circle>
+        <rect id="Rectangle-26-Copy" fill="#979797" x="28" y="17" width="16" height="8"></rect>
+        <path d="M36,17 C38.7614237,17 41,14.7614237 41,12 C41,9.23857625 36,3 36,3 C36,3 31,9.23857625 31,12 C31,14.7614237 33.2385763,17 36,17 Z" id="Oval-16-Copy-3" fill="#E43535"></path>
+        <rect id="Rectangle-27-Copy-3" fill="#D8D8D8" x="30" y="18" width="2" height="2"></rect>
+        <rect id="Rectangle-27-Copy-2" fill="#D8D8D8" x="30" y="22" width="2" height="2"></rect>
+        <path d="M7.41021742,60.2903139 L61.5872217,6.41819854 C62.3704711,5.63935699 62.3740444,4.37303208 61.5952028,3.58978268 C60.8163613,2.80653328 59.5500364,2.80296001 58.766787,3.58180156 L4.58978268,57.4539169 C3.80653328,58.2327584 3.80296001,59.4990834 4.58180156,60.2823328 C5.36064311,61.0655822 6.62696802,61.0691554 7.41021742,60.2903139 Z" id="Path-24-Copy" stroke="#FFFFFF" stroke-width="2" fill="#E43535" fill-rule="nonzero"></path>
+    </g>
+</svg>

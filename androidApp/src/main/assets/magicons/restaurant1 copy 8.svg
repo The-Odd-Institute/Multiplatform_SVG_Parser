@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#979797" points="4 28 21 28 21 43 1 43"/>
+    <polygon fill="#D8D8D8" points="4 28 60 28 64 46 8 46"/>
+    <text fill="#FF5656" font-family="MarkerFelt-Thin, Marker Felt" font-size="9" font-weight="300">
+      <tspan x="9.705" y="40">RESERVATION</tspan>
+    </text>
+  </g>
+</svg>

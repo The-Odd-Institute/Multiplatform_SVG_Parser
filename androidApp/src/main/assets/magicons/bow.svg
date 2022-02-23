@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>bow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38,62.8129716 C25.2242736,58.6138015 16,46.5873659 16,32.4064858 C16,18.2256057 25.2242736,6.19917015 38,2 L38,62.8129716 Z" id="Combined-Shape" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <rect id="Rectangle-136" fill="#80D25B" x="13" y="25" width="6" height="14"></rect>
+        <polygon id="Triangle-12" fill="#595959" points="2 32 10 28 10 36"></polygon>
+        <path d="M11,32 L52.0487515,32" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Rectangle-135" fill="#FCC24C" points="56 28 64 28 64 36 56 36 50.531179 32"></polygon>
+    </g>
+</svg>

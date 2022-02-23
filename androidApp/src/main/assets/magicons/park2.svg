@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>park2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-96" fill="#FCC24C" cx="53.5" cy="12.5" r="6.5"></circle>
+        <circle id="Oval-95" fill="#80D25B" cx="15" cy="26" r="13"></circle>
+        <polyline id="Line" stroke="#AB5F5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="15.2663531 60.6728147 15.2663531 34.6728147 8 26"></polyline>
+        <path d="M15,34.6923455 L19.4743292,29" id="Path-53" stroke="#AB5F5F" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M28.6830941,48.9507178 C28.8581164,48.4256509 29.4473652,48 29.9981537,48 L58.0018463,48 C58.5531114,48 59.1438351,48.4315052 59.3169059,48.9507178 L60.6830941,53.0492822 C60.8581164,53.5743491 60.5450757,54 60.0008579,54 L27.9991421,54 C27.4473312,54 27.1438351,53.5684948 27.3169059,53.0492822 L28.6830941,48.9507178 Z" id="Rectangle-201" fill="#AB5F5F"></path>
+        <rect id="Rectangle-202" fill="#80D25B" x="1" y="61" width="63" height="3"></rect>
+        <path d="M30,55 L30,60" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M33,41 L33,47" id="Line-Copy-131" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M58,55 L58,60" id="Line-Copy-130" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M55,41 L55,47" id="Line-Copy-132" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M30,42 L58.0172363,42" id="Line" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M30,45 L58.0172363,45" id="Line-Copy-133" stroke="#AB5F5F" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M46.0446833,19.9340478 L43.1415808,22.8371503" id="Path-54" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M42.85186,13 L39,13" id="Path-55" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M53,23 L53,27" id="Path-55-Copy" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

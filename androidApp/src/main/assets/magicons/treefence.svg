@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="52" cy="15" r="8" fill="#22BA8E"/>
+    <circle cx="34" cy="20" r="8" fill="#22BA8E"/>
+    <circle cx="43" cy="12" r="8" fill="#80D25B"/>
+    <circle cx="55" cy="25" r="8" fill="#80D25B"/>
+    <circle cx="49" cy="33" r="8" fill="#80D25B"/>
+    <path fill="#BD7575" d="M43,27 L47,27 C47,27 46.486833,35.7629936 47,45 C47.513167,54.2370064 51,63 51,63 L39,63 C39,63 42.513167,53.7629936 43,45 C43.486833,36.2370064 43,27 43,27 Z"/>
+    <path stroke="#9C4D4D" stroke-linecap="square" stroke-width="2" d="M7,62 L59.0864666,62"/>
+    <circle cx="45" cy="23" r="14" fill="#22BA8E"/>
+    <circle cx="37" cy="31" r="8" fill="#80D25B"/>
+    <polygon fill="#BD7575" points="7 45.035 10 42 13 45.035 13 61.035 7 61.035"/>
+    <polygon fill="#BD7575" points="19 45.035 22 42 25 45.035 25 61.035 19 61.035"/>
+    <polygon fill="#9C4D4D" points="13 45.035 16 42 19 45.035 19 61.035 13 61.035"/>
+    <polygon fill="#9C4D4D" points="25 45.035 28 42 31 45.035 31 61.035 25 61.035"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="11" x="29" y="47" fill="#D8D8D8"/>
+    <rect width="14" height="1" x="25" y="59" stroke="#979797" stroke-width="2"/>
+    <path fill="#868686" d="M2,12.995507 C2,11.3411342 3.33730974,10 4.99593743,10 L59.0040626,10 C60.6586731,10 62,11.3424683 62,12.995507 L62,46.004493 C62,47.6588658 60.6626903,49 59.0040626,49 L4.99593743,49 C3.34132688,49 2,47.6575317 2,46.004493 L2,12.995507 Z"/>
+    <rect width="54" height="33" x="5" y="13" fill="#5B68C0"/>
+    <polygon fill="#FFDD95" points="22 16 41 16 46 22 17 22"/>
+    <polygon fill="#FFAF40" points="31.5 43 17 22 46 22"/>
+    <polygon fill="#FFDD95" points="31.479 43.047 25 22 37 22"/>
+    <polygon fill="#FFAF40" points="31 16 37 22 25 22"/>
+  </g>
+</svg>

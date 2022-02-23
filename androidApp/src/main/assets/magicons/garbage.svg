@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#595959" d="M15,10 L49,10 L47.0796366,58.0090859 C47.0356545,59.1086374 46.1021596,60 45.008383,60 L18.991617,60 C17.8916773,60 16.9644374,59.1109357 16.9203634,58.0090859 L15,10 Z"/>
+    <circle cx="18" cy="58" r="4" fill="#979797"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M3,63 L61.0350769,63"/>
+    <g transform="matrix(-1 0 0 1 47 14)">
+      <path fill="#80D25B" d="M15.435675,31 C20.301337,31 25,26.2163013 25,21.3131203 C25,16.4099394 17.1226939,3 17.1226939,3 C17.1226939,3 7.62882483,15.3918301 7.05405343,20.6592359 C6.47928203,25.9266417 10.570013,31 15.435675,31 Z" transform="rotate(36 16 17)"/>
+      <path stroke="#22BA8E" stroke-linecap="round" stroke-width="2" d="M22,10 C22,10 12.8859478,15.6488685 9.57160406,26.0527799 C8.71883296,28.7296763 7.43565096,30.6395938 6,32"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="17 24 10.935 23.715 8 18"/>
+      <polyline stroke="#22BA8E" stroke-linecap="round" stroke-width="2" points="19 18 14.459 17.197 13 14"/>
+    </g>
+    <polygon fill="#979797" points="13 6 51 6 51 12 13 12"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="53" cy="15" r="8" fill="#22BA8E"/>
+    <circle cx="35" cy="20" r="8" fill="#22BA8E"/>
+    <circle cx="44" cy="12" r="8" fill="#80D25B"/>
+    <circle cx="56" cy="25" r="8" fill="#80D25B"/>
+    <circle cx="50" cy="33" r="8" fill="#80D25B"/>
+    <path fill="#BD7575" d="M44,27 L48,27 C48,27 47.486833,35.7629936 48,45 C48.513167,54.2370064 52,63 52,63 L40,63 C40,63 43.513167,53.7629936 44,45 C44.486833,36.2370064 44,27 44,27 Z"/>
+    <path stroke="#22BA8E" stroke-linecap="square" stroke-width="2" d="M8,62 L60.0864666,62"/>
+    <circle cx="46" cy="23" r="14" fill="#22BA8E"/>
+    <circle cx="38" cy="31" r="8" fill="#80D25B"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="6 15.262 9.464 17.302 12.94 15"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="10 20.262 13.464 22.302 16.94 20"/>
+    <polyline stroke="#BD7575" stroke-linecap="round" stroke-width="2" points="18 10.262 21.464 12.302 24.94 10"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="6" height="11" x="29" y="43" fill="#D8D8D8"/>
+    <rect width="14" height="1" x="25" y="55" stroke="#979797" stroke-width="2"/>
+    <path fill="#868686" d="M2,8.99550699 C2,7.34113416 3.33730974,6 4.99593743,6 L59.0040626,6 C60.6586731,6 62,7.34246828 62,8.99550699 L62,42.004493 C62,43.6588658 60.6626903,45 59.0040626,45 L4.99593743,45 C3.34132688,45 2,43.6575317 2,42.004493 L2,8.99550699 Z"/>
+    <rect width="54" height="33" x="5" y="9" fill="#B4DFFB"/>
+    <rect width="14" height="14" x="8" y="26" fill="#FFF"/>
+    <rect width="14" height="14" x="25" y="26" fill="#FFF"/>
+    <rect width="14" height="14" x="42" y="26" fill="#FFF"/>
+    <rect width="50" height="10" x="7" y="11" fill="#4796E7"/>
+    <circle cx="15" cy="31" r="3" fill="#4796E7"/>
+    <circle cx="32" cy="31" r="3" fill="#4796E7"/>
+    <circle cx="49" cy="31" r="3" fill="#4796E7"/>
+    <path fill="#595959" d="M45,34.9982456 C45,34.4469298 45.4547089,34 45.9999602,34 L61.0000398,34 C61.5523026,34 62,34.4555207 62,34.9982456 L62,62.0017544 C62,62.5530702 61.5452911,63 61.0000398,63 L45.9999602,63 C45.4476974,63 45,62.5444793 45,62.0017544 L45,34.9982456 Z"/>
+    <rect width="15" height="21" x="46" y="37" fill="#B4DFFB"/>
+    <rect width="11" height="10" x="48" y="48" fill="#FFF"/>
+    <circle cx="53.5" cy="52.5" r="2.5" fill="#4796E7"/>
+    <rect width="11" height="6" x="48" y="40" fill="#4796E7"/>
+    <circle cx="53.5" cy="60.5" r="1.5" fill="#868686"/>
+  </g>
+</svg>

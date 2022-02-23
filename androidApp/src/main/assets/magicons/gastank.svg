@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>gastank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,18 C34.7614237,18 37,15.7614237 37,13 C37,10.2385763 32,4 32,4 C32,4 27,10.2385763 27,13 C27,15.7614237 29.2385763,18 32,18 Z" id="Oval-16-Copy" fill="#E43535"></path>
+        <path d="M30.6186971,26.2410422 C30.6186971,26.2410422 11.1005325,12.6129538 24.9882256,10" id="Path-11" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M44.6186971,26.2410422 C44.6186971,26.2410422 25.1005325,12.6129538 38.9882256,10" id="Path-11-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(39.309349, 18.120521) scale(-1, 1) translate(-39.309349, -18.120521) "></path>
+        <rect id="Rectangle-33" fill="#ED9111" x="15" y="26" width="34" height="34" rx="6"></rect>
+        <rect id="Rectangle-35" fill="#595959" x="30" y="21" width="4" height="5"></rect>
+        <rect id="Rectangle-36" fill="#595959" x="28" y="19" width="8" height="2"></rect>
+        <rect id="Rectangle-34" fill="#FCC24C" x="13" y="41" width="38" height="5" rx="2.5"></rect>
+    </g>
+</svg>

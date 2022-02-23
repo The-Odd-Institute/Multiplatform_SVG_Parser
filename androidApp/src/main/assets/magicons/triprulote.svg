@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>triprulote</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,14.9954628 C0,6.71369738 6.7131738,0 15.0069723,0 L56,0 L56,35 L15.0069723,35 C6.71885036,35 0,28.2930603 0,20.0045372 L0,14.9954628 Z" id="path-1"></path>
+        <path d="M0,14.9954628 C0,6.71369738 6.7131738,0 15.0069723,0 L56,0 L56,35 L15.0069723,35 C6.71885036,35 0,28.2930603 0,20.0045372 L0,14.9954628 Z" id="path-3"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-5" transform="translate(0.000000, 18.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FCC24C" xlink:href="#path-1"></use>
+            <rect fill="#E43535" mask="url(#mask-2)" x="-3" y="27" width="60" height="12"></rect>
+        </g>
+        <g id="Rectangle-5-Copy" transform="translate(0.000000, 18.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#FCC24C" xlink:href="#path-3"></use>
+            <rect id="Rectangle-5" fill="#E43535" mask="url(#mask-4)" x="-3" y="27" width="60" height="12"></rect>
+            <circle id="Oval-4" fill="#E43535" mask="url(#mask-4)" cx="21.5" cy="35.5" r="11.5"></circle>
+        </g>
+        <circle id="Oval-4" fill="#595959" cx="21.5" cy="52.5" r="6.5"></circle>
+        <polyline id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" points="57 51 62 51 62 44.8630662"></polyline>
+        <path d="M34,25 L47.0099002,25 C49.7658562,25 52,27.2392729 52,30.0010987 L52,30.9989013 C52,33.7609319 49.7566822,36 47.0099002,36 L34,36 L34,25 Z" id="Rectangle-4" fill="#5B68C0"></path>
+        <path d="M18,25 L25.9924559,25 C28.7580461,25 31,27.2392729 31,30.0010987 L31,30.9989013 C31,33.7609319 28.7652203,36 25.9924559,36 L18,36 L18,25 Z" id="Rectangle-4-Copy" fill="#5B68C0" transform="translate(24.500000, 30.500000) scale(-1, 1) translate(-24.500000, -30.500000) "></path>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>fishing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,-7.94475596e-13 C20.6934516,3.72021571 26,11.5994873 26,20.7181697 C26,29.8368521 20.6934516,37.7161237 13,41.4363394 C5.30654837,37.7161237 0,29.8368521 0,20.7181697 C0,11.5994873 5.30654837,3.72021571 13,-4.02011757e-12 Z" id="path-1"></path>
+    </defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23,44 C23,39.0294373 18.9705627,35 14,35 C9.02943725,35 5,39.0294373 5,44" id="Oval-10" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M41,44 C41,39.0294373 36.9705627,35 32,35 C27.0294373,35 23,39.0294373 23,44" id="Oval-10-Copy" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M59,44 C59,39.0294373 54.9705627,35 50,35 C45.0294373,35 41,39.0294373 41,44" id="Oval-10-Copy-2" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M32,54 C32,49.0294373 27.9705627,45 23,45 C18.0294373,45 14,49.0294373 14,54" id="Oval-10-Copy-5" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M50,54 C50,49.0294373 45.9705627,45 41,45 C36.0294373,45 32,49.0294373 32,54" id="Oval-10-Copy-4" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M43,11 C43,13.7614237 40.7607271,16 37.9989013,16 L37.0010987,16 C34.2390681,16 32,13.7558048 32,11 L32,6 L32,6" id="Rectangle-21" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <g id="Oval-12" transform="translate(19.000000, 11.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#ED9111" xlink:href="#path-1"></use>
+            <circle fill="#FCC24C" mask="url(#mask-2)" cx="13" cy="4" r="10"></circle>
+        </g>
+        <path d="M43.2901854,63 C41.1352871,57.7431685 37.0900469,53.4613234 32,51 C26.9099531,53.4613234 22.8647129,57.7431685 20.7098146,63 L43.2901854,63 Z" id="Combined-Shape" fill="#ED9111"></path>
+        <circle id="Oval-13" fill="#5B68C0" cx="35" cy="20" r="1"></circle>
+        <rect id="Rectangle-22" fill="#5B68C0" x="29" y="0" width="6" height="6"></rect>
+    </g>
+</svg>

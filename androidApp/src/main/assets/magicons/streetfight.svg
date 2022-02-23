@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>streetfight</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-124" fill="#BD7575" x="2" y="28" width="9" height="34"></rect>
+        <rect id="Rectangle-124-Copy" fill="#BD7575" transform="translate(45.000000, 6.500000) rotate(-90.000000) translate(-45.000000, -6.500000) " x="40.5" y="-10.5" width="9" height="34"></rect>
+        <rect id="Rectangle-125" fill="#D8D8D8" transform="translate(55.000000, 6.500000) rotate(-270.000000) translate(-55.000000, -6.500000) " x="50.5" y="4.5" width="9" height="4"></rect>
+        <rect id="Rectangle-125-Copy" fill="#D8D8D8" transform="translate(6.500000, 55.000000) rotate(-180.000000) translate(-6.500000, -55.000000) " x="2" y="53" width="9" height="4"></rect>
+        <rect id="Rectangle-126" stroke="#979797" stroke-width="2" stroke-linecap="round" x="4" y="15" width="5" height="11" rx="2.5"></rect>
+        <rect id="Rectangle-126-Copy" stroke="#979797" stroke-width="2" stroke-linecap="round" x="4" y="8" width="5" height="11" rx="2.5"></rect>
+        <rect id="Rectangle-126-Copy-2" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(20.500000, 6.500000) rotate(-90.000000) translate(-20.500000, -6.500000) " x="18" y="1" width="5" height="11" rx="2.5"></rect>
+        <rect id="Rectangle-126-Copy-3" stroke="#979797" stroke-width="2" stroke-linecap="round" transform="translate(13.500000, 6.500000) rotate(-90.000000) translate(-13.500000, -6.500000) " x="11" y="1" width="5" height="11" rx="2.5"></rect>
+    </g>
+</svg>

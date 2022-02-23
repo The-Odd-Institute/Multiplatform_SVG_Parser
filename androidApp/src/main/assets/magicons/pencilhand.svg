@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="pencilhand-a" points="4.5 0 9 10 0 10"/>
+    <path id="pencilhand-b" d="M6.75,5 L4.5,0 L2.25,5 L6.75,5 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(90 24.5 37.5)">
+      <path fill="#0A3586" d="M0,10 L9,10 L9,53.5058497 C9,55.9879004 6.98022433,58 4.5,58 L4.5,58 C2.01471863,58 0,55.9834105 0,53.5058497 L0,10 Z"/>
+      <use fill="#D3B288" xlink:href="#pencilhand-a"/>
+      <use fill="#0A3586" xlink:href="#pencilhand-b"/>
+      <path fill="#507BCE" fill-rule="nonzero" d="M3,12 L3,54 C3,54.5522847 3.44771525,55 4,55 C4.55228475,55 5,54.5522847 5,54 L5,12 C5,11.4477153 4.55228475,11 4,11 C3.44771525,11 3,11.4477153 3,12 Z"/>
+    </g>
+    <rect width="16" height="12" x="24" y="22" fill="#FFDD95"/>
+    <rect width="21" height="9" x="23" y="30" fill="#DADADA"/>
+    <circle cx="39" cy="35" r="2" fill="#C13F98"/>
+    <rect width="19" height="21" x="23" y="39" fill="#6B6B6B"/>
+    <path fill="#FFDD95" d="M22.0000012,9.99291715 C22.0000004,9.99364111 22,9.99436516 22,9.99508929 L22,24.0049107 C22,25.1073772 22.8929956,26 23.9945615,26 L37.9966569,26 C40.7526321,26 43,23.7658562 43,21.0099002 L43,10.9925398 C43,9.35292554 41.6529197,8 39.991212,8 L27.826778,8 C27.4129462,6.83546118 26.3035677,6 25,6 C23.3465171,6 22,7.34728911 22,9.00925446 L22,9.99074554 C22,9.99146962 22.0000003,9.99219364 22.0000008,9.99291759 Z"/>
+    <polygon fill="#FFCC60" fill-rule="nonzero" points="28 8 28 14 30 14 30 8"/>
+    <polygon fill="#FFCC60" fill-rule="nonzero" points="33 8 33 14 35 14 35 8"/>
+    <polygon fill="#FFCC60" fill-rule="nonzero" points="38 8 38 14 40 14 40 8"/>
+  </g>
+</svg>

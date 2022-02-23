@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#B4DFFB" points="3 4 61 4 61 60 3 60"/>
+    <polyline stroke="#22BA8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" points="43 29 43 51 21 51" transform="rotate(-135 32 40)"/>
+    <polygon fill="#0A3586" points="3 3 61 3 61 10 3 10"/>
+    <circle cx="6.5" cy="6.5" r="1.5" fill="#E43535"/>
+    <circle cx="11.5" cy="6.5" r="1.5" fill="#FFC05F"/>
+    <circle cx="16.5" cy="6.5" r="1.5" fill="#80D25B"/>
+  </g>
+</svg>

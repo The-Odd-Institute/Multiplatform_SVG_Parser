@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="round" stroke-width="2" d="M39.3895427,23.9373945 L42.0453432,23.9373945 C43.1513642,23.9373945 44.0479714,24.8404042 44.0479714,25.9404782 L44.0479714,52.1070352 C44.0479714,53.2133078 44.9416358,54.1101189 46.0404726,54.1101189 L51.0334342,54.1101189 C52.1338622,54.1101189 53.0259353,53.2062958 53.0259353,52.1162255 L53.0259353,16.0270135"/>
+    <rect width="36" height="55" x="4" y="5" fill="#ECECEC" rx="2"/>
+    <polygon fill="#5EA7FF" points="28.622 28 21.328 28 15 41.467 21.509 41.467 16.862 53 30 37.617 22.751 37.617"/>
+    <path fill="#ED9111" d="M35,21 C35,13.8202983 29.1797017,8 22,8 C14.8202983,8 9,13.8202983 9,21 L35,21 Z"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22,21 L22,11"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M11.827183 17.0200004L14.2990783 18.0266104M16 12L17.54421 14.4383366"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M29.827183,17.0200004 L32.2990783,18.0266104" transform="matrix(-1 0 0 1 62.126 0)"/>
+    <path stroke="#E43535" stroke-linecap="round" stroke-width="2" d="M26,12 L27.54421,14.4383366" transform="matrix(-1 0 0 1 53.544 0)"/>
+    <polyline stroke="#979797" stroke-linecap="round" stroke-width="2" points="53.054 10.343 53.054 5.1 55 2.705"/>
+    <rect width="4" height="14" x="51" y="10" fill="#5EA7FF"/>
+  </g>
+</svg>

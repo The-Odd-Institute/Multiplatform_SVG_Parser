@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#979797" points="9.152 4 38 4 38 13 3 13"/>
+    <rect width="36" height="56" x="10" y="4" fill="#D8D8D8"/>
+    <rect width="9" height="8" x="14" y="12" fill="#979797"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M26 14L35 14M26 18L29 18M33 18L40 18"/>
+    <rect width="9" height="8" x="14" y="24" fill="#979797"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M26 26L40 26M26 30L29 30M33 30L40 30M15 36L40 36M15 41L40 41"/>
+    <polygon fill="#979797" points="17 52 53 52 46 60 10 60"/>
+    <polygon fill="#9C4D4D" points="42 43 59 43 58 60 43 60"/>
+    <circle cx="59" cy="48" r="4" stroke="#9C4D4D" stroke-linecap="round" stroke-width="2"/>
+    <path stroke="#BD7575" stroke-linecap="round" stroke-width="2" d="M49.2058329 39.1185477C49.2058329 39.1185477 44.6629724 36.9771194 48.6160564 31.8747155 52.5691403 26.7723116 47.7952064 23 47.7952064 23M54.2058329 39.1185477C54.2058329 39.1185477 49.6629724 36.9771194 53.6160564 31.8747155 57.5691403 26.7723116 52.7952064 23 52.7952064 23"/>
+  </g>
+</svg>

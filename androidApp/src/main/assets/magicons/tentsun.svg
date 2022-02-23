@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tentsun</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-38" fill="#FCC24C" cx="23" cy="23" r="9"></circle>
+        <path d="M11,22 L7,22 M14.7218254,14.0147186 L11.8933983,11.1862915 M23,11 L23,7 M30.9852814,14.7218254 L33.8137085,11.8933983 M34,23 L38,23 M30.2781746,30.9852814 L33.1066017,33.8137085 M22,34 L22,38 M14.0147186,30.2781746 L11.1862915,33.1066017" id="Line" stroke="#FCC24C" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Triangle-7-Copy" fill="#80D25B" points="32 12 61 60 3 60"></polygon>
+        <path d="M32,13 L32,9" id="Line-Copy-37" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,13 L28.8377223,9.83772234" id="Line-Copy-36" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M32,13 L35.1622777,9.83772234" id="Line-Copy-35" stroke="#22BA8E" stroke-width="2" stroke-linecap="square"></path>
+        <polygon id="Rectangle-77-Copy" fill="#22BA8E" points="32 37 58 60 32 60"></polygon>
+        <rect id="Rectangle-75-Copy" fill="#22BA8E" x="19" y="42" width="8" height="8"></rect>
+        <path d="M1,61 L63.008064,61" id="Line-Copy-34" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

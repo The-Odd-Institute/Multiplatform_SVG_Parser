@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="56" height="30" x="4" y="18" fill="#5DAF38" rx="3"/>
+    <rect width="4" height="7" x="10" y="11" fill="#ED9111"/>
+    <circle cx="12" cy="8" r="4" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="23" y="11" fill="#ED9111"/>
+    <circle cx="25" cy="8" r="4" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="37" y="11" fill="#ED9111"/>
+    <circle cx="39" cy="8" r="4" fill="#D8D8D8"/>
+    <rect width="4" height="7" x="50" y="11" fill="#ED9111"/>
+    <circle cx="52" cy="8" r="4" fill="#D8D8D8"/>
+    <polygon fill="#FFDD95" points="9 23 55 23 55 43 9 43"/>
+    <rect width="4" height="7" x="10" y="48" fill="#ED9111" transform="matrix(1 0 0 -1 0 103)"/>
+    <circle cx="12" cy="58" r="4" fill="#D8D8D8" transform="matrix(1 0 0 -1 0 116)"/>
+    <rect width="4" height="7" x="23" y="48" fill="#ED9111" transform="matrix(1 0 0 -1 0 103)"/>
+    <circle cx="25" cy="58" r="4" fill="#D8D8D8" transform="matrix(1 0 0 -1 0 116)"/>
+    <rect width="4" height="7" x="37" y="48" fill="#ED9111" transform="matrix(1 0 0 -1 0 103)"/>
+    <circle cx="39" cy="58" r="4" fill="#D8D8D8" transform="matrix(1 0 0 -1 0 116)"/>
+    <rect width="4" height="7" x="50" y="48" fill="#ED9111" transform="matrix(1 0 0 -1 0 103)"/>
+    <circle cx="52" cy="58" r="4" fill="#D8D8D8" transform="matrix(1 0 0 -1 0 116)"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="52" height="10" x="5" y="52" fill="#6B6B6B" rx="2"/>
+    <rect width="48" height="11" x="1" y="41" fill="#FF78C7" rx="2"/>
+    <rect width="54" height="13" x="10" y="28" fill="#FFDD95" rx="2"/>
+    <polygon fill="#5B68C0" fill-rule="nonzero" points="53 28 53 41 55 41 55 28"/>
+    <polygon fill="#5B68C0" points="18 28 26 28 26 38 22 34.733 18 38"/>
+    <polygon fill="#DAD71E" fill-rule="nonzero" points="12 52 12 62 14 62 14 52"/>
+    <polygon fill="#DAD71E" fill-rule="nonzero" points="17 52 17 62 19 62 19 52"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="6 43 6 50 8 50 8 43"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="9 43 9 50 11 50 11 43"/>
+    <polygon fill="#DAD71E" fill-rule="nonzero" points="39 52 39 62 41 62 41 52"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="43 41 43 52 45 52 45 41"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="21 41 21 52 23 52 23 41"/>
+    <polygon fill="#DAD71E" fill-rule="nonzero" points="20 58 38 58 38 56 20 56"/>
+    <polygon fill="#D8D8D8" fill-rule="nonzero" points="24 48 42 48 42 46 24 46"/>
+    <polygon fill="#E5E5E5" points="32 2 48 2 47 28 33 28"/>
+    <polygon fill="#4796E7" points="34 4 45.841 4 45.029 28.069 34.813 28.069"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>kite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26.5336568,26.2077105 L41.7842015,40.4955798 L41.6299552,49.8961725 C41.6299552,49.8961725 59.6827237,59.1276398 60.2511039,59.9335891" id="Path-16" stroke="#979797" stroke-width="2" stroke-linecap="round"></path>
+        <polygon id="Rectangle-44" fill="#D650C7" transform="translate(21.970563, 24.562225) rotate(-45.000000) translate(-21.970563, -24.562225) " points="13.5060967 9.02669103 37.5060967 9.02669103 37.5060967 33.026691 6.43502884 40.0977588"></polygon>
+        <path d="M6,20 L38,20" id="Line" stroke="#FF78C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M22,3 L22,46.0121933" id="Line" stroke="#FF78C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

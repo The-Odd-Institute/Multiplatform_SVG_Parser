@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="47" height="47" x="9" y="5" fill="#D8D8D8"/>
+    <circle cx="21" cy="17" r="6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="21" cy="17" r="2" fill="#979797"/>
+    <path fill="#595959" d="M9,52 L56,52 L56,58.0031303 C56,59.6582557 54.6566063,61 53.0063855,61 L11.9936145,61 C10.3402869,61 9,59.6526091 9,58.0031303 L9,52 Z"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M21 23L21 26M21 8L21 11M27 17L30 17M12 17L15 17"/>
+    <circle cx="21" cy="39" r="6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="21" cy="39" r="2" fill="#979797"/>
+    <circle cx="14.5" cy="56.5" r="2.5" fill="#80D25B"/>
+    <circle cx="22.5" cy="56.5" r="2.5" fill="#80D25B"/>
+    <circle cx="30.5" cy="56.5" r="2.5" fill="#80D25B"/>
+    <circle cx="38.5" cy="56.5" r="2.5" fill="#80D25B"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M21 45L21 48M21 30L21 33M27 39L30 39M12 39L15 39"/>
+    <circle cx="44" cy="17" r="6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="44" cy="17" r="2" fill="#979797"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M44 23L44 26M44 8L44 11M50 17L53 17M35 17L38 17"/>
+    <circle cx="44" cy="39" r="6" stroke="#979797" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="44" cy="39" r="2" fill="#979797"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M44 45L44 48M44 30L44 33M50 39L53 39M35 39L38 39"/>
+  </g>
+</svg>

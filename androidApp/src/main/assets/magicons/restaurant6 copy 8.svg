@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="44" height="49" x="13" y="11" fill="#5B68C0"/>
+    <rect width="37" height="49" x="12" y="8" fill="#ECECEC"/>
+    <path fill="#22BA8E" d="M10,8 L42,1 L42,54 L14.8775164,59.9330433 C12.1837385,60.5223072 10,58.7565085 10,55.9900213 L10,8 Z"/>
+    <text fill="#FFF" font-family="MarkerFelt-Thin, Marker Felt" font-size="10" font-weight="300">
+      <tspan x="20.85" y="18">M</tspan> <tspan x="23.35" y="29">E</tspan> <tspan x="22.5" y="40">N</tspan> <tspan x="22.8" y="51">U</tspan>
+    </text>
+  </g>
+</svg>

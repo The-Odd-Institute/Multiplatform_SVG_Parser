@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>swissknife6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(27.213203, 38.213203) rotate(-315.000000) translate(-27.213203, -38.213203) translate(21.213203, 14.213203)">
+            <path d="M0,0 C0,0 5.09837567,1.09809682 8.90646692,11.601546 C10.1914793,15.1458577 11.1333874,22.0592057 11.1333874,27.5844467 L11.1333874,48 L0,48 L0,0 Z" id="Rectangle-150-Copy" fill="#D8D8D8"></path>
+            <path d="M3,10 L3,42" id="Line-Copy-87" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+        <path d="M5,49 L62,49 L62,55 C62,58.3137085 59.3082008,61 56.0077343,61 L10.9922657,61 C7.68282874,61 5,58.3069658 5,55 L5,49 Z" id="Rectangle-149-Copy" fill="#E43535"></path>
+        <circle id="Oval-78-Copy-3" fill="#FF78C7" cx="12" cy="55" r="2"></circle>
+        <circle id="Oval-78-Copy-2" fill="#FF78C7" cx="56" cy="55" r="2"></circle>
+    </g>
+</svg>

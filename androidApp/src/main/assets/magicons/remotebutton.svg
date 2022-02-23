@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <circle id="remotebutton-a" cx="32" cy="32" r="29"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#D8D8D8" xlink:href="#remotebutton-a"/>
+    <circle cx="32" cy="32" r="28" stroke="#979797" stroke-width="2"/>
+    <circle cx="32" cy="32" r="10" fill="#ECECEC"/>
+    <path stroke="#979797" stroke-linecap="square" stroke-width="2" d="M30 48L30 55.0710678M17 29L17 36.0710678M47 29L47 36.0710678M34 48L34 55.0710678"/>
+    <polygon fill="#979797" points="35 13.5 30 19 30 8"/>
+    <polygon fill="#979797" points="14 32.5 9 38 9 27" transform="rotate(-180 11.5 32.5)"/>
+    <polygon fill="#979797" points="55 32.5 50 38 50 27" transform="matrix(1 0 0 -1 0 65)"/>
+  </g>
+</svg>

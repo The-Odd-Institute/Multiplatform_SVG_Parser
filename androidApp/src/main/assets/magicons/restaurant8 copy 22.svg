@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#80D25B" points="13 5 20 5 20 56.833 13 56.833"/>
+    <path fill="#5B68C0" d="M20,5 L52.0000796,5 C53.1046051,5 54,5.894703 54,7.00020325 L54,57.8324082 C54,58.93709 53.1080589,59.8326115 52.0000796,59.8326115 L20,59.8326115 L20,5 Z"/>
+    <path stroke="#FF78C7" stroke-linecap="round" stroke-width="2" d="M41.0757354,38.2330817 L35.7089946,39.5474256"/>
+    <ellipse cx="43.193" cy="34.944" fill="#D650C7" rx="5.775" ry="5.921"/>
+    <path stroke="#D650C7" stroke-linecap="round" stroke-width="2" d="M28.4283761,26.5499922 L25,28.2688491"/>
+    <ellipse cx="43.94" cy="29.026" fill="#FF78C7" rx="5.06" ry="6.669"/>
+    <ellipse cx="40.211" cy="25.086" fill="#D650C7" rx="6.59" ry="4.777"/>
+    <path stroke="#D650C7" stroke-linecap="round" stroke-width="2" d="M33.9163274,27.0787029 L29.8682342,28.6816376"/>
+    <ellipse cx="34.702" cy="24.569" fill="#FF78C7" rx="6.711" ry="4.569"/>
+    <ellipse cx="30.941" cy="24.069" fill="#0A3586" rx="1" ry="1"/>
+    <path fill="#ECECEC" d="M13,56.5 C13,54.5670034 14.5571833,53 16.4956369,53 L54,53 L54,60 L16.4956369,60 C14.56505,60 13,58.4290634 13,56.5 L13,56.5 Z"/>
+  </g>
+</svg>

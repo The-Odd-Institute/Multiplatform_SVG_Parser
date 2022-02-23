@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <polygon id="freshjuice-a" points="0 0 22 0 20 47 2 47"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(6 16)">
+      <mask id="freshjuice-b" fill="#fff">
+        <use xlink:href="#freshjuice-a"/>
+      </mask>
+      <use fill="#B4DFFB" xlink:href="#freshjuice-a"/>
+      <rect width="41" height="45" x="-10" y="10" fill="#80D25B" mask="url(#freshjuice-b)"/>
+    </g>
+    <path stroke="#BD7575" stroke-linecap="round" stroke-width="2" d="M48.199415,40 C48.199415,40 46.6855581,35.9795966 52,33"/>
+    <path stroke="#D8D8D8" stroke-linecap="square" stroke-width="2" d="M22,60 L6,2"/>
+    <path fill="#80D25B" d="M42.7690024,62 C44.0714968,62 47.5872611,61.0621414 48.522975,59.4832018 C50.8991897,55.4735362 49.6947805,47.814796 49.6947805,44.4618139 C49.6947805,39.7884831 45.9575266,36 41.3473902,36 C36.7372539,36 33,39.7884831 33,44.4618139 C33,49.1351446 38.1588661,62 42.7690024,62 Z"/>
+    <path fill="#80D25B" d="M54.7690024,62 C56.0714968,62 59.5872611,61.0621414 60.522975,59.4832018 C62.8991897,55.4735362 61.6947805,47.814796 61.6947805,44.4618139 C61.6947805,39.7884831 57.9575266,36 53.3473902,36 C48.7372539,36 45,39.7884831 45,44.4618139 C45,49.1351446 50.1588661,62 54.7690024,62 Z" transform="matrix(-1 0 0 1 107 0)"/>
+  </g>
+</svg>

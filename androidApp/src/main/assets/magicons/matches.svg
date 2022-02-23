@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>matches</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Outdoor-Activities-(142)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,16 L54,16 L54,57.9950767 C54,59.1023652 53.1017583,60 51.9938589,60 L10.0061411,60 C8.89817996,60 8,59.1011449 8,57.9950767 L8,16 Z" id="Rectangle-173" fill="#325AA6"></path>
+        <polygon id="Rectangle-174" fill="#ED9111" points="11 11 51 11 54 16 8 16"></polygon>
+        <rect id="Rectangle-175" fill="#AB5F5F" x="15" y="12" width="3" height="4"></rect>
+        <ellipse id="Oval-89" fill="#595959" cx="16.5" cy="10" rx="2.5" ry="3"></ellipse>
+        <rect id="Rectangle-175-Copy" fill="#AB5F5F" x="22" y="12" width="3" height="4"></rect>
+        <ellipse id="Oval-89-Copy" fill="#595959" cx="23.5" cy="10" rx="2.5" ry="3"></ellipse>
+        <rect id="Rectangle-175-Copy-2" fill="#AB5F5F" x="29" y="12" width="3" height="4"></rect>
+        <ellipse id="Oval-89-Copy-2" fill="#595959" cx="30.5" cy="10" rx="2.5" ry="3"></ellipse>
+        <rect id="Rectangle-175-Copy-3" fill="#AB5F5F" x="36" y="12" width="3" height="4"></rect>
+        <ellipse id="Oval-89-Copy-3" fill="#595959" cx="37.5" cy="10" rx="2.5" ry="3"></ellipse>
+        <rect id="Rectangle-175-Copy-4" fill="#AB5F5F" x="43" y="12" width="3" height="4"></rect>
+        <ellipse id="Oval-89-Copy-4" fill="#595959" cx="44.5" cy="10" rx="2.5" ry="3"></ellipse>
+        <path d="M31,51.8443814 C36.5228475,51.8443814 41,47.5203246 41,42.1863302 C41,38.3936731 35.0609169,26.8534701 35.0609169,29.4218223 C35.0609169,31.9901746 34.0715361,33.2581195 33.3708527,32.8527237 C29.0261777,30.3390164 31.8408196,25.8443814 31,25.8443814 C25.4771525,25.8443814 21,36.8523359 21,42.1863302 C21,47.5203246 25.4771525,51.8443814 31,51.8443814 Z" id="Oval" fill="#E43535"></path>
+        <path d="M28.0055988,33 C28.0055988,33 24,38.1266152 24,41.8939106" id="Path-2" stroke="#FCC24C" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>
