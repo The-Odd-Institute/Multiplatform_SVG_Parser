@@ -1,6 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
-import com.oddinstitute.crossplatformsvgparser.cleanTag
+import com.oddinstitute.crossplatformsvgparser.operators.cleanTag
 
 
 fun SvgTransform.Decode.decodeTransform(text: String): ArrayList<SvgTransform>

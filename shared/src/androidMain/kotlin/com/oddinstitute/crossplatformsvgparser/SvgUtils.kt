@@ -2,12 +2,10 @@ package com.oddinstitute.crossplatformsvgparser
 
 import android.graphics.Paint
 import android.graphics.Path
+import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgFillRule
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgLinecap
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStrokeLineJoin
-
-
-
 
 
 // Android ONLY

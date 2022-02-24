@@ -2,7 +2,7 @@ package com.oddinstitute.crossplatformsvgparser.svg_elements
 
 
 
-import com.oddinstitute.crossplatformsvgparser.MyColor
+import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 import com.oddinstitute.crossplatformsvgparser.hexToMyColor
 
 /*

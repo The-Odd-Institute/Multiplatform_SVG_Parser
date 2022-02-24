@@ -1,10 +1,12 @@
 package com.oddinstitute.crossplatformsvgparser.objects
 
 
-import com.oddinstitute.crossplatformsvgparser.*
 import com.oddinstitute.crossplatformsvgparser.MyPath
 import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.operators.*
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
+import com.oddinstitute.crossplatformsvgparser.to_refactor.rotate
+import com.oddinstitute.crossplatformsvgparser.to_refactor.roundTwoDecimals
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransformType
 

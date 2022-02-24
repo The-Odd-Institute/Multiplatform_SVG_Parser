@@ -11,9 +11,8 @@ import android.widget.Button
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
-import com.oddinstitute.crossplatformsvgparser.Artwork
-import com.oddinstitute.crossplatformsvgparser.svg_parser.SvgParser
-import com.oddinstitute.crossplatformsvgparser.svg_parser.parse
+import com.oddinstitute.crossplatformsvgparser.SvgParser
+import com.oddinstitute.crossplatformsvgparser.parse
 import java.io.IOException
 import java.util.*
 import kotlin.collections.ArrayList
@@ -36,7 +35,7 @@ import kotlin.collections.ArrayList
 
 class MainActivity : AppCompatActivity()
 {
-    var curIndex = 1000
+    var curIndex = 0
     lateinit var files: ArrayList<String>
 
     lateinit var drawView: DrawView

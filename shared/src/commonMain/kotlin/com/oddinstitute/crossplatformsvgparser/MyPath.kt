@@ -1,6 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser
 
 import com.oddinstitute.crossplatformsvgparser.objects.Shape
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
 
 expect class MyPath ()
 {
@@ -11,6 +12,4 @@ expect class MyPath ()
 
     fun lineTo(x: Float, y: Float)
     fun moveTo(x: Float, y: Float)
-
-
 }

@@ -1,10 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser
 
-
-expect class BitmapImage ()
-{
-
-}
+import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 
 
 expect fun hexToMyColor(colorStr: String): MyColor

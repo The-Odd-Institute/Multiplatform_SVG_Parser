@@ -1,5 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser
 
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
 import com.oddinstitute.crossplatformsvgparser.objects.Shape
 
 actual class MyPath actual constructor()

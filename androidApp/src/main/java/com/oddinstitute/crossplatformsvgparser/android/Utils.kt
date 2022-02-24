@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.android
 
 import android.graphics.Color
-import com.oddinstitute.crossplatformsvgparser.MyColor
+import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 
 class Utils
 {

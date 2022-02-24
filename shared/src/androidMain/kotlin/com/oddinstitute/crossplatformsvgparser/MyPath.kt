@@ -2,6 +2,8 @@ package com.oddinstitute.crossplatformsvgparser
 
 import android.graphics.Path
 import com.oddinstitute.crossplatformsvgparser.objects.Shape
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
+import com.oddinstitute.crossplatformsvgparser.to_refactor.addToPath
 
 actual class MyPath
 {
@@ -17,10 +19,13 @@ actual class MyPath
             this.path.fillType = it
         }
 
-        if (closed) path.close()
-
         for (seg in segments)
             seg.addToPath(this) // this used to be this.path
+
+        if (closed)
+            this.path.close()
+
+
     }
 
     actual fun makeSharpPath(shape: Shape, closed: Boolean, pts: ArrayList<MyVector2>)

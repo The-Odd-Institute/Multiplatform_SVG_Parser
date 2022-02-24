@@ -2,14 +2,12 @@ package com.oddinstitute.crossplatformsvgparser.android
 
 import android.content.Context
 import android.graphics.Canvas
-import android.graphics.Color
 import android.graphics.DashPathEffect
 import android.graphics.Paint
 import android.view.View
-import com.oddinstitute.crossplatformsvgparser.Artwork
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Artwork
 import com.oddinstitute.crossplatformsvgparser.SvgLineCapToType
 import com.oddinstitute.crossplatformsvgparser.SvgLineJoinToType
-import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgLinecap
 
 
 class DrawView(context: Context) : View(context)

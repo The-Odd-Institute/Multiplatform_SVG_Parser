@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.objects
 
 
-import com.oddinstitute.crossplatformsvgparser.MyColor
+import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgClipRule
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgFillRule
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgLinecap
