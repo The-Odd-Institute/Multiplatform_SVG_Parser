@@ -16,7 +16,7 @@ fun SvgParser.tagBegan(parser: XmlPullParser)
             if (definitionState)
                 definitions.add(polygonTag)
             else
-                polygonTag.assemble(currentGroups, styles, scaleFactor,
+                assembleTag(polygonTag, currentGroups, styles, scaleFactor,
                                     viewBoxOffset)?.let {
                     artwork.objects.add(it)
                 }
@@ -27,7 +27,7 @@ fun SvgParser.tagBegan(parser: XmlPullParser)
             if (definitionState)
                 definitions.add(pathTag)
             else
-                pathTag.assemble(currentGroups, styles, scaleFactor, viewBoxOffset)?.let {
+                assembleTag(pathTag, currentGroups, styles, scaleFactor, viewBoxOffset)?.let {
                     artwork.objects.add(it)
                 }
         }
@@ -37,7 +37,7 @@ fun SvgParser.tagBegan(parser: XmlPullParser)
             val useTag = UseTag(parser, definitions)
             val resultTag = useTag.resultTag()
 
-            resultTag.assemble(currentGroups, styles, scaleFactor, viewBoxOffset)?.let {
+            assembleTag(resultTag, currentGroups, styles, scaleFactor, viewBoxOffset)?.let {
                 artwork.objects.add(it)
             }
         }

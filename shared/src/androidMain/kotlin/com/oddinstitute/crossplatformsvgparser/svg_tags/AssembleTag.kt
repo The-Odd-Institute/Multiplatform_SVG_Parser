@@ -7,7 +7,8 @@ import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 import com.oddinstitute.crossplatformsvgparser.svg_elements.combineWithOuterStyle
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 
-fun Tag.assemble(currentGroups: ArrayList<Tag>,
+fun assembleTag(tag: Tag,
+    currentGroups: ArrayList<Tag>,
                  styles: HashMap<String, SvgStyle>?,
                  scaleFactor: Float,
                  viewBoxOffset: MyVector2): Object?
@@ -19,7 +20,7 @@ fun Tag.assemble(currentGroups: ArrayList<Tag>,
 
     if (currentGroups.count() == 1)
     {
-        styleByGroup = currentGroups.first().consolidateStyles(styles)
+        styleByGroup = consolidateTagStyles(currentGroups.first(), styles)
 
         currentGroups.first().transforms?.let {
             transformByGroup = it
@@ -28,10 +29,10 @@ fun Tag.assemble(currentGroups: ArrayList<Tag>,
     else if (currentGroups.count() > 1) {
         for (g in currentGroups) {
             styleByGroup = if (currentGroups.indexOf(g) == 0) {
-                g.consolidateStyles(styles)
+                consolidateTagStyles(g, styles)
             }
             else {
-                val nextGroupStyle = g.consolidateStyles(styles)
+                val nextGroupStyle = consolidateTagStyles(g, styles)
                 nextGroupStyle.combineWithOuterStyle(styleByGroup)
             }
 
@@ -53,10 +54,10 @@ fun Tag.assemble(currentGroups: ArrayList<Tag>,
 
 
     // Local Level, we make it non-optional (even it initiated, the content might be null which is ok
-    val styleByElement = this.consolidateStyles(styles)
+    val styleByElement = consolidateTagStyles(tag, styles)
     var transformByElement: ArrayList<SvgTransform>? = null
 
-    this.transforms?.let {
+    tag.transforms?.let {
         transformByElement = it
     }
 
@@ -76,7 +77,7 @@ fun Tag.assemble(currentGroups: ArrayList<Tag>,
 
     // by now, we have the style and transform
     // its time to get the object
-    this.toObject()?.let {
+    tag.toObject()?.let {
         it.applySvgStyle(theStyle)
 
         for (trans in allTransforms.reversed())

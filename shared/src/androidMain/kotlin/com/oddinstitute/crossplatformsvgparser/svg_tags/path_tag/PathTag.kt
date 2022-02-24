@@ -1,6 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
 import com.oddinstitute.crossplatformsvgparser.*
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import com.oddinstitute.crossplatformsvgparser.objects.PathObj
 import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag

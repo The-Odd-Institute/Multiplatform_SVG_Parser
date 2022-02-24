@@ -1,10 +1,8 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
 import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SegmentType
-import com.oddinstitute.crossplatformsvgparser.operators.times
 import com.oddinstitute.crossplatformsvgparser.operators.toFloat
 
 fun PathTag.movePiece(piece: String, curPoint: MyVector2): Segment

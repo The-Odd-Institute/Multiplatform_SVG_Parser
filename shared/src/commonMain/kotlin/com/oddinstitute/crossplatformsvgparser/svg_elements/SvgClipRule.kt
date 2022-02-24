@@ -1,6 +1,5 @@
 package com.oddinstitute.crossplatformsvgparser.svg_elements
 
-import android.graphics.Path
 
 enum class SvgClipRule(val text: String)
 {
@@ -9,8 +8,8 @@ enum class SvgClipRule(val text: String)
     INHERIT("inherit");
 
 
-    fun toRaw() = enumToRaw[this]
-    fun toType() = enumToType[this]
+//    fun toRaw() = enumToRaw[this]
+//    fun toType() = enumToType[this]
 
     companion object
     {
@@ -21,10 +20,10 @@ enum class SvgClipRule(val text: String)
 
 
         // currently this does not account for inherit
-        val typeToEnum = mapOf<Path.FillType, SvgClipRule>(
-                Path.FillType.EVEN_ODD to EVENODD,
-                Path.FillType.INVERSE_EVEN_ODD to NONZERO)
-        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+//        val typeToEnum = mapOf<Path.FillType, SvgClipRule>(
+//                Path.FillType.EVEN_ODD to EVENODD,
+//                Path.FillType.INVERSE_EVEN_ODD to NONZERO)
+//        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
 
     }
 }

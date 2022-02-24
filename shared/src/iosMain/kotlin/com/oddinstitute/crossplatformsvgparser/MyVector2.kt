@@ -15,9 +15,9 @@ actual fun hexToMyColor(colorStr: String): MyColor
     val g = 0f // Integer.valueOf(colorStr.substring(3, 5), 16)
     val b = 0f // Integer.valueOf(colorStr.substring(5, 7), 16)
 
-    return MyColor(r.toFloat(),
-                   g.toFloat(),
-                   b.toFloat(), 1f)
+    return MyColor(r,
+                   g,
+                   b, 1f)
 }
 
 
@@ -132,7 +132,8 @@ actual class MyVector2 actual constructor ()
         this.y = y
     }
 
-    actual fun times(other: Float): MyVector2  {
+    actual fun times(other: Float): MyVector2
+    {
         return MyVector2(this.x * other, this.y * other)
     }
 

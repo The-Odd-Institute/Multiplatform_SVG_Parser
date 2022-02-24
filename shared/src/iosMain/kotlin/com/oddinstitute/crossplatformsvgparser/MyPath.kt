@@ -12,4 +12,16 @@ actual class MyPath actual constructor()
     {
 
     }
+
+    actual fun cubicTo(ox: Float, oy: Float, ix: Float, iy: Float, x: Float, y: Float)
+    {
+    }
+
+    actual fun lineTo(x: Float, y: Float)
+    {
+    }
+
+    actual fun moveTo(x: Float, y: Float)
+    {
+    }
 }

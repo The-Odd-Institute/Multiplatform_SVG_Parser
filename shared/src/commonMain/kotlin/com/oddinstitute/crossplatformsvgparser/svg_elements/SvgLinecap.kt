@@ -1,6 +1,5 @@
 package com.oddinstitute.crossplatformsvgparser.svg_elements
 
-import android.graphics.Paint
 
 enum class SvgLinecap(val text: String)
 {

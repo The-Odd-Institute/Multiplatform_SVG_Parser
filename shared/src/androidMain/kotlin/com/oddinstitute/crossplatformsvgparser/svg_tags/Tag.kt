@@ -11,12 +11,10 @@ import org.xmlpull.v1.XmlPullParser
 // it cacluates ALL the common tags
 open class Tag()
 {
-    companion object Cleaner
-    {
-
-    }
-
-
+//    companion object Cleaner
+//    {
+//
+//    }
 
 
     open var id: String? = null
@@ -40,16 +38,6 @@ open class Tag()
 
     // this is generic, but only used in the actual tags
     // var parentGroup: GTag? = null
-
-
-
-
-
-
-
-
-
-
 
     constructor(parser: XmlPullParser) : this()
     {
@@ -114,25 +102,6 @@ open class Tag()
     }
 
 
-    // this function simply reads the right values
-    // replaced with init
-//    open fun decodeThis ()
-//    {
-//
-//    }
-
-
-    // this function returns an array, because for the paths, we might have more than one piece
-    // others return singular objects, but path might return multiple objects
-//    open fun toPolygon(): ArrayList<Polygon>
-//    {
-//        return arrayListOf()
-//    }
-//
-//    open fun toText(): ArrayList<Polygon>
-//    {
-//        return arrayListOf()
-//    }
 
     open fun toObject(): Object?
     {

@@ -2,9 +2,6 @@ package com.oddinstitute.crossplatformsvgparser
 
 import android.graphics.Path
 import com.oddinstitute.crossplatformsvgparser.objects.Shape
-import com.oddinstitute.crossplatformsvgparser.operators.lineToPoint
-import com.oddinstitute.crossplatformsvgparser.operators.moveToPoint
-
 
 actual class MyPath
 {
@@ -22,7 +19,8 @@ actual class MyPath
 
         if (closed) path.close()
 
-        for (seg in segments) seg.addToPath(this.path)
+        for (seg in segments)
+            seg.addToPath(this) // this used to be this.path
     }
 
     actual fun makeSharpPath(shape: Shape, closed: Boolean, pts: ArrayList<MyVector2>)
@@ -41,4 +39,20 @@ actual class MyPath
 
         if (closed) this.path.close()
     }
+
+    actual fun cubicTo(ox: Float, oy: Float, ix: Float, iy: Float, x: Float, y: Float)
+    {
+        path.cubicTo(ox, oy, ix, iy, x, y)
+    }
+
+    actual fun lineTo(x: Float, y: Float)
+    {
+        path.lineTo(x, y)
+    }
+
+    actual fun moveTo(x: Float, y: Float)
+    {
+        path.moveTo(x, y)
+    }
+
 }

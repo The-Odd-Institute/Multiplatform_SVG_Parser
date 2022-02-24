@@ -7,7 +7,7 @@ class Utils
 {
     companion object
     {
-        fun myColorToArgb (myColor: MyColor) : Int
+        fun myColorToArgb(myColor: MyColor) : Int
         {
             val color = Color.valueOf(myColor.r,
                                      myColor.g,

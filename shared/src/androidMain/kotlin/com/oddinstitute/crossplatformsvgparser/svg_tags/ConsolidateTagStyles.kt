@@ -8,14 +8,14 @@ import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 // Style Overrides class
 // Class overrides individual elements
 
-fun Tag.consolidateStyles(styles: HashMap<String, SvgStyle>?): SvgStyle
+fun consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
 {
     var styleLevel: SvgStyle = SvgStyle() // if there's a style
     var classLevel: SvgStyle = SvgStyle() // if there's a class
     val elemLevel: SvgStyle = SvgStyle() // if there are inline values
 
 
-    this.svgClass?.let { svgClass ->
+    tag.svgClass?.let { svgClass ->
         // there is a class
         // let's find out the style
         styles?.let { theStyles ->
@@ -25,7 +25,7 @@ fun Tag.consolidateStyles(styles: HashMap<String, SvgStyle>?): SvgStyle
         }
     }
 
-    this.style?.let {
+    tag.style?.let {
         styleLevel = it
     }
 
@@ -33,14 +33,14 @@ fun Tag.consolidateStyles(styles: HashMap<String, SvgStyle>?): SvgStyle
     // here, we don't directly set them
     // we only do if value exists
     // WHY
-    this.fill?.let { elemLevel.fill = it }
-    this.stroke?.let { elemLevel.stroke = it }
-    this.strokeWidth?.let { elemLevel.strokeWidth = it }
-    this.fillRule?.let { elemLevel.fillRule2 = it }
-    this.clipRule?.let { elemLevel.clipRule = it }
-    this.strokeLineCap?.let { elemLevel.strokeLineCap = it }
-    this.strokeDashArray?.let { elemLevel.strokeDashArray = it }
-    this.strokeLineJoin?.let { elemLevel.strokeLineJoin = it }
+    tag.fill?.let { elemLevel.fill = it }
+    tag.stroke?.let { elemLevel.stroke = it }
+    tag.strokeWidth?.let { elemLevel.strokeWidth = it }
+    tag.fillRule?.let { elemLevel.fillRule2 = it }
+    tag.clipRule?.let { elemLevel.clipRule = it }
+    tag.strokeLineCap?.let { elemLevel.strokeLineCap = it }
+    tag.strokeDashArray?.let { elemLevel.strokeDashArray = it }
+    tag.strokeLineJoin?.let { elemLevel.strokeLineJoin = it }
 
 
 

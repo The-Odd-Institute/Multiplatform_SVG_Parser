@@ -5,51 +5,8 @@ import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 
 class StyleTag(val styleText: String?) : Tag()
 {
-//    companion object
-//    {
-//        // this function receives a style string and decodes it to actual SvgStyles
-//        fun decodeSingleStyle(sText: String): SvgStyle
-//        {
-//            val svgStyle: SvgStyle = SvgStyle()
-//
-//            // in style, we have both the Equal sign and the colon,
-//            // we replace equals with a colon
-//            val components = sText
-//                    .replace("=", ":")
-//                    .replace("\\s+".toRegex(), "") // remove multiple spaces
-//                    .split(";")
-//
-//            for (each in components)
-//            {
-//                val keyVal = each.split(":")
-//                if (keyVal.count() < 2)
-//                    continue
-//
-//                val key = keyVal[0]
-//                val value = keyVal[1]
-//
-//                when (key)
-//                {
-//                    "fill" -> svgStyle.fill = SvgColor.ofRaw(value)
-//                    "stroke" -> svgStyle.stroke = SvgColor.ofRaw(value)
-//                    "stroke-width" -> svgStyle.strokeWidth = value.toFloat()
-//                    "fill-rule" -> svgStyle.fillRule = SvgFillRule.ofRaw(value) // gets from enum
-//                    "clip-rule" -> svgStyle.clipRule = SvgClipRule.ofRaw(value)
-//                    "stroke-linecap" -> svgStyle.strokeLineCap = SvgLinecap.ofRaw(value)
-//                    "stroke-dasharray" -> svgStyle.strokeDashArray = value.toFloat()
-//                    "stroke-linejoin" -> svgStyle.strokeLineJoin = SvgStrokeLineJoin.valueOf(value)
-//                }
-//            }
-//
-//            return svgStyle
-//        }
-//
-//    }
-
-
     // this tag reads the styles
     // associated with a SVG file
-
     fun decodeStyle(): HashMap<String, SvgStyle>
     {
         val stylesMap: HashMap<String, SvgStyle> = hashMapOf()

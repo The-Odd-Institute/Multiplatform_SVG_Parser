@@ -1,12 +1,8 @@
 package com.oddinstitute.crossplatformsvgparser.operators
 
-import android.graphics.PointF
-import com.oddinstitute.crossplatformsvgparser.MyVector2
-import com.oddinstitute.crossplatformsvgparser.Segment
-import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgMatrixTransform
+
 import kotlin.math.PI
-import kotlin.math.cos
-import kotlin.math.sin
+
 
 //fun PointF.matrixTransform(matrix: SvgMatrixTransform): PointF
 //{
@@ -35,7 +31,6 @@ import kotlin.math.sin
 //operator fun PointF.times(other: Float) = PointF(this.x * other,
 //                                                 this.y * other)
 
-fun Boolean.toFloat(): Float = if (this) 1.0f else 0.0f
 
 
 // FIXME - This i different in Moush
@@ -103,4 +98,4 @@ fun Boolean.toFloat(): Float = if (this) 1.0f else 0.0f
 //}
 
 
-fun Float.toRadian() = (this * (PI / 180))
+

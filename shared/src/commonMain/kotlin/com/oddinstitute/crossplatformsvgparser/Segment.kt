@@ -11,7 +11,7 @@ class Segment()
 {
     companion object
     {
-        fun quadToCurve (start: MyVector2, control: MyVector2, end: MyVector2): Segment
+        fun quadToCurve(start: MyVector2, control: MyVector2, end: MyVector2): Segment
         {
             val curve = Segment(SegmentType.Curve)
             // val ox = start.x

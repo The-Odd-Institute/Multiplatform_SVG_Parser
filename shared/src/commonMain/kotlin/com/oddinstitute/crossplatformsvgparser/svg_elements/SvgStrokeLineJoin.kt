@@ -1,7 +1,5 @@
 package com.oddinstitute.crossplatformsvgparser.svg_elements
 
-import android.graphics.Paint
-
 
 enum class SvgStrokeLineJoin(val text: String)
 {

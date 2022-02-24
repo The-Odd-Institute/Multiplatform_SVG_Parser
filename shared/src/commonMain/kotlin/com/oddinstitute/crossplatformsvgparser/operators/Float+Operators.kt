@@ -1,11 +1,12 @@
 package com.oddinstitute.crossplatformsvgparser.operators
 
+import kotlin.math.PI
 import kotlin.math.roundToInt
 
-fun Float.roundTwoDecimals(): Float
-{
-    return (this * 100.0).roundToInt() / 100.0f
-}
+fun Float.toRadian() = (this * (PI / 180))
+fun Float.roundTwoDecimals(): Float = (this * 100.0).roundToInt() / 100.0f
+
+
 
 //fun Color.roundTwoDecimals() : Color
 //{

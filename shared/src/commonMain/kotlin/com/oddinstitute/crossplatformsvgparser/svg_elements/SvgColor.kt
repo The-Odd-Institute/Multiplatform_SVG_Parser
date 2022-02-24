@@ -2,10 +2,8 @@ package com.oddinstitute.crossplatformsvgparser.svg_elements
 
 
 
-//import android.graphics.Color
 import com.oddinstitute.crossplatformsvgparser.MyColor
-import com.oddinstitute.crossplatformsvgparser.operators.roundTwoDecimals
-import java.lang.Integer
+import com.oddinstitute.crossplatformsvgparser.hexToMyColor
 
 /*
  #rgb | #CDF
@@ -344,14 +342,15 @@ enum class SvgColor(val rgb: RGB)
                                          "#$1$1$2$2$3$3")
                     }
 
+                    return hexToMyColor(newColString)
 
-                    val r = Integer.valueOf(newColString.substring(1, 3), 16)
-                    val g = Integer.valueOf(newColString.substring(3, 5), 16)
-                    val b = Integer.valueOf(newColString.substring(5, 7), 16)
-
-                    return MyColor(r.toFloat() / 255f,
-                                   g.toFloat() / 255f,
-                                   b.toFloat() / 255f)
+//                    val r = Integer.valueOf(newColString.substring(1, 3), 16)
+//                    val g = Integer.valueOf(newColString.substring(3, 5), 16)
+//                    val b = Integer.valueOf(newColString.substring(5, 7), 16)
+//
+//                    return MyColor(r.toFloat() / 255f,
+//                                   g.toFloat() / 255f,
+//                                   b.toFloat() / 255f)
 
                     // FIXME
 

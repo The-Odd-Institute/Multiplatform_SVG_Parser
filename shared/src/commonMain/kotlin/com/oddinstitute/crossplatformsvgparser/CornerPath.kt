@@ -1,20 +1,20 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.Path
+import com.oddinstitute.crossplatformsvgparser.MyPath
 
 
 // this class draws a corner
 class CornerPath
 {
-    var path: Path
+    var path: MyPath
     var selected: Boolean = false
 
-    constructor(path: Path)
+    constructor(path: MyPath)
     {
         this.path = path
     }
 
-    constructor(path: Path, selected: Boolean?)
+    constructor(path: MyPath, selected: Boolean?)
     {
         this.path = path
 

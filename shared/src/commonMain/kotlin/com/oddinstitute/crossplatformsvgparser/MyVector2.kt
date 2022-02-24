@@ -1,20 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import com.oddinstitute.crossplatformsvgparser.objects.Shape
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgMatrixTransform
-
-
-
-
-
-expect class BitmapImage ()
-{
-
-}
-
-
-expect fun hexToMyColor(colorStr: String): MyColor
-
 
 expect class MyColor ()
 {
@@ -28,14 +14,10 @@ expect class MyColor ()
     fun roundTwoDecimals() : MyColor
 }
 
-
 expect class UniqueId ()
 {
     var id: String
 }
-
-
-
 
 expect class MyVector2 ()
 {
@@ -65,7 +47,6 @@ expect class MyVector2 ()
 
     fun times(other: Float): MyVector2
 }
-
 
 expect class MyMatrix ()
 {

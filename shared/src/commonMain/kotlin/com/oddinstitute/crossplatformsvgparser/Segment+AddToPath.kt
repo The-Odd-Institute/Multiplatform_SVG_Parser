@@ -1,19 +1,20 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.Path
+import com.oddinstitute.crossplatformsvgparser.MyPath
 
-fun Segment.addToPath(path: Path)
+
+fun Segment.addToPath(myPath: MyPath)
 {
     when (this.type)
     {
         SegmentType.Curve -> {
             this.o?.let { oo ->
                 this.i?.let { ii ->
-                    path.cubicTo(oo.x, oo.y, ii.x, ii.y, v.x, v.y)
+                    myPath.cubicTo(oo.x, oo.y, ii.x, ii.y, v.x, v.y)
                 }
             }
         }
-        SegmentType.Line -> path.lineTo(this.v.x, this.v.y)
-        SegmentType.Move -> path.moveTo(this.v.x, this.v.y)
+        SegmentType.Line -> myPath.lineTo(this.v.x, this.v.y)
+        SegmentType.Move -> myPath.moveTo(this.v.x, this.v.y)
     }
 }

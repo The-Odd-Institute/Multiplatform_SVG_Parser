@@ -2,6 +2,8 @@ package com.oddinstitute.crossplatformsvgparser.objects
 
 
 import com.oddinstitute.crossplatformsvgparser.*
+import com.oddinstitute.crossplatformsvgparser.MyPath
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.operators.*
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransformType
