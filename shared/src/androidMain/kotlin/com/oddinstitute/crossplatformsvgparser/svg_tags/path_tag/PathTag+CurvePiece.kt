@@ -1,6 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SegmentType
 
@@ -8,7 +8,7 @@ import com.oddinstitute.crossplatformsvgparser.SegmentType
 //At the end of the command, the new current point becomes the final (x,y)
 //coordinate pair used in the polybézier.
 
-fun PathTag.curvePiece(piece: String, curPoint: PointF): ArrayList<Segment>
+fun PathTag.curvePiece(piece: String, curPoint: MyVector2): ArrayList<Segment>
 {
     val segments = arrayListOf<Segment>()
 
@@ -21,7 +21,7 @@ fun PathTag.curvePiece(piece: String, curPoint: PointF): ArrayList<Segment>
             .replace(" ", ",")
             .replace(",,", ",") // it's possible to get two commas
 
-    var intCurPoint = PointF() // this is either the current point or the knot of the last segments
+    var intCurPoint = MyVector2() // this is either the current point or the knot of the last segments
 
     // curves have multiples of 6 pieces, SO
     val initialPoints : List<String> = str.split(",")
@@ -44,13 +44,13 @@ fun PathTag.curvePiece(piece: String, curPoint: PointF): ArrayList<Segment>
                 intCurPoint = segments.last().v
         }
 
-        curve.o = PointF(points[i].toFloat() + intCurPoint.x,
+        curve.o = MyVector2(points[i].toFloat() + intCurPoint.x,
                            points[i+1].toFloat() + intCurPoint.y)
 
-        curve.i = PointF(points[i+2].toFloat() + intCurPoint.x,
+        curve.i = MyVector2(points[i+2].toFloat() + intCurPoint.x,
                            points[i+3].toFloat() + intCurPoint.y)
 
-        curve.v = PointF(points[i+4].toFloat() + intCurPoint.x,
+        curve.v = MyVector2(points[i+4].toFloat() + intCurPoint.x,
                             points[i+5].toFloat() + intCurPoint.y)
 
         segments.add(curve)

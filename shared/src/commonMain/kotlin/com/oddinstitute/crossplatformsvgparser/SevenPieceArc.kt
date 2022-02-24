@@ -1,7 +1,12 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.Matrix
-import android.graphics.PointF
+
+
+
+
+
+
+
 import kotlin.math.*
 
 // rx ry x-axis-rotation large-arc-flag sweep-flag x y
@@ -13,7 +18,7 @@ data class SevenPieceArc(var rx: Float,
                           val x2: Float,
                           val y2: Float)
 
-fun SevenPieceArc.toSegmentsObjCMethod(curPoint: PointF): ArrayList<Segment>
+fun SevenPieceArc.toSegmentsObjCMethod(curPoint: MyVector2): ArrayList<Segment>
 {
     val outSegments = ArrayList<Segment>()
 //
@@ -118,11 +123,11 @@ fun SevenPieceArc.toSegmentsObjCMethod(curPoint: PointF): ArrayList<Segment>
         val x2: Float = cos(ang1 + ang2)
         val y2: Float = sin(ang1 + ang2)
 
-        val cp1: PointF =
+        val cp1: MyVector2 =
             mapToEllipse(x1 - y1 * a, y1 + x1 * a, rx, ry, cosAngle, sinAngle, centerX, centerY)
-        val cp2: PointF =
+        val cp2: MyVector2 =
             mapToEllipse(x2 + y2 * a, y2 - x2 * a, rx, ry, cosAngle, sinAngle, centerX, centerY)
-        val knot: PointF = mapToEllipse(x2, y2, rx, ry, cosAngle, sinAngle, centerX, centerY)
+        val knot: MyVector2 = mapToEllipse(x2, y2, rx, ry, cosAngle, sinAngle, centerX, centerY)
 
         val arcSegment = Segment(SegmentType.Curve)
 
@@ -169,7 +174,7 @@ fun SevenPieceArc.mapToEllipse(x: Float,
                                cosPhi: Float,
                                sinPhi: Float,
                                centerX: Float,
-                               centerY: Float): PointF
+                               centerY: Float): MyVector2
 {
     val xx = x * rx
     val yy = y * ry
@@ -177,10 +182,10 @@ fun SevenPieceArc.mapToEllipse(x: Float,
     val xp: Float = cosPhi * xx - sinPhi * yy
     val yp: Float = sinPhi * xx + cosPhi * yy
 
-    return PointF(xp + centerX, yp + centerY)
+    return MyVector2(xp + centerX, yp + centerY)
 }
 
-fun SevenPieceArc.toSegmentsJavaMethod(curPoint: PointF): ArrayList<Segment>
+fun SevenPieceArc.toSegmentsJavaMethod(curPoint: MyVector2): ArrayList<Segment>
 {
     val segmentsArr: ArrayList<Segment> = arrayListOf()
 
@@ -209,7 +214,7 @@ fun SevenPieceArc.toSegmentsJavaMethod(curPoint: PointF): ArrayList<Segment>
     // Handle degenerate case (behaviour specified by the spec)
     if (rx == 0f || ry == 0f)
     {
-        val lineSeg = Segment(SegmentType.Line, PointF(x, y))
+        val lineSeg = Segment(SegmentType.Line, MyVector2(x, y))
 
         segmentsArr.add(lineSeg)
         return segmentsArr
@@ -309,7 +314,7 @@ fun SevenPieceArc.toSegmentsJavaMethod(curPoint: PointF): ArrayList<Segment>
     // Catch angleExtents of 0, which will cause problems later in arcToBeziers
     if (angleExtent == 0.0)
     {
-        val lineSeg = Segment(SegmentType.Line, PointF(x, y))
+        val lineSeg = Segment(SegmentType.Line, MyVector2(x, y))
 
         segmentsArr.add(lineSeg)
         return segmentsArr
@@ -332,7 +337,7 @@ fun SevenPieceArc.toSegmentsJavaMethod(curPoint: PointF): ArrayList<Segment>
     val bezierPoints: FloatArray = arcToBeziers(angleStart, angleExtent)
 
     // Calculate a transformation matrix that will move and scale these bezier points to the correct location.
-    val m = Matrix()
+    val m = MyMatrix()
     m.postScale(rx, ry)
     m.postRotate(xAxisRotation) //todo is this correct?
     m.postTranslate(cx.toFloat(), cy.toFloat())
@@ -351,9 +356,9 @@ fun SevenPieceArc.toSegmentsJavaMethod(curPoint: PointF): ArrayList<Segment>
     {
         // we are here
 
-        val cp1 = PointF(bezierPoints[i], bezierPoints[i + 1])
-        val cp2 = PointF(bezierPoints[i + 2], bezierPoints[i + 3])
-        val knot = PointF(bezierPoints[i + 4], bezierPoints[i + 5])
+        val cp1 = MyVector2(bezierPoints[i], bezierPoints[i + 1])
+        val cp2 = MyVector2(bezierPoints[i + 2], bezierPoints[i + 3])
+        val knot = MyVector2(bezierPoints[i + 4], bezierPoints[i + 5])
         val curveSeg = Segment(SegmentType.Curve, knot, cp1, cp2)
 
         segmentsArr.add(curveSeg)

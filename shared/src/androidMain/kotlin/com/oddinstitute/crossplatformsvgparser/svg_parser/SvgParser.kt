@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.svg_parser
 
-import android.graphics.PointF
 import com.oddinstitute.crossplatformsvgparser.Artwork
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag
 
@@ -13,7 +13,7 @@ class SvgParser
     // default assumption is 512. If different, we should transform
     // var viewBox: String = "0 0 512 512"
     var scaleFactor = 1.0f // if view box is different, we use the scale factor
-    var viewBoxOffset = PointF()
+    var viewBoxOffset = MyVector2()
 
     var curTagText: String? = null
     var curTagName: String? = null

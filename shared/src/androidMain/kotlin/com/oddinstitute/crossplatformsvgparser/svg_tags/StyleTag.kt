@@ -1,5 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
+import com.oddinstitute.crossplatformsvgparser.cleanTag
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 
 class StyleTag(val styleText: String?) : Tag()
@@ -84,7 +85,7 @@ class StyleTag(val styleText: String?) : Tag()
 
             for (any in pieces)
             {
-                val cleanPiece = Tag.clean(any)
+                val cleanPiece = any.cleanTag()
 
                 if (cleanPiece.isEmpty())
                     continue

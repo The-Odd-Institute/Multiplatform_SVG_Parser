@@ -1,14 +1,9 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
-import com.oddinstitute.crossplatformsvgparser.Segment
-import com.oddinstitute.crossplatformsvgparser.SegmentType
-import com.oddinstitute.crossplatformsvgparser.SevenPieceArc
+import com.oddinstitute.crossplatformsvgparser.*
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import com.oddinstitute.crossplatformsvgparser.objects.PathObj
 import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag
-import com.oddinstitute.crossplatformsvgparser.svg_tags.clean
-import com.oddinstitute.crossplatformsvgparser.toSegmentsObjCMethod
 import org.xmlpull.v1.XmlPullParser
 
 class PathTag(val parser: XmlPullParser) : Tag(parser)
@@ -42,7 +37,7 @@ class PathTag(val parser: XmlPullParser) : Tag(parser)
     {
         d?.let { // PATH
 
-            val singlePolyString = Tag.clean(it)
+            val singlePolyString = it.cleanTag()
 
             // we shouldn't make an object
             // we should make a path, the subclass ofObject
@@ -86,7 +81,7 @@ class PathTag(val parser: XmlPullParser) : Tag(parser)
             }
 
 
-            var curPoint = PointF() // is the previous location
+            var curPoint = MyVector2() // is the previous location
 
             for (piece: String in piecesStringArr)
             {
@@ -128,7 +123,7 @@ class PathTag(val parser: XmlPullParser) : Tag(parser)
             val obj: PathObj = PathObj(true) // ovals are closed
 
             val moveSeg = Segment(SegmentType.Move)
-            moveSeg.v = PointF(cx - radX, cy)
+            moveSeg.v = MyVector2(cx - radX, cy)
             obj.segments.add(moveSeg)
 
             // XCODE METHOD
@@ -153,10 +148,10 @@ class PathTag(val parser: XmlPullParser) : Tag(parser)
 
             // THIS IS CURRENTLY THE WORKING ONE THAT CONVERTS to 4 PIECES
             // first from Move draw to half
-            val piece1Segments = sevenPieceArc1.toSegmentsObjCMethod(PointF(cx - radX, cy))
+            val piece1Segments = sevenPieceArc1.toSegmentsObjCMethod(MyVector2(cx - radX, cy))
 //
 //        // then from the end of that half, draw back
-            val piece2Segments = sevenPieceArc2.toSegmentsObjCMethod(PointF(cx + radX, cy))
+            val piece2Segments = sevenPieceArc2.toSegmentsObjCMethod(MyVector2(cx + radX, cy))
 
 
             // THIS IS THE OLD JAVA METHOD THAT CONVERTS to 2 PIECES

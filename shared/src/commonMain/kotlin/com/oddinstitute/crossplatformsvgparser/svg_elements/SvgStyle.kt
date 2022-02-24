@@ -1,11 +1,11 @@
 package com.oddinstitute.crossplatformsvgparser.svg_elements
 
-import android.graphics.Color
+import com.oddinstitute.crossplatformsvgparser.MyColor
 
 class SvgStyle()
 {
-    var fill: Color? = null
-    var stroke: Color? = null
+    var fill: MyColor? = null
+    var stroke: MyColor? = null
     var strokeWidth: Float? = null
 
     var fillRule2: SvgFillRule? = SvgFillRule.NONZERO

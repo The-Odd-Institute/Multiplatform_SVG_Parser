@@ -1,18 +1,18 @@
-package com.oddinstitute.crossplatformsvgparser.temp_draw
+package com.oddinstitute.crossplatformsvgparser.operators
 
 import android.graphics.Path
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 
 //import com.oddinstitute.moush.MyPointF
 
-fun Path.lineToPoint(point: PointF)
+fun Path.lineToPoint(point: MyVector2)
 {
     this.lineTo(point.x,
                 point.y)
 }
 
-fun Path.moveToPoint(point: PointF)
+fun Path.moveToPoint(point: MyVector2)
 {
     this.moveTo(point.x,
         point.y)
@@ -21,7 +21,7 @@ fun Path.moveToPoint(point: PointF)
 
 // FIXME - NEW
 
-fun Path.cubicTo (o: PointF, i: PointF, v: PointF)
+fun Path.cubicTo (o: MyVector2, i: MyVector2, v: MyVector2)
 {
     this.cubicTo(o.x, o.y, i.x, i.y, v.x, v.y)
 }
@@ -34,12 +34,12 @@ fun Path.moveToSeg(segment: Segment)
 
 
 
-fun Path.cubicToCpCpPoint (cp1: PointF, cp2: PointF, point: PointF)
+fun Path.cubicToCpCpPoint (cp1: MyVector2, cp2: MyVector2, point: MyVector2)
 {
     this.cubicTo(cp1.x, cp1.y, cp2.x, cp2.y, point.x, point.y)
 }
 
-fun Path.quadToCpPoint (cp1: PointF, point: PointF)
+fun Path.quadToCpPoint (cp1: MyVector2, point: MyVector2)
 {
     this.quadTo(cp1.x, cp1.y, point.x, point.y)
 }

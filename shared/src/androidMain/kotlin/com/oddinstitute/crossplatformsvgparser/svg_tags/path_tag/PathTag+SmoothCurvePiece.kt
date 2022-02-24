@@ -1,13 +1,14 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
 import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SegmentType
 import com.oddinstitute.crossplatformsvgparser.operators.times
 import com.oddinstitute.crossplatformsvgparser.operators.toFloat
 
 
-fun PathTag.smoothCurvePiece(piece: String, curPoint: PointF, prevSegment: Segment): ArrayList<Segment>
+fun PathTag.smoothCurvePiece(piece: String, curPoint: MyVector2, prevSegment: Segment): ArrayList<Segment>
 {
     // here, if the first letter was -, then we have like ("s,-4,17.8,-8.9,17.8")
     // so, we check and clean for both "s," and "s"
@@ -27,7 +28,7 @@ fun PathTag.smoothCurvePiece(piece: String, curPoint: PointF, prevSegment: Segme
     // if we are relative, we find the actual value based on the cur point
     // this is simply a shortcut, when relative, we use curPoint, when not, we don't
     // if not, we just add zero
-    var intCurPoint = curPoint * (piece[0] == 's').toFloat()
+    var intCurPoint = curPoint .times ( (piece[0] == 's').toFloat() )
 
 
     for (i in 0 until points.count() step 4)
@@ -46,10 +47,10 @@ fun PathTag.smoothCurvePiece(piece: String, curPoint: PointF, prevSegment: Segme
                 intCurPoint = segments.last().v
         }
 
-        curve.i = PointF(points[i].toFloat() + intCurPoint.x,
+        curve.i = MyVector2(points[i].toFloat() + intCurPoint.x,
                             points[i+1].toFloat() + intCurPoint.y)
 
-        curve.v = PointF(points[i+2].toFloat() + intCurPoint.x,
+        curve.v = MyVector2(points[i+2].toFloat() + intCurPoint.x,
                              points[i+3].toFloat() + intCurPoint.y)
 
 
@@ -81,11 +82,11 @@ fun PathTag.smoothCurvePiece(piece: String, curPoint: PointF, prevSegment: Segme
                 2 * curPoint.x - prevCp2X // + curX
             val yReflectionOfSecondCP =
                 2 * curPoint.y - prevCp2Y // + curY
-            curve.o = PointF(xReflectionOfSecondCP, yReflectionOfSecondCP)
+            curve.o = MyVector2(xReflectionOfSecondCP, yReflectionOfSecondCP)
         }
         else
         {
-            curve.o = PointF(prevSegment.v.x,
+            curve.o = MyVector2(prevSegment.v.x,
                                 prevSegment.v.y)
         }
 

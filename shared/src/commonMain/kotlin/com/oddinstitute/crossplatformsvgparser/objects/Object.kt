@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.objects
 
-import android.graphics.Path
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyPath
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 
 open class Object
@@ -12,7 +12,7 @@ open class Object
 
 
     // this is not necessarily true for all object types
-    var mainPath: Path = Path()
+    var myPath: MyPath = MyPath()
 
 
 
@@ -100,7 +100,7 @@ open class Object
 
     }
 
-    open fun applySvgViewBox(scaleFactor: Float, offset: PointF)
+    open fun applySvgViewBox(scaleFactor: Float, offset: MyVector2)
     {
 
     }
@@ -132,9 +132,9 @@ open class Object
 
     }
 
-    open fun findOrigin(): PointF
+    open fun findOrigin(): MyVector2
     {
-        return PointF()
+        return MyVector2()
 
     }
 

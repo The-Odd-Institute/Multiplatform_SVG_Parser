@@ -1,14 +1,15 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.PointF
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.descriptors.SerialDescriptor
 import kotlinx.serialization.descriptors.buildClassSerialDescriptor
 import kotlinx.serialization.descriptors.element
 import kotlinx.serialization.encoding.*
 
+
+// FIXME - This serialization shoudl be for MyVector2
 // serialization of PointF
-object PointFAsStringSerializer : KSerializer<PointF>
+object MyVector2AsStringSerializer : KSerializer<MyVector2>
 {
     override val descriptor: SerialDescriptor =
         buildClassSerialDescriptor("Point") {
@@ -16,13 +17,13 @@ object PointFAsStringSerializer : KSerializer<PointF>
             element<Float>("y")
         }
 
-    override fun serialize(encoder: Encoder, value: PointF) =
+    override fun serialize(encoder: Encoder, value: MyVector2) =
         encoder.encodeStructure(descriptor) {
             encodeFloatElement(descriptor, 0, value.x)
             encodeFloatElement(descriptor, 1, value.y)
         }
 
-    override fun deserialize(decoder: Decoder): PointF =
+    override fun deserialize(decoder: Decoder): MyVector2 =
         decoder.decodeStructure(descriptor)
         {
             var x = -1f
@@ -37,6 +38,6 @@ object PointFAsStringSerializer : KSerializer<PointF>
                     else -> error("Unexpected index: $index")
                 }
             }
-            PointF(x, y)
+            MyVector2(x, y)
         }
 }

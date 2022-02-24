@@ -1,7 +1,11 @@
 package com.oddinstitute.crossplatformsvgparser.svg_elements
 
-import android.graphics.Color
+
+
+//import android.graphics.Color
+import com.oddinstitute.crossplatformsvgparser.MyColor
 import com.oddinstitute.crossplatformsvgparser.operators.roundTwoDecimals
+import java.lang.Integer
 
 /*
  #rgb | #CDF
@@ -324,19 +328,39 @@ enum class SvgColor(val rgb: RGB)
 
     companion object
     {
-        fun ofRaw(colString: String): Color
+
+        fun ofRaw(colString: String): MyColor
         {
-            var color: Color = Color()
+            var color: MyColor = MyColor()
             when
             {
                 colString[0] == '#' -> // for hexadecimal values
                 {
-                    val colorHex =
-                        Color.parseColor(colString.hexSixDigit()) // make sure it's six characters
+                    var newColString = colString
+                    if ( newColString.length == 4)
+                    {
+                        newColString =
+                            newColString.replace("#([0-9a-fA-F])([0-9a-fA-F])([0-9a-fA-F])".toRegex(),
+                                         "#$1$1$2$2$3$3")
+                    }
 
-//                Log.d(SvgColor::class.simpleName, "Color is: $colorHex")
 
-                    color = Color.valueOf(colorHex)
+                    val r = Integer.valueOf(newColString.substring(1, 3), 16)
+                    val g = Integer.valueOf(newColString.substring(3, 5), 16)
+                    val b = Integer.valueOf(newColString.substring(5, 7), 16)
+
+                    return MyColor(r.toFloat() / 255f,
+                                   g.toFloat() / 255f,
+                                   b.toFloat() / 255f)
+
+                    // FIXME
+
+//                    val colorHex =
+//                        Color.parseColor(colString.hexSixDigit()) // make sure it's six characters
+//
+////                Log.d(SvgColor::class.simpleName, "Color is: $colorHex")
+//
+//                    color = Color.valueOf(colorHex)
 
                 }
                 colString.contains("rgb") -> // for both rgb types
@@ -355,7 +379,7 @@ enum class SvgColor(val rgb: RGB)
                             .toTypedArray()
 
                     if (colorPieces.count() == 0)
-                        return Color.valueOf(Color.BLACK)
+                        return MyColor(0f, 0f, 0f)
 
                     var r: Float = 0f
                     var g: Float = 0f
@@ -374,7 +398,7 @@ enum class SvgColor(val rgb: RGB)
                         b = colorPieces[2].toFloat() / 255f
                     }
 
-                    color = Color.valueOf(r, g, b)
+                    color = MyColor(r, g, b)
                 }
                 else -> // for color keywords
                 {
@@ -387,19 +411,17 @@ enum class SvgColor(val rgb: RGB)
                             break
                         }
                     }
-//                    if (values().contains())
-//
-//                    val fromRaw = values().first { it.toString() == colString }
-
 
                     val r = fromRaw.rgb.r
                     val g = fromRaw.rgb.g
                     val b = fromRaw.rgb.b
 
-                    val colorHexString = java.lang.String.format("#%02x%02x%02x", r, g, b)
-                    val intColor: Int = Color.parseColor(colorHexString)
+                    color = MyColor(r.toFloat(), g.toFloat(), b.toFloat())
 
-                    color = Color.valueOf(intColor)
+//                    val colorHexString = java.lang.String.format("#%02x%02x%02x", r, g, b)
+//                    val intColor: Int = Color.parseColor(colorHexString)
+//
+//                    color = Color.valueOf(intColor)
                 }
             }
 

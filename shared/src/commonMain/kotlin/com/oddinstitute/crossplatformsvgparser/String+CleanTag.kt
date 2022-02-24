@@ -1,10 +1,10 @@
-package com.oddinstitute.crossplatformsvgparser.svg_tags
+package com.oddinstitute.crossplatformsvgparser
 
 // this cleaning can only be used for Style, d of Path and polylines
-fun Tag.Cleaner.clean(text: String): String
+fun String.cleanTag(): String
 {
 
-    var newString = text.trimIndent()
+    var newString = this.trimIndent()
             .trimStart()
             .trimEnd()
             .trim()

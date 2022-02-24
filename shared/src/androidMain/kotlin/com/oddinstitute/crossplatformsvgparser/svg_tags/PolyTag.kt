@@ -1,13 +1,9 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
-import android.graphics.PointF
-import com.oddinstitute.crossplatformsvgparser.Segment
-import com.oddinstitute.crossplatformsvgparser.SegmentType
-import com.oddinstitute.crossplatformsvgparser.SevenPieceArc
+import com.oddinstitute.crossplatformsvgparser.*
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import com.oddinstitute.crossplatformsvgparser.objects.PathObj
 import com.oddinstitute.crossplatformsvgparser.objects.PolyObj
-import com.oddinstitute.crossplatformsvgparser.toSegmentsObjCMethod
 import org.xmlpull.v1.XmlPullParser
 
 // if it is polygon, it will be closed
@@ -64,7 +60,7 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
             // for instance 20,20,40,25,60,40 is the same as 20,20 40,25 60,40
             // to eliminate this problem, we replace SPACES with COMMAS
 
-            val pointsComponents = Tag.clean(it)
+            val pointsComponents = it.cleanTag()
                     .replace(" ", ",")
                     .split(",")
 
@@ -74,7 +70,7 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                 val xValue = pointsComponents[i].toFloat()
                 val yValue = pointsComponents[i + 1].toFloat()
 
-                val point = PointF(xValue, yValue)
+                val point = MyVector2(xValue, yValue)
 
                 // at the end, add to the segments
                 polygon.pt.add(point)
@@ -86,8 +82,8 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
         // LINE, so it can't be closed, we don't need the "closed"
         x1?.let {
             val polygon = PolyObj()
-            polygon.pt.add(PointF(it, y1))
-            polygon.pt.add(PointF(x2, y2))
+            polygon.pt.add(MyVector2(it, y1))
+            polygon.pt.add(MyVector2(x2, y2))
 
             return polygon
         }
@@ -98,10 +94,10 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
             {
                 val polygon = PolyObj(closed)
 
-                polygon.pt.add(PointF(x, y))
-                polygon.pt.add(PointF(x + widthIt, y))
-                polygon.pt.add(PointF(x + widthIt, y + height))
-                polygon.pt.add(PointF(x, y + height))
+                polygon.pt.add(MyVector2(x, y))
+                polygon.pt.add(MyVector2(x + widthIt, y))
+                polygon.pt.add(MyVector2(x + widthIt, y + height))
+                polygon.pt.add(MyVector2(x, y + height))
 
                 return polygon
             }
@@ -121,7 +117,7 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                     if (rx == null) radX = it
                 }
 
-                val moveSeg = Segment(SegmentType.Move, PointF(x, y + radY))
+                val moveSeg = Segment(SegmentType.Move, MyVector2(x, y + radY))
                 pathObj.segments.add(moveSeg)
 
                 val topLeftArc = SevenPieceArc(radX, radY, 0f,
@@ -130,11 +126,11 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                                                x2 = x + radX,
                                                y2 = y)
 
-                val topLeftSegs = topLeftArc.toSegmentsObjCMethod(PointF(x, y + radY))
+                val topLeftSegs = topLeftArc.toSegmentsObjCMethod(MyVector2(x, y + radY))
                 pathObj.segments.addAll(topLeftSegs)
 
                 val topLine = Segment(SegmentType.Line)
-                topLine.v = PointF(x + widthIt - radY, y)
+                topLine.v = MyVector2(x + widthIt - radY, y)
                 pathObj.segments.add(topLine)
 
                 val topRightArc = SevenPieceArc(radX, radY, 0f,
@@ -142,11 +138,11 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                                                 sweepFlag = true,
                                                 x2 = x + widthIt,
                                                 y2 = y + radY)
-                val topRightSegs = topRightArc.toSegmentsObjCMethod(PointF(x + widthIt - radX, y))
+                val topRightSegs = topRightArc.toSegmentsObjCMethod(MyVector2(x + widthIt - radX, y))
                 pathObj.segments.addAll(topRightSegs)
 
                 val rightLine = Segment(SegmentType.Line)
-                rightLine.v = PointF(x + widthIt, y + height - radY)
+                rightLine.v = MyVector2(x + widthIt, y + height - radY)
                 pathObj.segments.add(rightLine)
 
                 val bottomRightArc = SevenPieceArc(radX, radY, 0f,
@@ -155,12 +151,12 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                                                    x2 = x + widthIt - radX,
                                                    y2 = y + height)
                 val bottomRightSegs =
-                    bottomRightArc.toSegmentsObjCMethod(PointF(x + widthIt, y + height - radY))
+                    bottomRightArc.toSegmentsObjCMethod(MyVector2(x + widthIt, y + height - radY))
                 pathObj.segments.addAll(bottomRightSegs)
 
 
                 val bottomLine = Segment(SegmentType.Line)
-                bottomLine.v = PointF(x + radX, y + height)
+                bottomLine.v = MyVector2(x + radX, y + height)
                 pathObj.segments.add(bottomLine)
 
                 val bottomLeftArc = SevenPieceArc(radX, radY, 0f,
@@ -168,7 +164,7 @@ class PolyTag(val parser: XmlPullParser, var closed: Boolean = false) : Tag(pars
                                                   sweepFlag = true,
                                                   x2 = x,
                                                   y2 = y + height - radY)
-                val bottomLeftSegs = bottomLeftArc.toSegmentsObjCMethod(PointF(x + radX, y + height))
+                val bottomLeftSegs = bottomLeftArc.toSegmentsObjCMethod(MyVector2(x + radX, y + height))
                 pathObj.segments.addAll(bottomLeftSegs)
 
 

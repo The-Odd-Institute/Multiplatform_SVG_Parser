@@ -1,13 +1,14 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
+import com.oddinstitute.crossplatformsvgparser.cleanTag
 import org.xmlpull.v1.XmlPullParser
 
 // this is the only tag that is not a sub class of Tag
 // because it doesn't really need that
 class SvgTag(val parser: XmlPullParser)
 {
-    fun decode(): Pair<PointF, Float>
+    fun decode(): Pair<MyVector2, Float>
     {
         // we don't know if every SVG has viewbox or not
         // if not, we don't have it.
@@ -21,7 +22,7 @@ class SvgTag(val parser: XmlPullParser)
 
 
             // general SVG cleaner
-            val viewBoxCleaned = Tag.clean(vbString)
+            val viewBoxCleaned = vbString.cleanTag()
 
 
             // SVG ViewBox can have either space or commas
@@ -68,13 +69,13 @@ class SvgTag(val parser: XmlPullParser)
             // our assumption is that all SVGs are read at a size that is 512
             // this is either on the x or y
             val scaleFactor = 512.0f / large
-            val offset = PointF(zero, one)
+            val offset = MyVector2(zero, one)
 
             return Pair(offset, scaleFactor)
         }
 
         // if no view box, we assume defaults
-        return Pair(PointF(), 1f)
+        return Pair(MyVector2(), 1f)
     }
 }
 

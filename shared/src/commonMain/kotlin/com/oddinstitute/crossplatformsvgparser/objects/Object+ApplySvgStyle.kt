@@ -12,21 +12,25 @@ fun Object.applySvgStyle(style: SvgStyle)
 
     // these are on polygon level, because they are not animateable
     style.fillRule2?.let { svgFillRule ->
-        svgFillRule.toType()?.let {
-            this.shape.fillType = it
-        }
+        this.shape.fillType = svgFillRule
+//        svgFillRule.toType()?.let {
+//            this.shape.fillType = it
+//        }
     }
 
     style.strokeLineCap?.let { svgLinecap ->
-        svgLinecap.toType()?.let {
-            this.shape.strokeLineCap = it
-        }
+
+        this.shape.strokeLineCap = svgLinecap
+//        svgLinecap.toType()?.let {
+//            this.shape.strokeLineCap = it
+//        }
     }
 
     style.clipRule?.let { svgClipRule ->
-        svgClipRule.toType()?.let {
-            this.shape.clipRule = it
-        }
+        this.shape.clipRule = svgClipRule
+//        svgClipRule.toType()?.let {
+//            this.shape.clipRule = it
+//        }
     }
 
     style.strokeDashArray?.let {
@@ -34,8 +38,9 @@ fun Object.applySvgStyle(style: SvgStyle)
     }
 
     style.strokeLineJoin?.let { svgStrokeLineJoin ->
-        svgStrokeLineJoin.toType()?.let {
-            this.shape.strokeLineJoin = it
-        }
+        this.shape.strokeLineJoin = svgStrokeLineJoin
+//        svgStrokeLineJoin.toType()?.let {
+//            this.shape.strokeLineJoin = it
+//        }
     }
 }

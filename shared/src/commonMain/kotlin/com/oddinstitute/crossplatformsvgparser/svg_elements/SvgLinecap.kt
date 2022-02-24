@@ -9,8 +9,8 @@ enum class SvgLinecap(val text: String)
     SQUARE("square");
 
 
-    fun toRaw() = enumToRaw[this]
-    fun toType() = enumToType[this]
+//    fun toRaw() = enumToRaw[this]
+//    fun toType() = enumToType[this]
 
     companion object
     {
@@ -20,11 +20,11 @@ enum class SvgLinecap(val text: String)
         val enumToRaw = rawToEnum.entries.associate { (k, v) -> v to k }
         fun ofRaw(raw: String): SvgLinecap? = rawToEnum[raw]
 
-
-        val typeToEnum = mapOf<Paint.Cap, SvgLinecap>(Paint.Cap.SQUARE to SQUARE,
-                                                      Paint.Cap.BUTT to BUTT,
-                                                      Paint.Cap.ROUND to ROUND)
-        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+//
+//        val typeToEnum = mapOf<Paint.Cap, SvgLinecap>(Paint.Cap.SQUARE to SQUARE,
+//                                                      Paint.Cap.BUTT to BUTT,
+//                                                      Paint.Cap.ROUND to ROUND)
+//        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
 
     }
 }

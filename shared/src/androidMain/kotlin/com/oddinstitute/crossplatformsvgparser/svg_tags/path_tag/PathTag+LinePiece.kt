@@ -1,13 +1,12 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SegmentType
-import com.oddinstitute.crossplatformsvgparser.operators.times
 import com.oddinstitute.crossplatformsvgparser.operators.toFloat
 
 
-fun PathTag.linePiece(piece: String, curPoint: PointF): ArrayList<Segment>
+fun PathTag.linePiece(piece: String, curPoint: MyVector2): ArrayList<Segment>
 {
     val segments = arrayListOf<Segment>()
 
@@ -32,7 +31,7 @@ fun PathTag.linePiece(piece: String, curPoint: PointF): ArrayList<Segment>
     // if we are relative, we find the actual value based on the cur point
     // this is simply a shortcut, when relative, we use curPoint, when not, we don't
     // if not, we just add zero
-    var intCurPoint = curPoint * (  (piece[0] == 'l').toFloat() +
+    var intCurPoint = curPoint.times (  (piece[0] == 'l').toFloat() +
                                     (piece[0] == 'h').toFloat() +
                                     (piece[0] == 'v').toFloat()) // this combination is either zero or one
 
@@ -47,7 +46,7 @@ fun PathTag.linePiece(piece: String, curPoint: PointF): ArrayList<Segment>
                 if (piece[0] == 'l' && segments.count() > 0)
                     intCurPoint = segments.last().v
 
-                line.v = PointF(points[i].toFloat() + intCurPoint.x, points[i+1].toFloat() + intCurPoint.y)
+                line.v = MyVector2(points[i].toFloat() + intCurPoint.x, points[i+1].toFloat() + intCurPoint.y)
                 segments.add(line)
             }
         }
@@ -63,7 +62,7 @@ fun PathTag.linePiece(piece: String, curPoint: PointF): ArrayList<Segment>
                 if (piece[0] == 'h' && segments.count() > 0)
                     intCurPoint = segments.last().v
 
-                line.v = PointF(points[0].toFloat() + intCurPoint.x, intCurPoint.y)
+                line.v = MyVector2(points[0].toFloat() + intCurPoint.x, intCurPoint.y)
                 segments.add(line)
             }
         }
@@ -79,7 +78,7 @@ fun PathTag.linePiece(piece: String, curPoint: PointF): ArrayList<Segment>
                 if (piece[0] == 'v' && segments.count() > 0)
                     intCurPoint = segments.last().v
 
-                line.v = PointF(intCurPoint.x, points[0].toFloat() + intCurPoint.y)
+                line.v = MyVector2(intCurPoint.x, points[0].toFloat() + intCurPoint.y)
                 segments.add(line)
             }
         }

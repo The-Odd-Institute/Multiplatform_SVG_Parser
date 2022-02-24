@@ -1,14 +1,13 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SevenPieceArc
-import com.oddinstitute.crossplatformsvgparser.operators.times
 import com.oddinstitute.crossplatformsvgparser.operators.toBoolean
 import com.oddinstitute.crossplatformsvgparser.operators.toFloat
 import com.oddinstitute.crossplatformsvgparser.toSegmentsObjCMethod
 
-fun PathTag.arcPieces(piece: String, curPoint: PointF): ArrayList<Segment>
+fun PathTag.arcPieces(piece: String, curPoint: MyVector2): ArrayList<Segment>
 {
     val str = piece
             .replace("a", "")
@@ -33,7 +32,7 @@ fun PathTag.arcPieces(piece: String, curPoint: PointF): ArrayList<Segment>
     // if we are relative, we find the actual value based on the cur point
     // this is simply a shortcut, when relative, we use curPoint, when not, we don't
     // if not, we just add zero
-    val intCurPoint = curPoint * (piece[0] == 'a').toFloat()
+    val intCurPoint = curPoint.times((piece[0] == 'a').toFloat())
 
     val x2 = points[5].toFloat() + intCurPoint.x
     val y2 = points[6].toFloat() + intCurPoint.y

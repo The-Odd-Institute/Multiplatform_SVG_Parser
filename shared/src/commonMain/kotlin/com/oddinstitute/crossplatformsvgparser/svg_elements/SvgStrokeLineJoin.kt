@@ -12,8 +12,8 @@ enum class SvgStrokeLineJoin(val text: String)
     ROUND ("round");
 
 
-    fun toRaw() = enumToRaw[this]
-    fun toType() = enumToType[this]
+//    fun toRaw() = enumToRaw[this]
+//    fun toType() = enumToType[this]
 
     companion object
     {
@@ -26,18 +26,18 @@ enum class SvgStrokeLineJoin(val text: String)
         fun ofRaw(raw: String): SvgStrokeLineJoin? = rawToEnum[raw]
 
 
-        // todo
-        // IMPORTANT
-        // it seems like the opposite of the EVENODD is the WINDING
-        // In other words, SVG's NONEZERO is Android's WINDING
-
-        val typeToEnum = mapOf<Paint.Join, SvgStrokeLineJoin>(
-                Paint.Join.BEVEL to BEVEL,
-                Paint.Join.MITER to MITER,
-                Paint.Join.ROUND to ROUND,
-//                                                              Paint.Join.ROUND to ARCS, // this doesn't exist
-//                                                              Paint.Join.ROUND to MITERCLIP // this doesn't exist
-                                                             )
-        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+//        // todo
+//        // IMPORTANT
+//        // it seems like the opposite of the EVENODD is the WINDING
+//        // In other words, SVG's NONEZERO is Android's WINDING
+//
+//        val typeToEnum = mapOf<Paint.Join, SvgStrokeLineJoin>(
+//                Paint.Join.BEVEL to BEVEL,
+//                Paint.Join.MITER to MITER,
+//                Paint.Join.ROUND to ROUND,
+////                                                              Paint.Join.ROUND to ARCS, // this doesn't exist
+////                                                              Paint.Join.ROUND to MITERCLIP // this doesn't exist
+//                                                             )
+//        val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
     }
 }

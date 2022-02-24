@@ -1,14 +1,13 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
-import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag
-import com.oddinstitute.crossplatformsvgparser.svg_tags.clean
+import com.oddinstitute.crossplatformsvgparser.cleanTag
 
 
 fun SvgTransform.Decode.decodeTransform(text: String): ArrayList<SvgTransform>
 {
     val transforms : ArrayList<SvgTransform> = arrayListOf()
 
-    var cleanString = Tag.clean(text)
+    var cleanString = text.cleanTag()
 
 
     var tempMinusString = ""

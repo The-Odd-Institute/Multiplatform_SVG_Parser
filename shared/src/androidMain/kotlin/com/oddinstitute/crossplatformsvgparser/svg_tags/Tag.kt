@@ -1,6 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
-import android.graphics.Color
+import com.oddinstitute.crossplatformsvgparser.MyColor
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import com.oddinstitute.crossplatformsvgparser.svg_elements.*
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
@@ -21,9 +21,9 @@ open class Tag()
 
     open var id: String? = null
 
-    open var fill: Color? = null
+    open var fill: MyColor? = null
 
-    open var stroke: Color? = null
+    open var stroke: MyColor? = null
     open var strokeWidth: Float? = null
 
     open var fillRule: SvgFillRule? = null

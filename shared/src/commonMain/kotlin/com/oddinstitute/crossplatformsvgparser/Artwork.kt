@@ -2,8 +2,6 @@ package com.oddinstitute.crossplatformsvgparser
 
 import kotlin.collections.ArrayList
 
-import java.util.*
-import android.graphics.Bitmap
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import kotlinx.serialization.Transient
 
@@ -13,7 +11,7 @@ import kotlinx.serialization.Transient
 class Artwork()
 {
     var title: String = ""
-    var id: String = UUID.randomUUID().toString()
+    var id: UniqueId = UniqueId()
     var tags: ArrayList<String> = arrayListOf()
 
     var objects: ArrayList<Object> = arrayListOf()
@@ -27,7 +25,7 @@ class Artwork()
     var curFrame: Int = 0
 
     @Transient
-    var thumb: Bitmap? = null
+    var thumb: BitmapImage? = null
     var locked: Boolean = false
 
     var currentMotionBundleID: String = "1"

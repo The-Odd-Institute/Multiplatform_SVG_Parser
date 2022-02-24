@@ -1,7 +1,5 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.Path
-import android.graphics.PointF
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.Transient
 
@@ -13,7 +11,7 @@ class Segment()
 {
     companion object
     {
-        fun quadToCurve (start: PointF, control: PointF, end: PointF): Segment
+        fun quadToCurve (start: MyVector2, control: MyVector2, end: MyVector2): Segment
         {
             val curve = Segment(SegmentType.Curve)
             // val ox = start.x
@@ -25,8 +23,8 @@ class Segment()
             val iy = (end.y + 2f * control.y) / 3
 
             curve.v = end
-            curve.i = PointF(ix, iy)
-            curve.o = PointF(ox, oy)
+            curve.i = MyVector2(ix, iy)
+            curve.o = MyVector2(ox, oy)
 
             return curve
         }
@@ -37,14 +35,14 @@ class Segment()
 
     lateinit var type: SegmentType
 
-    @Serializable(with = PointFAsStringSerializer::class)
-    var v: PointF = PointF()
+    @Serializable(with = com.oddinstitute.crossplatformsvgparser.MyVector2AsStringSerializer::class)
+    var v: MyVector2 = MyVector2()
 
-    @Serializable(with = PointFAsStringSerializer::class)
-    var o: PointF? = null // cp1
+    @Serializable(with = com.oddinstitute.crossplatformsvgparser.MyVector2AsStringSerializer::class)
+    var o: MyVector2? = null // cp1
 
-    @Serializable(with = PointFAsStringSerializer::class)
-    var i: PointF? = null // cp2
+    @Serializable(with = com.oddinstitute.crossplatformsvgparser.MyVector2AsStringSerializer::class)
+    var i: MyVector2? = null // cp2
 
     constructor(type: SegmentType) : this()
     {
@@ -53,7 +51,7 @@ class Segment()
 
 
     // we changed this, made the c1 and c2 with defaults of null
-    constructor(t: SegmentType, k: PointF, c1: PointF? = null, c2: PointF? = null) : this(t)
+    constructor(t: SegmentType, k: MyVector2, c1: MyVector2? = null, c2: MyVector2? = null) : this(t)
     {
         type = t
         v = k
@@ -62,7 +60,7 @@ class Segment()
     }
 
     @Transient
-    var knotDrawn: PointF = PointF()
+    var knotDrawn: MyVector2 = MyVector2()
         /* FIREBASE @Exclude */
         get()
         {
@@ -70,7 +68,7 @@ class Segment()
         }
 
     @Transient
-    var cp1Drawn: PointF? = null
+    var cp1Drawn: MyVector2? = null
         /* FIREBASE @Exclude */
         get()
         {
@@ -78,7 +76,7 @@ class Segment()
         }
 
     @Transient
-    var cp2Drawn: PointF? = null
+    var cp2Drawn: MyVector2? = null
         /* FIREBASE @Exclude */
         get()
         {
@@ -117,4 +115,11 @@ class Segment()
         {
             return field
         }
+}
+
+fun Segment.rotate(angle: Float, pivot: MyVector2)
+{
+    this.v.rotate(angle, pivot)
+    this.o?.rotate(angle, pivot)
+    this.i?.rotate(angle, pivot)
 }

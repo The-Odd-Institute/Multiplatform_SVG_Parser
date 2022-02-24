@@ -1,13 +1,12 @@
 package com.oddinstitute.crossplatformsvgparser.objects
 
-import android.graphics.Path
-import android.graphics.PointF
-import com.oddinstitute.crossplatformsvgparser.Segment
-import com.oddinstitute.crossplatformsvgparser.addToPath
+
+import com.oddinstitute.crossplatformsvgparser.*
 import com.oddinstitute.crossplatformsvgparser.operators.*
-import com.oddinstitute.crossplatformsvgparser.roundTwoDecimals
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransformType
+
+
 
 class PathObj(val c: Boolean = false) : Object()
 {
@@ -20,7 +19,7 @@ class PathObj(val c: Boolean = false) : Object()
             seg.roundTwoDecimals()
     }
 
-    override fun applySvgViewBox(scaleFactor: Float, offset: PointF)
+    override fun applySvgViewBox(scaleFactor: Float, offset: MyVector2)
     {
         this.shape.strokeWidth *= scaleFactor
         this.shape.dashArray?.let { this.shape.dashArray = it * scaleFactor }
@@ -31,9 +30,9 @@ class PathObj(val c: Boolean = false) : Object()
             seg.i?.offset(-offset.x, -offset.y)
             seg.o?.offset(-offset.x, -offset.y)
 
-            seg.v.scale(scaleFactor, PointF())
-            seg.i?.scale(scaleFactor, PointF())
-            seg.o?.scale(scaleFactor, PointF())
+            seg.v.scale(scaleFactor, MyVector2())
+            seg.i?.scale(scaleFactor, MyVector2())
+            seg.o?.scale(scaleFactor, MyVector2())
         }
     }
 
@@ -51,16 +50,16 @@ class PathObj(val c: Boolean = false) : Object()
                 }
             }
             SvgTransformType.SCALE -> {
-                val scaleFactor = PointF(trans.x, trans.y)
+                val scaleFactor = MyVector2(trans.x, trans.y)
 
                 for (seg in segments) {
-                    seg.v.scale(scaleFactor, PointF())
-                    seg.o?.scale(scaleFactor, PointF())
-                    seg.i?.scale(scaleFactor, PointF())
+                    seg.v.scale(scaleFactor, MyVector2())
+                    seg.o?.scale(scaleFactor, MyVector2())
+                    seg.i?.scale(scaleFactor, MyVector2())
                 }
             }
             SvgTransformType.ROTATE -> {
-                val rotatePivot = PointF(trans.cx, trans.cy)
+                val rotatePivot = MyVector2(trans.cx, trans.cy)
                 val angle = trans.angle
 
                 for (seg in segments)
@@ -68,9 +67,9 @@ class PathObj(val c: Boolean = false) : Object()
             }
             SvgTransformType.TRANSLATE -> {
                 for (seg in segments) {
-                    seg.v.translate(PointF(trans.x, trans.y))
-                    seg.o?.translate(PointF(trans.x, trans.y))
-                    seg.i?.translate(PointF(trans.x, trans.y))
+                    seg.v.translate(MyVector2(trans.x, trans.y))
+                    seg.o?.translate(MyVector2(trans.x, trans.y))
+                    seg.i?.translate(MyVector2(trans.x, trans.y))
                 }
             }
         }
@@ -78,20 +77,21 @@ class PathObj(val c: Boolean = false) : Object()
 
     override fun makePath()
     {
-        this.mainPath = Path()
+        this.myPath = MyPath()
+        this.myPath.makeCurvePath(this.shape, this.c, this.segments)
 
         // todo
-        this.mainPath.fillType = this.shape.fillType
-
-        if (this.c)
-            mainPath.close()
-
-        for (seg in segments)
-            seg.addToPath(this.mainPath)
+//        this.mainPath.fillType = this.shape.fillType
+//
+//        if (this.c)
+//            mainPath.close()
+//
+//        for (seg in segments)
+//            seg.addToPath(this.mainPath)
     }
 
 
-    override fun findOrigin(): PointF
+    override fun findOrigin(): MyVector2
     {
         // FIXME
         // this has to be fixed and go to everything

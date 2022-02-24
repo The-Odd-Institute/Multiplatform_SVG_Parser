@@ -1,12 +1,11 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags.path_tag
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.Segment
 import com.oddinstitute.crossplatformsvgparser.SegmentType
-import com.oddinstitute.crossplatformsvgparser.operators.times
 import com.oddinstitute.crossplatformsvgparser.operators.toFloat
 
-fun PathTag.smoothQuadPiece(piece: String, curPoint: PointF, prevSegment: Segment): Segment
+fun PathTag.smoothQuadPiece(piece: String, curPoint: MyVector2, prevSegment: Segment): Segment
 {
     val str = piece
             .replace(" ", ",")
@@ -21,14 +20,14 @@ fun PathTag.smoothQuadPiece(piece: String, curPoint: PointF, prevSegment: Segmen
     // if we are relative, we find the actual value based on the cur point
     // this is simply a shortcut, when relative, we use curPoint, when not, we don't
     // if not, we just add zero
-    val intCurPoint = curPoint * (piece[0] == 't').toFloat()
+    val intCurPoint = curPoint.times( (piece[0] == 't').toFloat())
 
 
 
-    val end = PointF(points[0].toFloat() + intCurPoint.x,
+    val end = MyVector2(points[0].toFloat() + intCurPoint.x,
                    points[1].toFloat() + intCurPoint.y)
 
-    var control : PointF
+    var control : MyVector2
 
     /**
      * T
@@ -57,12 +56,12 @@ fun PathTag.smoothQuadPiece(piece: String, curPoint: PointF, prevSegment: Segmen
         val yReflectionOfFirstCP =
             2 * curPoint.y - prevCp1Y //+ curY
 
-        control = PointF(xReflectionOfFirstCP, yReflectionOfFirstCP)
+        control = MyVector2(xReflectionOfFirstCP, yReflectionOfFirstCP)
     }
     else
     {
         control =
-            PointF(prevSegment.v.x, prevSegment.v.y)
+            MyVector2(prevSegment.v.x, prevSegment.v.y)
     }
 
 

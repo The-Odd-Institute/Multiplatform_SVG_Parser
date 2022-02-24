@@ -1,10 +1,8 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import android.graphics.PointF
-import com.oddinstitute.crossplatformsvgparser.operators.translate
 
 // used for applying SVG Transformations
-fun Segment.translate(offset: PointF)
+fun Segment.translate(offset: MyVector2)
 {
     this.v.translate(offset)
     this.o?.translate(offset)

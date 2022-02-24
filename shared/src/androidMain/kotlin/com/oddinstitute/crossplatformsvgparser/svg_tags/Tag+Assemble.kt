@@ -1,6 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
-import android.graphics.PointF
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.objects.Object
 import com.oddinstitute.crossplatformsvgparser.objects.applySvgStyle
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
@@ -10,7 +10,7 @@ import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 fun Tag.assemble(currentGroups: ArrayList<Tag>,
                  styles: HashMap<String, SvgStyle>?,
                  scaleFactor: Float,
-                 viewBoxOffset: PointF): Object?
+                 viewBoxOffset: MyVector2): Object?
 {
     // Group Level, we make it non-optional (even it initiated, the content might be null which is ok
     var styleByGroup: SvgStyle = SvgStyle()

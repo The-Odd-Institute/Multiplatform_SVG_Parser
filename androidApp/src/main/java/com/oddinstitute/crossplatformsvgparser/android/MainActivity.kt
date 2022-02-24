@@ -11,6 +11,7 @@ import android.widget.Button
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
+import com.oddinstitute.crossplatformsvgparser.Artwork
 import com.oddinstitute.crossplatformsvgparser.svg_parser.SvgParser
 import com.oddinstitute.crossplatformsvgparser.svg_parser.parse
 import java.io.IOException
@@ -73,6 +74,7 @@ class MainActivity : AppCompatActivity()
         titleTextView = findViewById<TextView>(R.id.artworkTitleTextView)
 
         svgImageView = findViewById(R.id.svgImageViewId)
+
 
 
         // single file trial
