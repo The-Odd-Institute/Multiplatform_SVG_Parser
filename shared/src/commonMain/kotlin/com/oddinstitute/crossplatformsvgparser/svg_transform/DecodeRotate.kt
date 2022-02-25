@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
 
-fun SvgTransform.Decode.decodeRotate(text: String): SvgTransform
+fun SvgTransform. decodeRotate(text: String): SvgTransform
 {
     val rotate : SvgTransform = SvgTransform(SvgTransformType.ROTATE)
 

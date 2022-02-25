@@ -7,13 +7,13 @@ import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 import com.oddinstitute.crossplatformsvgparser.svg_elements.combineWithOuterStyle
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
 
-fun assembleTag(anyTag: Tag,
+
+fun SVG.assembleTag(anyTag: Tag,
                 currentGroups: ArrayList<Tag>,
                 styles: HashMap<String, SvgStyle>?,
                 scaleFactor: Float,
                 viewBoxOffset: MyVector2): Object?
-{
-    // Group Level, we make it non-optional (even it initiated, the content might be null which is ok
+{ // Group Level, we make it non-optional (even it initiated, the content might be null which is ok
     var styleByGroup: SvgStyle = SvgStyle()
     var transformByGroup: ArrayList<SvgTransform> = arrayListOf()
 
@@ -26,12 +26,16 @@ fun assembleTag(anyTag: Tag,
             transformByGroup = it
         }
     }
-    else if (currentGroups.count() > 1) {
-        for (g in currentGroups) {
-            styleByGroup = if (currentGroups.indexOf(g) == 0) {
+    else if (currentGroups.count() > 1)
+    {
+        for (g in currentGroups)
+        {
+            styleByGroup = if (currentGroups.indexOf(g) == 0)
+            {
                 consolidateTagStyles(g, styles)
             }
-            else {
+            else
+            {
                 val nextGroupStyle = consolidateTagStyles(g, styles)
                 nextGroupStyle.combineWithOuterStyle(styleByGroup)
             }
@@ -43,14 +47,14 @@ fun assembleTag(anyTag: Tag,
     }
 
 
-//    activeGroup?.let { g ->
-//        styleByGroup = consolidateStyles(g)
-//
-//        g.transforms?.let {
-//            // group has transform
-//            transformByGroup = it
-//        }
-//    }
+    //    activeGroup?.let { g ->
+    //        styleByGroup = consolidateStyles(g)
+    //
+    //        g.transforms?.let {
+    //            // group has transform
+    //            transformByGroup = it
+    //        }
+    //    }
 
 
     // Local Level, we make it non-optional (even it initiated, the content might be null which is ok
@@ -62,14 +66,13 @@ fun assembleTag(anyTag: Tag,
     }
 
 
-
     // this is the final style of a tag by combining tag level and group level
     // tag comes first and then the group
     val theStyle: SvgStyle = styleByElement.combineWithOuterStyle(styleByGroup)
 
 
-//    all styles are consolidated properly
-//    we are now working on the transforms
+    //    all styles are consolidated properly
+    //    we are now working on the transforms
     val allTransforms: ArrayList<SvgTransform> = arrayListOf()
     transformByGroup.let { allTransforms.addAll(it) }
     transformByElement?.let { allTransforms.addAll(it) }
@@ -80,8 +83,7 @@ fun assembleTag(anyTag: Tag,
     anyTag.toObject()?.let {
         it.applySvgStyle(theStyle)
 
-        for (trans in allTransforms.reversed())
-            it.svgTransform(trans)
+        for (trans in allTransforms.reversed()) it.svgTransform(trans)
 
 
         it.applySvgViewBox(scaleFactor, viewBoxOffset)

@@ -1,11 +1,10 @@
 package com.oddinstitute.crossplatformsvgparser
 
-import com.oddinstitute.crossplatformsvgparser.to_refactor.Artwork
-import com.oddinstitute.crossplatformsvgparser.MyVector2
-import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
+import com.oddinstitute.crossplatformsvgparser.svg_tags.Tag
+import com.oddinstitute.crossplatformsvgparser.to_refactor.Artwork
 
-class SvgParser
+class SvgData
 {
     // this was moved here, because start and end tags are now in separate functions
     val artwork: Artwork = Artwork()
@@ -22,28 +21,10 @@ class SvgParser
     var definitions : ArrayList<Tag> = arrayListOf()
 
     // if we are currently inside a group, we remember that
-//    var activeGroup: Tag? = null
+    //    var activeGroup: Tag? = null
     var currentGroups: ArrayList<Tag> = arrayListOf()
 
     // if there are styles at the beginning of the SVG file
     // we place them here
     var styles: HashMap<String, SvgStyle>? = null
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

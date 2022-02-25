@@ -1,7 +1,7 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
 
-fun SvgTransform.Decode.decodeScale(text: String): SvgTransform
+fun SvgTransform. decodeScale(text: String): SvgTransform
 {
     val scale : SvgTransform = SvgTransform(SvgTransformType.SCALE)
 

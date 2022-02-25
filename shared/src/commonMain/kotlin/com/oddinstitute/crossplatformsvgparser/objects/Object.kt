@@ -8,7 +8,7 @@ open class Object
 {
     // this node has many pieces of data
     // not all are applicable to all objects though
-    var shape: Shape = Shape()
+    var shapeAttr: ShapeAttr = ShapeAttr()
 
 
     // this is not necessarily true for all object types

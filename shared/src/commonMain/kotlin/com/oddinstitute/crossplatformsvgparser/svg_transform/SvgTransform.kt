@@ -1,7 +1,9 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
-class SvgTransform(val type: SvgTransformType)
+class SvgTransform()
 {
+    var type: SvgTransformType = SvgTransformType.TRANSLATE
+
     // we use the same structure for translate, rotate and scale
     var x: Float = 0f
     var y: Float = 0f
@@ -12,10 +14,11 @@ class SvgTransform(val type: SvgTransformType)
 
     var matrix: SvgMatrixTransform? = null
 
-    companion object Decode
+    constructor(type: SvgTransformType) : this ()
     {
-
+        this.type = type
     }
+
 }
 
 

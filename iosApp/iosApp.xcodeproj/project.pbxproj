@@ -12,6 +12,16 @@
 		2152FB042600AC8F00CF470E /* iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2152FB032600AC8F00CF470E /* iOSApp.swift */; };
 		2911AFA827C7CFFE00C0C902 /* DrawView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFA727C7CFFE00C0C902 /* DrawView.swift */; };
 		2911AFAA27C7E31400C0C902 /* Path+Overloads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFA927C7E31400C0C902 /* Path+Overloads.swift */; };
+		2911AFAC27C84F0800C0C902 /* SvgReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFAB27C84F0800C0C902 /* SvgReader.swift */; };
+		2911AFAE27C8528900C0C902 /* mysvg.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2911AFAD27C8528900C0C902 /* mysvg.xml */; };
+		2911AFB427C86B4900C0C902 /* SvgReader+ReadPathTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFAF27C86B4800C0C902 /* SvgReader+ReadPathTag.swift */; };
+		2911AFB527C86B4900C0C902 /* SvgReader+ReadPolyTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFB027C86B4800C0C902 /* SvgReader+ReadPolyTag.swift */; };
+		2911AFB627C86B4900C0C902 /* SvgReader+ReadAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFB127C86B4800C0C902 /* SvgReader+ReadAttributes.swift */; };
+		2911AFB727C86B4900C0C902 /* SvgReader+ReadSvgTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFB227C86B4800C0C902 /* SvgReader+ReadSvgTag.swift */; };
+		2911AFB827C86B4900C0C902 /* SvgReader+ReadUseTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2911AFB327C86B4800C0C902 /* SvgReader+ReadUseTag.swift */; };
+		296F71A727C95D7400218FA8 /* SvgReader+TagBegan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */; };
+		296F71A927C95D7F00218FA8 /* SvgReader+TagEnded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */; };
+		296F71AC27C96C3400218FA8 /* String+Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71AB27C96C3400218FA8 /* String+Operators.swift */; };
 		7555FF83242A565900829871 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF82242A565900829871 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +44,16 @@
 		2152FB032600AC8F00CF470E /* iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSApp.swift; sourceTree = "<group>"; };
 		2911AFA727C7CFFE00C0C902 /* DrawView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawView.swift; sourceTree = "<group>"; };
 		2911AFA927C7E31400C0C902 /* Path+Overloads.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Path+Overloads.swift"; sourceTree = "<group>"; };
+		2911AFAB27C84F0800C0C902 /* SvgReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SvgReader.swift; sourceTree = "<group>"; };
+		2911AFAD27C8528900C0C902 /* mysvg.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = mysvg.xml; sourceTree = "<group>"; };
+		2911AFAF27C86B4800C0C902 /* SvgReader+ReadPathTag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SvgReader+ReadPathTag.swift"; sourceTree = "<group>"; };
+		2911AFB027C86B4800C0C902 /* SvgReader+ReadPolyTag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SvgReader+ReadPolyTag.swift"; sourceTree = "<group>"; };
+		2911AFB127C86B4800C0C902 /* SvgReader+ReadAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SvgReader+ReadAttributes.swift"; sourceTree = "<group>"; };
+		2911AFB227C86B4800C0C902 /* SvgReader+ReadSvgTag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SvgReader+ReadSvgTag.swift"; sourceTree = "<group>"; };
+		2911AFB327C86B4800C0C902 /* SvgReader+ReadUseTag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SvgReader+ReadUseTag.swift"; sourceTree = "<group>"; };
+		296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SvgReader+TagBegan.swift"; sourceTree = "<group>"; };
+		296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SvgReader+TagEnded.swift"; sourceTree = "<group>"; };
+		296F71AB27C96C3400218FA8 /* String+Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Operators.swift"; sourceTree = "<group>"; };
 		7555FF7B242A565900829871 /* iosApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF82242A565900829871 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -58,6 +78,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		296F71AA27C96C2500218FA8 /* operators */ = {
+			isa = PBXGroup;
+			children = (
+				296F71AB27C96C3400218FA8 /* String+Operators.swift */,
+			);
+			path = operators;
+			sourceTree = "<group>";
+		};
 		7555FF72242A565900829871 = {
 			isa = PBXGroup;
 			children = (
@@ -78,8 +106,18 @@
 		7555FF7D242A565900829871 /* iosApp */ = {
 			isa = PBXGroup;
 			children = (
+				296F71AA27C96C2500218FA8 /* operators */,
+				2911AFAB27C84F0800C0C902 /* SvgReader.swift */,
+				296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */,
+				296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */,
+				2911AFB127C86B4800C0C902 /* SvgReader+ReadAttributes.swift */,
+				2911AFAF27C86B4800C0C902 /* SvgReader+ReadPathTag.swift */,
+				2911AFB027C86B4800C0C902 /* SvgReader+ReadPolyTag.swift */,
+				2911AFB227C86B4800C0C902 /* SvgReader+ReadSvgTag.swift */,
+				2911AFB327C86B4800C0C902 /* SvgReader+ReadUseTag.swift */,
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF82242A565900829871 /* ContentView.swift */,
+				2911AFAD27C8528900C0C902 /* mysvg.xml */,
 				2911AFA927C7E31400C0C902 /* Path+Overloads.swift */,
 				2911AFA727C7CFFE00C0C902 /* DrawView.swift */,
 				7555FF8C242A565B00829871 /* Info.plist */,
@@ -158,6 +196,7 @@
 			files = (
 				058557D9273AAEEB004C7B11 /* Preview Assets.xcassets in Resources */,
 				058557BB273AAA24004C7B11 /* Assets.xcassets in Resources */,
+				2911AFAE27C8528900C0C902 /* mysvg.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,10 +227,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				296F71AC27C96C3400218FA8 /* String+Operators.swift in Sources */,
 				2152FB042600AC8F00CF470E /* iOSApp.swift in Sources */,
+				2911AFB727C86B4900C0C902 /* SvgReader+ReadSvgTag.swift in Sources */,
+				2911AFB827C86B4900C0C902 /* SvgReader+ReadUseTag.swift in Sources */,
 				7555FF83242A565900829871 /* ContentView.swift in Sources */,
 				2911AFAA27C7E31400C0C902 /* Path+Overloads.swift in Sources */,
 				2911AFA827C7CFFE00C0C902 /* DrawView.swift in Sources */,
+				2911AFAC27C84F0800C0C902 /* SvgReader.swift in Sources */,
+				296F71A727C95D7400218FA8 /* SvgReader+TagBegan.swift in Sources */,
+				2911AFB427C86B4900C0C902 /* SvgReader+ReadPathTag.swift in Sources */,
+				2911AFB627C86B4900C0C902 /* SvgReader+ReadAttributes.swift in Sources */,
+				2911AFB527C86B4900C0C902 /* SvgReader+ReadPolyTag.swift in Sources */,
+				296F71A927C95D7F00218FA8 /* SvgReader+TagEnded.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

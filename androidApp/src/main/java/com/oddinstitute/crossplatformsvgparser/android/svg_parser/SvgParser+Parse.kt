@@ -1,13 +1,12 @@
-package com.oddinstitute.crossplatformsvgparser
+package com.oddinstitute.crossplatformsvgparser.android.svg_parser
 
-import com.oddinstitute.crossplatformsvgparser.to_refactor.Artwork
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserException
 import org.xmlpull.v1.XmlPullParserFactory
 import java.io.IOException
 import java.io.InputStream
 
-fun SvgParser.parse(inputStream: InputStream): Artwork
+fun SvgParser.parse(inputStream: InputStream)
 {
     try
     {
@@ -19,12 +18,12 @@ fun SvgParser.parse(inputStream: InputStream): Artwork
 
         while (eventType != XmlPullParser.END_DOCUMENT)
         {
-            parser.name?.let { curTagName = parser.name }
+            parser.name?.let { data.curTagName = parser.name }
 
             when (eventType)
             {
                 XmlPullParser.START_TAG -> tagBegan(parser)
-                XmlPullParser.TEXT -> curTagText = parser.text // if there is text, read it
+                XmlPullParser.TEXT -> data.curTagText = parser.text // if there is text, read it
                 XmlPullParser.END_TAG -> tagEnded ()
             }
 
@@ -45,6 +44,7 @@ fun SvgParser.parse(inputStream: InputStream): Artwork
     // findPivot()
 
 
-    return artwork
+    // Here, we don't return anything.
+    // the assumption is that the artwrok from data is so far populated
 }
 

@@ -1,5 +1,6 @@
-package com.oddinstitute.crossplatformsvgparser
+package com.oddinstitute.crossplatformsvgparser.android.svg_parser
 
+import com.oddinstitute.crossplatformsvgparser.operators.toFloatArray
 import com.oddinstitute.crossplatformsvgparser.svg_elements.*
 import com.oddinstitute.crossplatformsvgparser.svg_tags.SvgAttributesBundle
 import com.oddinstitute.crossplatformsvgparser.svg_transform.SvgTransform
@@ -14,9 +15,9 @@ fun XmlPullParser.readAttributes(): SvgAttributesBundle
     this.getAttributeValue(null, "fill")?.let {
 
         // TODO - Fill should be black by default
-        // unless none takes over which makes tansparent
+        // unless none takes over which makes transparent
         if (it != "none")
-            attr.fill = SvgColor.ofRaw(it)
+            attr.fill = SvgColor().ofRaw(it)
     }
 
     this.getAttributeValue(null, "id")?.let {
@@ -27,7 +28,7 @@ fun XmlPullParser.readAttributes(): SvgAttributesBundle
     this.getAttributeValue(null, "stroke")?.let {
         if (it != "none")
         {
-            attr.stroke = SvgColor.ofRaw(it)
+            attr.stroke = SvgColor().ofRaw(it)
             attr.strokeWidth = 1.0f // if there's a stroke color, then there's a stroke
             // in the next code, this might be updated with the actual stroke width
         }
@@ -38,28 +39,31 @@ fun XmlPullParser.readAttributes(): SvgAttributesBundle
     }
 
     this.getAttributeValue(null, "stroke-linecap")?.let {
-        attr.strokeLineCap = SvgLinecap.ofRaw(it)
+        attr.strokeLineCap = it
     }
 
+
+
+
     this.getAttributeValue(null, "stroke-dasharray")?.let {
-        attr.strokeDashArray = SvgDashArray.ofRaw(it)
+        attr.strokeDashArray = it
         // the SVG dasharray can have multiple entries. They seem meaningless in Android
     }
 
     this.getAttributeValue(null, "transform")?.let {
-        attr.transforms = SvgTransform.decodeTransform(it)
+        attr.transforms = SvgTransform().decodeTransform(it)
     }
 
     this.getAttributeValue(null, "fill-rule")?.let {
-        attr.fillRule = SvgFillRule.ofRaw(it)
+        attr.fillRule = it
     }
 
     this.getAttributeValue(null, "clip-rule")?.let {
-        attr.clipRule = SvgClipRule.ofRaw(it)
+        attr.clipRule = it
     }
 
     this.getAttributeValue(null, "stroke-linejoin")?.let {
-        attr.strokeLineJoin = SvgStrokeLineJoin.ofRaw(it)
+        attr.strokeLineJoin = it
     }
 
     this.getAttributeValue(null, "style")?.let {

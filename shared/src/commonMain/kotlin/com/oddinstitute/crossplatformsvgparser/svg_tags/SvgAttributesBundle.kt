@@ -13,11 +13,11 @@ class SvgAttributesBundle
     var stroke: MyColor? = null
     var strokeWidth: Float? = null
 
-    var fillRule: SvgFillRule? = null
-    var clipRule: SvgClipRule? = null
-    var strokeLineCap: SvgLinecap? = null // butt | round | square
-    var strokeLineJoin: SvgStrokeLineJoin? = null
-    var strokeDashArray: FloatArray? = null // butt | round | square
+    var fillRule: String? = null
+    var clipRule: String? = null
+    var strokeLineCap: String? = null // butt | round | square
+    var strokeLineJoin: String? = null
+    var strokeDashArray: String? = null // butt | round | square
 
     var transforms: ArrayList<SvgTransform>? = null
 

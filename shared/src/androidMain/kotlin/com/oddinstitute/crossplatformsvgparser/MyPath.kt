@@ -1,7 +1,9 @@
 package com.oddinstitute.crossplatformsvgparser
 
 import android.graphics.Path
-import com.oddinstitute.crossplatformsvgparser.objects.Shape
+import com.oddinstitute.crossplatformsvgparser.objects.ShapeAttr
+import com.oddinstitute.crossplatformsvgparser.specific.lineToPoint
+import com.oddinstitute.crossplatformsvgparser.specific.moveToPoint
 import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
 import com.oddinstitute.crossplatformsvgparser.to_refactor.addToPath
 
@@ -9,32 +11,25 @@ actual class MyPath
 {
     var path: Path = Path()
 
-
-    actual fun makeCurvePath(shape: Shape, closed: Boolean, segments: ArrayList<Segment>)
+    actual fun makeCurvePath(shapeAttr: ShapeAttr, closed: Boolean, segments: ArrayList<Segment>)
     {
         this.path = Path()
 
         // todo
-        SvgFillRuleToType(shape.fillType)?.let {
-            this.path.fillType = it
-        }
+        this.path.fillType  = SvgFillRuleToType(shapeAttr.fillType)
 
         for (seg in segments)
             seg.addToPath(this) // this used to be this.path
 
         if (closed)
             this.path.close()
-
-
     }
 
-    actual fun makeSharpPath(shape: Shape, closed: Boolean, pts: ArrayList<MyVector2>)
+    actual fun makeSharpPath(shapeAttr: ShapeAttr, closed: Boolean, pts: ArrayList<MyVector2>)
     { // todo
         this.path = Path()
 
-        SvgFillRuleToType(shape.fillType)?.let {
-            this.path.fillType = it
-        }
+        this.path.fillType = SvgFillRuleToType(shapeAttr.fillType)
 
         for (p in pts)
         {
@@ -59,5 +54,4 @@ actual class MyPath
     {
         path.moveTo(x, y)
     }
-
 }

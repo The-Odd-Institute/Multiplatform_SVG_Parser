@@ -3,21 +3,21 @@ package com.oddinstitute.crossplatformsvgparser.objects
 
 import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgClipRule
-import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgFillRule
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgLinecap
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStrokeLineJoin
 import kotlinx.serialization.Transient
 
-class Shape
+class ShapeAttr
 {
+    // todo - previsouly we thought, these must be initialized
     // these must have default values
-    var strokeLineCap : SvgLinecap = SvgLinecap.ROUND
-    var fillType: SvgFillRule = SvgFillRule.EVENODD
+    var strokeLineCap : String = "round" // null // = SvgLinecap.ROUND
+    var fillType: String? = null // = SvgFillRule.EVENODD
 
     // Clip rule is not currently supported in this parser
-    var clipRule: SvgClipRule = SvgClipRule.EVENODD
-    var dashArray: FloatArray? = null
-    var strokeLineJoin : SvgStrokeLineJoin = SvgStrokeLineJoin.MITER
+    var clipRule: String? = null // = SvgClipRule.EVENODD
+    var dashArray: String? = null
+    var strokeLineJoin : String = " miter" // = null // = SvgStrokeLineJoin.MITER
 
 
     // fill color after Artwork Transparency has been applied

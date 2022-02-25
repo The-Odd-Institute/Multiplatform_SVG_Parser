@@ -1,6 +1,7 @@
-package com.oddinstitute.crossplatformsvgparser
+package com.oddinstitute.crossplatformsvgparser.specific
 
 import android.graphics.Path
+import com.oddinstitute.crossplatformsvgparser.MyVector2
 
 fun Path.lineToPoint(myVector2: MyVector2) {
     this.lineTo(myVector2.x, myVector2.y)

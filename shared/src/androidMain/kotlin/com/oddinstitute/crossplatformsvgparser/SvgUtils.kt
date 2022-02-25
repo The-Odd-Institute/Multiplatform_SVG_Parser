@@ -3,7 +3,6 @@ package com.oddinstitute.crossplatformsvgparser
 import android.graphics.Paint
 import android.graphics.Path
 import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
-import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgFillRule
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgLinecap
 import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStrokeLineJoin
 
@@ -21,22 +20,34 @@ actual fun hexToMyColor(colorStr: String): MyColor
 }
 
 
-fun SvgLineJoinToType(rule: SvgStrokeLineJoin): Paint.Join?
+fun SvgLineJoinToType(text: String): Paint.Join
 { // todo
     // IMPORTANT
     // it seems like the opposite of the EVENODD is the WINDING
     // In other words, SVG's NONEZERO is Android's WINDING
 
-    val typeToEnum = mapOf<Paint.Join, SvgStrokeLineJoin>(
-            Paint.Join.BEVEL to SvgStrokeLineJoin.BEVEL,
-            Paint.Join.MITER to SvgStrokeLineJoin.MITER,
-            Paint.Join.ROUND to SvgStrokeLineJoin.ROUND)
-    //                                                              Paint.Join.ROUND to ARCS, // this doesn't exist
-    //                                                              Paint.Join.ROUND to MITERCLIP // this doesn't exist
+    //  arcs | bevel |miter | miter-clip | round
 
-    val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+    val stringToType = mapOf<String, Paint.Join>(
+            "round" to Paint.Join.ROUND,
+            "bevel" to Paint.Join.BEVEL,
+            "miter" to Paint.Join.MITER)
 
-    return enumToType[rule]
+
+     stringToType[text]?.let { return it }
+
+    return Paint.Join.MITER // default is miter, so, if miter is not found, then do this
+
+//    val typeToEnum = mapOf<Paint.Join, String>(
+//            Paint.Join.BEVEL to SvgStrokeLineJoin.BEVEL,
+//            Paint.Join.MITER to SvgStrokeLineJoin.MITER,
+//            Paint.Join.ROUND to SvgStrokeLineJoin.ROUND)
+//    //                                                              Paint.Join.ROUND to ARCS, // this doesn't exist
+//    //                                                              Paint.Join.ROUND to MITERCLIP // this doesn't exist
+//
+//    val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+//
+//    return enumToType[rule]
 
     // todo
     // IMPORTANT
@@ -48,30 +59,35 @@ fun SvgLineJoinToType(rule: SvgStrokeLineJoin): Paint.Join?
 
 
 
-fun SvgLineCapToType(rule: SvgLinecap): Paint.Cap?
+fun SvgLineCapToType(text: String): Paint.Cap
 { // todo
     // IMPORTANT
     // it seems like the opposite of the EVENODD is the WINDING
     // In other words, SVG's NONEZERO is Android's WINDING
 
-    val typeToEnum = mapOf<Paint.Cap, SvgLinecap>(Paint.Cap.SQUARE to SvgLinecap.SQUARE,
-                                                  Paint.Cap.BUTT to SvgLinecap.BUTT,
-                                                  Paint.Cap.ROUND to SvgLinecap.ROUND)
+    // butt | round | square
+    val stringToType = mapOf<String, Paint.Cap>(
+            "round" to Paint.Cap.ROUND,
+            "bevel" to Paint.Cap.BUTT,
+            "miter" to Paint.Cap.SQUARE)
 
-    val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+    stringToType[text]?.let { return it }
 
-    return enumToType[rule]
+    return Paint.Cap.BUTT // default is miter, so, if miter is not found, then do this
 }
 
-fun SvgFillRuleToType(rule: SvgFillRule): Path.FillType?
-{ // todo
-    // IMPORTANT
-    // it seems like the opposite of the EVENODD is the WINDING
-    // In other words, SVG's NONEZERO is Android's WINDING
+fun SvgFillRuleToType(text: String?): Path.FillType
+{ // nonzero | evenodd
+    val stringToType = mapOf("nonzero" to Path.FillType.WINDING,
+                             "evenodd" to Path.FillType.EVEN_ODD)
 
-    val typeToEnum = mapOf<Path.FillType, SvgFillRule>(Path.FillType.EVEN_ODD to SvgFillRule.EVENODD,
-                                                       Path.FillType.WINDING to SvgFillRule.NONZERO)
-    val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+    stringToType[text]?.let { return it }
 
-    return enumToType[rule]
+    return Path.FillType.WINDING //    return Path.FillType.BUTT // default is miter, so, if miter is not found, then do this
+    //
+    //    val typeToEnum = mapOf<Path.FillType, SvgFillRule>(Path.FillType.EVEN_ODD to SvgFillRule.EVENODD,
+    //                                                       Path.FillType.WINDING to SvgFillRule.NONZERO)
+    //    val enumToType = typeToEnum.entries.associate { (k, v) -> v to k }
+    //
+    //    return enumToType[rule]
 }

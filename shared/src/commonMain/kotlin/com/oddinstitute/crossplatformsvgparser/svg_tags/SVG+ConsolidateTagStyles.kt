@@ -8,15 +8,14 @@ import com.oddinstitute.crossplatformsvgparser.svg_elements.SvgStyle
 // Style Overrides class
 // Class overrides individual elements
 
-fun consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
+fun SVG.consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
 {
     var styleLevel: SvgStyle = SvgStyle() // if there's a style
     var classLevel: SvgStyle = SvgStyle() // if there's a class
     val elemLevel: SvgStyle = SvgStyle() // if there are inline values
 
 
-    tag.attributes.svgClass?.let { svgClass ->
-        // there is a class
+    tag.attributes.svgClass?.let { svgClass -> // there is a class
         // let's find out the style
         styles?.let { theStyles ->
             theStyles[svgClass]?.let {
@@ -36,12 +35,11 @@ fun consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
     tag.attributes.fill?.let { elemLevel.fill = it }
     tag.attributes.stroke?.let { elemLevel.stroke = it }
     tag.attributes.strokeWidth?.let { elemLevel.strokeWidth = it }
-    tag.attributes.fillRule?.let { elemLevel.fillRule2 = it }
+    tag.attributes.fillRule?.let { elemLevel.fillRule = it }
     tag.attributes.clipRule?.let { elemLevel.clipRule = it }
     tag.attributes.strokeLineCap?.let { elemLevel.strokeLineCap = it }
     tag.attributes.strokeDashArray?.let { elemLevel.strokeDashArray = it }
     tag.attributes.strokeLineJoin?.let { elemLevel.strokeLineJoin = it }
-
 
 
     // NOW, LET'S COMBINE
@@ -69,9 +67,9 @@ fun consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
     styleLevel.strokeWidth?.let { outStyle.strokeWidth = it }
 
 
-    elemLevel.fillRule2?.let { outStyle.fillRule2 = it }
-    classLevel.fillRule2?.let { outStyle.fillRule2 = it }
-    styleLevel.fillRule2?.let { outStyle.fillRule2 = it }
+    elemLevel.fillRule?.let { outStyle.fillRule = it }
+    classLevel.fillRule?.let { outStyle.fillRule = it }
+    styleLevel.fillRule?.let { outStyle.fillRule = it }
 
 
     elemLevel.clipRule?.let { outStyle.clipRule = it }
@@ -96,4 +94,3 @@ fun consolidateTagStyles(tag: Tag, styles: HashMap<String, SvgStyle>?): SvgStyle
 
     return outStyle
 }
-

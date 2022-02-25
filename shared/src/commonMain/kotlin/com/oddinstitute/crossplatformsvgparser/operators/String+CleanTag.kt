@@ -38,3 +38,22 @@ fun String.cleanTag(): String
 
     return newString
 }
+
+
+fun String.toFloatArray (): FloatArray
+{
+    val outList : ArrayList<Float> = arrayListOf()
+
+    val cleanText = this.replace(" ", ",")
+
+    val pieces = cleanText.split(",")
+
+    for (any in pieces)
+    {
+        var numeric =  any.matches("-?\\d+(\\.\\d+)?".toRegex())
+        outList.add(numeric.toFloat())
+    }
+
+    return outList.toFloatArray()
+
+}

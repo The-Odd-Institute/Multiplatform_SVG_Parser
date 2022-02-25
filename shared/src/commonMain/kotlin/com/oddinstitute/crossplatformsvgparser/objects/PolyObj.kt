@@ -18,8 +18,8 @@ class PolyObj(val c: Boolean = false) : Object()
 
     override fun applySvgViewBox(scaleFactor: Float, offset: MyVector2)
     {
-        this.shape.strokeWidth *= scaleFactor
-        this.shape.dashArray?.let { this.shape.dashArray = it * scaleFactor }
+        this.shapeAttr.strokeWidth *= scaleFactor
+        // this.shapeAttr.dashArray?.let { this.shapeAttr.dashArray = it * scaleFactor }
 
         for (p in pt)
         {
@@ -61,7 +61,7 @@ class PolyObj(val c: Boolean = false) : Object()
     override fun makePath()
     {
         this.myPath = MyPath()
-        this.myPath.makeSharpPath(this.shape, this.c, this.pt)
+        this.myPath.makeSharpPath(this.shapeAttr, this.c, this.pt)
 
 //        // todo
 //        this.mainPath.fillType = this.shape.fillType

@@ -3,7 +3,7 @@ package com.oddinstitute.crossplatformsvgparser.svg_transform
 import com.oddinstitute.crossplatformsvgparser.operators.cleanTag
 
 
-fun SvgTransform.Decode.decodeTransform(text: String): ArrayList<SvgTransform>
+fun SvgTransform. decodeTransform(text: String): ArrayList<SvgTransform>
 {
     val transforms : ArrayList<SvgTransform> = arrayListOf()
 
@@ -36,10 +36,10 @@ fun SvgTransform.Decode.decodeTransform(text: String): ArrayList<SvgTransform>
     {
         when
         {
-            each.contains("translate") -> transforms.add(SvgTransform.decodeTranslate(each))
-            each.contains("rotate") -> transforms.add(SvgTransform.decodeRotate(each))
-            each.contains("scale") -> transforms.add(SvgTransform.decodeScale(each))
-            each.contains("matrix") -> transforms.add(SvgTransform.decodeMatrix(each))
+            each.contains("translate") -> transforms.add(decodeTranslate(each))
+            each.contains("rotate") -> transforms.add(decodeRotate(each))
+            each.contains("scale") -> transforms.add(decodeScale(each))
+            each.contains("matrix") -> transforms.add(decodeMatrix(each))
         }
     }
 

@@ -1,7 +1,9 @@
 package com.oddinstitute.crossplatformsvgparser.svg_transform
 
 
-fun SvgTransform.Decode.decodeTranslate(text: String): SvgTransform
+
+
+fun SvgTransform.decodeTranslate(text: String): SvgTransform
 {
     val translate : SvgTransform = SvgTransform(SvgTransformType.TRANSLATE)
 

@@ -11,8 +11,8 @@ import android.widget.Button
 import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
-import com.oddinstitute.crossplatformsvgparser.SvgParser
-import com.oddinstitute.crossplatformsvgparser.parse
+import com.oddinstitute.crossplatformsvgparser.android.svg_parser.SvgParser
+import com.oddinstitute.crossplatformsvgparser.android.svg_parser.parse
 import java.io.IOException
 import java.util.*
 import kotlin.collections.ArrayList
@@ -83,7 +83,11 @@ class MainActivity : AppCompatActivity()
             val parser = SvgParser()
             val istream = assets.open("mysvg.svg")
 
-            val artwork = parser.parse(istream)
+            // parse
+            parser.parse(istream)
+
+            // now, artwork is there
+            val artwork = parser.data.artwork
 
             drawView.redraw(artwork)
             titleTextView.text = "$curIndex | ${artwork.title}"
@@ -142,7 +146,12 @@ class MainActivity : AppCompatActivity()
             val parser = SvgParser()
             val istream = assets.open("magicons/$file")
             Log.d(MainActivity::class.simpleName, "i: $curIndex : $file")
-            val artwork = parser.parse(istream)
+
+            // parse
+            parser.parse(istream)
+
+            // now, artwork is there
+            val artwork = parser.data.artwork
             artwork.title = file
             drawView.redraw(artwork)
             titleTextView.text = "$curIndex | ${artwork.title}"

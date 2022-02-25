@@ -19,8 +19,8 @@ fun SvgStyle.combineWithOuterStyle(outerStyle: SvgStyle): SvgStyle
     outerStyle.strokeWidth?.let { resStyle.strokeWidth = it }
     this.strokeWidth?.let { resStyle.strokeWidth = it }
 
-    outerStyle.fillRule2?.let { resStyle.fillRule2 = it }
-    this.fillRule2?.let { resStyle.fillRule2 = it }
+    outerStyle.fillRule?.let { resStyle.fillRule = it }
+    this.fillRule?.let { resStyle.fillRule = it }
 
     outerStyle.clipRule?.let { resStyle.clipRule = it }
     this.clipRule?.let { resStyle.clipRule = it }

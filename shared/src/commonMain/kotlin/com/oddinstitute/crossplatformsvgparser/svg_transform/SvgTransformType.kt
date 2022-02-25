@@ -6,7 +6,8 @@ enum class SvgTransformType(val text: String)
     TRANSLATE("translate"),
     ROTATE("rotate"),
     SCALE("scale"),
-    MATRIX("matrix");
+    MATRIX("matrix"),
+    NONE("none");
 
 
     fun toRaw() = enumToRaw[this]

@@ -1,4 +1,4 @@
-package com.oddinstitute.crossplatformsvgparser
+package com.oddinstitute.crossplatformsvgparser.android.svg_parser
 
 import com.oddinstitute.crossplatformsvgparser.svg_tags.PolyTag
 import org.xmlpull.v1.XmlPullParser

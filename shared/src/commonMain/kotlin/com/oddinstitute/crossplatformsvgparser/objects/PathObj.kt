@@ -25,8 +25,8 @@ class PathObj(val c: Boolean = false) : Object()
 
     override fun applySvgViewBox(scaleFactor: Float, offset: MyVector2)
     {
-        this.shape.strokeWidth *= scaleFactor
-        this.shape.dashArray?.let { this.shape.dashArray = it * scaleFactor }
+        this.shapeAttr.strokeWidth *= scaleFactor
+        // this.shapeAttr.dashArray?.let { this.shapeAttr.dashArray = it * scaleFactor }
 
         for (seg in segments)
         {
@@ -76,13 +76,17 @@ class PathObj(val c: Boolean = false) : Object()
                     seg.i?.translate(MyVector2(trans.x, trans.y))
                 }
             }
+            else ->
+            {
+                // this is transform NONE
+            }
         }
     }
 
     override fun makePath()
     {
         this.myPath = MyPath()
-        this.myPath.makeCurvePath(this.shape, this.c, this.segments)
+        this.myPath.makeCurvePath(this.shapeAttr, this.c, this.segments)
 
         // todo
 //        this.mainPath.fillType = this.shape.fillType
