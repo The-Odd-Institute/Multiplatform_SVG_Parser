@@ -1,7 +1,6 @@
 package com.oddinstitute.crossplatformsvgparser.android.svg_parser
 
 import android.util.Log
-import com.oddinstitute.crossplatformsvgparser.specific.*
 import com.oddinstitute.crossplatformsvgparser.svg_tags.*
 import org.xmlpull.v1.XmlPullParser
 

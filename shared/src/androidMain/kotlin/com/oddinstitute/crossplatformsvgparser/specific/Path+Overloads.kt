@@ -3,17 +3,7 @@ package com.oddinstitute.crossplatformsvgparser.specific
 import android.graphics.Path
 import com.oddinstitute.crossplatformsvgparser.MyVector2
 
-fun Path.lineToPoint(myVector2: MyVector2) {
-    this.lineTo(myVector2.x, myVector2.y)
-}
 
-fun Path.moveToPoint(myVector2: MyVector2) {
-    this.moveTo(myVector2.x, myVector2.y)
-}
-
-fun Path.cubicToCpCpPoint(o: MyVector2, i: MyVector2, v: MyVector2) {
-    this.cubicTo(o.x, o.y, i.x, i.y, v.x, v.y)
-}
 
 
 

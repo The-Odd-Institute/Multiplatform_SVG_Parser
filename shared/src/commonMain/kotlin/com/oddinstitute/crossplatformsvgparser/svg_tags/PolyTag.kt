@@ -1,9 +1,8 @@
 package com.oddinstitute.crossplatformsvgparser.svg_tags
 
 import com.oddinstitute.crossplatformsvgparser.objects.Object
-import com.oddinstitute.crossplatformsvgparser.objects.PathObj
-import com.oddinstitute.crossplatformsvgparser.objects.PolyObj
 import com.oddinstitute.crossplatformsvgparser.MyVector2
+import com.oddinstitute.crossplatformsvgparser.objects.ObjectType
 import com.oddinstitute.crossplatformsvgparser.operators.cleanTag
 import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
 import com.oddinstitute.crossplatformsvgparser.to_refactor.SegmentType
@@ -54,7 +53,7 @@ class PolyTag (var closed: Boolean = false) : Tag()
         points?.let {
 
             // if it is closed, we consider that
-            val polygon = PolyObj(closed)
+            val polygon = Object(ObjectType.POLY, closed)
 
             // it turns our polylines can have either SPACES or COMMAS to separate pairs
             // for instance 20,20,40,25,60,40 is the same as 20,20 40,25 60,40
@@ -81,7 +80,7 @@ class PolyTag (var closed: Boolean = false) : Tag()
 
         // LINE, so it can't be closed, we don't need the "closed"
         x1?.let {
-            val polygon = PolyObj()
+            val polygon = Object(ObjectType.POLY)
             polygon.pt.add(MyVector2(it, y1))
             polygon.pt.add(MyVector2(x2, y2))
 
@@ -92,7 +91,7 @@ class PolyTag (var closed: Boolean = false) : Tag()
         width?.let { widthIt ->
             if (rx == null && ry == null) // it's sharp
             {
-                val polygon = PolyObj(closed)
+                val polygon = Object(ObjectType.POLY, closed)
 
                 polygon.pt.add(MyVector2(x, y))
                 polygon.pt.add(MyVector2(x + widthIt, y))
@@ -103,7 +102,7 @@ class PolyTag (var closed: Boolean = false) : Tag()
             }
             else // it's smooth
             {
-                val pathObj: PathObj = PathObj(closed)
+                val pathObj = Object(ObjectType.PATH, closed)
 
                 var radX = 0f
                 var radY = 0f

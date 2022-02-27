@@ -1,172 +1,131 @@
 import SwiftUI
 import shared
 
-//
-//struct PathSandbox: View {
-//
-//    var path: Path
-//
-//    func redraw (artwork: Artwork) -> Path?
-//    {
-//
-//    }
-//
-//
-//
-//    var body: some View {
-//
-//        if let path = redraw(artwork: Artwork()) {
-//
-//        }
-//
-//
-//
-//
-//
-//        Path { path in
-//            path.move(to: CGPoint(x: 200, y: 0))
-//            path.addLine(to: CGPoint(x: 200, y: 200))
-//            path.addLine(to: CGPoint(x: 0, y: 200))
-//            path.addLine(to: CGPoint(x: 0, y: 0))
-//
-//
-//            let myVec = MyVector2 (x: 12, y: 600)
-//            path.lineToPoint(point: myVec)
-//
-//            path.closeSubpath()
-//        }
-//
-//        //            .stroke() // Stroke, without is fill
-//    }
-//}
-//
-//
-//struct MySquare: SwiftUI.Shape {
-//    func path(in rect: CGRect) -> Path {
-//        var path = Path()
-//        path.move(to: CGPoint(x: rect.size.width, y: 0))
-//        path.addLine(to: CGPoint(x: rect.size.width, y: rect.size.width))
-//        path.addLine(to: CGPoint(x: 0, y: rect.size.width))
-//        path.addLine(to: CGPoint(x: 0, y: 0))
-//        path.closeSubpath()
-//        return path
-//    }
-//}
-//
-//
-//
-//struct LetterB: SwiftUI.Shape {
-//
-//    func path(in rect: CGRect) -> Path {
-//        Path { path in
-//            path.move(to: CGPoint(x: rect.size.width/2, y: 0))
-//            path.addLine(to: CGPoint(x: 0, y: 0))
-//            path.addLine(to: CGPoint(x: 0, y: rect.size.width/2))
-//            path.addLine(to: CGPoint(x: rect.size.width/2, y: rect.size.width/2))
-//            path.move(to: CGPoint(x: 0, y: rect.size.width/2))
-//            path.addLine(to: CGPoint(x: 0, y: rect.size.width))
-//            path.addLine(to: CGPoint(x: rect.size.width/2, y: rect.size.width))
-//            path.addArc(center: CGPoint(x: rect.size.width/2, y: rect.size.width*(3/4)), radius: rect.size.width/4, startAngle: .degrees(90), endAngle: .degrees(270), clockwise: true)
-//            path.addArc(center: CGPoint(x: rect.size.width/2, y: rect.size.width/4), radius: rect.size.width/4, startAngle: .degrees(90), endAngle: .degrees(270), clockwise: true)
-//        }
-//    }
-//}
-//
-//
-//
-//struct BBLogo: View {
-//    var body: some View {
-//        ZStack {
-//            RoundedRectangle(cornerRadius: 20)
-//                .frame(width: 200, height: 200)
-//            LetterB()
-//                .stroke(lineWidth: 12)
-//                .foregroundColor(.white)
-//                .frame(width: 100, height: 100)
-//            LetterB()
-//                .stroke(lineWidth: 12)
-//                .foregroundColor(.white)
-//                .frame(width: 100, height: 100)
-//                .offset(x: 40)
-//        }
-//    }
-//}
-//
-//
-//struct Raindrop: SwiftUI.Shape {
-//
-//    func path(in rect: CGRect) -> Path {
-//        Path { path in
-//            path.move(to: CGPoint(x: rect.size.width/2, y: 0))
-//            path.addQuadCurve(to: CGPoint(x: rect.size.width/2, y: rect.size.height), control: CGPoint(x: rect.size.width, y: rect.size.height))
-//            path.addQuadCurve(to: CGPoint(x: rect.size.width/2, y: 0), control: CGPoint(x: 0, y: rect.size.height))
-//        }
-//    }
-//}
-//
 
+struct MyObjectShape: Hashable
+{
+    var object: Object
+    var shape: UIBezierPath
+}
 
 
 
 struct ContentView: View {
     
+    func getArtwork () -> Artwork
+    {
+        return parseIt().1!
+    }
     
+    
+    let ctColor1 = UIColor.fromHexString("29ABE2")
+    
+    
+    
+    
+    var objectsAndShapes: [MyObjectShape]
+    {
+        var outArr: [MyObjectShape] = []
+        
+        if let artwork = parseIt().1 {
+            
+            artwork.objects.forEach { obj in
+                let object = obj as! Object
+                
+                object.makePath()
+                
+                if let path = object.path?.makeCgPath() {
+                    
+                    let my = MyObjectShape(object: object, shape: path)
+                    outArr.append(my)
+                }
+                
+            }
+        }
+        
+        
+        
+        //        arr = [.ctLogo1, .ctLogo2]
+        
+        return outArr
+    }
+    
+    let pathBounds = CGRect(x: 0, y: 0, width: 512, height: 512)//  UIBezierPath.calculateBounds(paths: [.ctLogo2, .ctLogo1])
+    
+    
+    var names = ["amir", "Steve"]
+    
+    let colors: [Color] = [.red, .green, .blue]
+    
+    var body: some View {
+        
+        
+        
+        ZStack
+        {
+            ForEach(objectsAndShapes, id: \.self) { shapeObj in
+                
+                let obj = shapeObj.object
+                let shape = shapeObj.shape
+                
+                
+                if let fillC = obj.shapeAttr.fillColor {
+                    ShapeView(bezier: shape,
+                              pathBounds: pathBounds)
+                        .fill(Color(UIColor.fromMyColor(fillC)))
+                }
+                
+                if (obj.shapeAttr.strokeWidth > 0)
+                {
+                    if let strokeC = obj.shapeAttr.strokeColor
+                    {
+                        // stroke
+                        ShapeView(bezier: shape,
+                                  pathBounds: pathBounds)
+                            .stroke(Color(UIColor.fromMyColor(strokeC)),
+                                    lineWidth: CGFloat(obj.shapeAttr.strokeWidth))
+                    }
+                }
+            }
+        }
+        .frame(width: 768, height: 768, alignment: .topLeading)
+
+//        .padding([.top, .leading], 10)
+        
+        
+        
+        //        BadgeBackground (artwork: getArtwork())
+        
+        
+        
+        
+        
+    }
+}
+
+extension ContentView
+{
     func parseIt () -> (String, Artwork?)
     {
         let myParser = SvgReader()
         
         if let path = Bundle.main.url(forResource: "mysvg",
                                       withExtension: "xml") {
-                if let xmlParser = XMLParser(contentsOf: path) {
-                    xmlParser.delegate = myParser
-                    xmlParser.parse()
-
-                    dump(myParser.data.artwork)
-                    
-                    let data = myParser.data.artwork
-
-                    return ("success", myParser.data.artwork)
-                }
+            if let xmlParser = XMLParser(contentsOf: path) {
+                xmlParser.delegate = myParser
+                xmlParser.parse()
+                
+                //                    print("found: \(myParser.data.artwork.objects.count)")
+                //                    print("its: \((myParser.data.artwork.objects.firstObject as! Object).type)")
+                //                    print("it has: \((myParser.data.artwork.objects.firstObject as! Object).segments.count)")
+                //                    print("first one is: \(((myParser.data.artwork.objects.firstObject as! Object).segments.firstObject as! Segment).type)")
+                
+                
+                return ("success", myParser.data.artwork)
             }
+        }
         
         return ("Failed", nil)
     }
     
-    
-    var body: some View {
-        
-        
-        
-        DrawView()
-        
-        
-
-//            Text("status: " + parseIt().0).padding()
-        
-        
-//        var style = StrokeStyle()
-//                style.lineCap = .square
-//                style.lineWidth = 20
-//        
-//        
-//        DrawView()
-//            .stroke(Color.orange, style: style)
-
-            
-        
-        
-//        PathSandbox()
-        
-        //        MySquare().frame(width: 300, height: 300)
-        
-        //        BBLogo()
-        
-//        Raindrop ()
-//            .fill(LinearGradient(gradient: Gradient(colors: [.white, .blue]), startPoint: .topLeading, endPoint: .bottom))
-//            .frame(width: 200, height: 200)
-        //            .stroke(lineWidth: 4)
-        //            .frame(width: 200, height: 200)
-        
-    }
 }
-

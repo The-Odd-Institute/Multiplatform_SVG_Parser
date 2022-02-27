@@ -2,7 +2,17 @@ import SwiftUI
 import shared
 
 
+//struct MyView: View {
+//    var body: some View {
+//
+//        Text("Hello, world!")
+//            .padding()
+//    }
+//}
+
 struct DrawView: View {
+    
+    var artwork: Artwork
     
     func getStyle () -> StrokeStyle
     {
@@ -13,68 +23,87 @@ struct DrawView: View {
         return style
     }
     
-    func makePath ()
-    {
-        
-    }
     
-
-    
+//    func styleFillPaint(obj: Object) -> FillStyle
+//    {
+//        var style = FillStyle ()
+//
+//        if let it = obj.shapeAttr.fillColor {
+//
+//        }
+//
+//        // style.isEOFilled = obj.shapeAttr.
+//
+//        obj.shapeAttr.filColorApplied?.let {
+//            paint.color = Utils.myColorToArgb(it)
+//        }
+//    }
+//
     
     
     var body: some View {
- 
         
-        let artwork = Artwork()
+        
+        
 
-        return ArtworkShape(artwork: artwork, myX: 220)
+        for obj in artwork.objects {
+            (obj as! Object).makePath()
+            
+            
+            if ((obj as! Object).shapeAttr.fillColor != nil)
+            {
+                // there is fill color
+                
+                // here set the style
+                // styleFillPaint(obj)
+                // and draw the path
+                // it.makeCgPath()
+            }
+            
+            if ((obj as! Object).shapeAttr.strokeWidth > 0)
+            {
+                // here set the stroke style
+               //  styleStrokePaint(obj)
+                
+                // and draw stroke path
+                // it.makeCgPath()
+            }
+            
+            
+        }
+        
+        
+        
+        return ObjectShape(artwork: artwork)
             .stroke(Color.orange, style: getStyle())
     }
 }
 
 
-extension PathObj
+//right now, we are mainly in the Draw View
+
+
+
+struct ObjectShape: Shape
 {
-    override public func makePath ()
-    {
-        
-    }
-}
-
-
-
-struct ArtworkShape: Shape
-{
-    var artwork: Artwork
-    var myX: Int
-
+    var artwork: Artwork?
     
-    func makeMyPath () -> Path
-    {
-        for obj in artwork.objects
-        {
-            obj.makePath()
-        }
+    func path(in rect: CGRect) -> Path {
+        
+ 
         
         
         
         var path = Path()
-        path.move(to: CGPoint(x: 400, y: 0))
-        path.addLine(to: CGPoint(x: 400, y: 400))
-        path.addLine(to: CGPoint(x: myX, y: 400))
+        path.move(to: CGPoint(x: rect.size.width, y: 0))
+        path.addLine(to: CGPoint(x: rect.size.width, y: rect.size.width))
+        path.addLine(to: CGPoint(x: 0, y: rect.size.width))
         path.addLine(to: CGPoint(x: 0, y: 0))
-        
         path.closeSubpath()
         
+        
+        
         return path
-    }
-    
-    
-    
-    
-    func path(in rect: CGRect) -> Path {
-
-        return makeMyPath()
     }
 }
 

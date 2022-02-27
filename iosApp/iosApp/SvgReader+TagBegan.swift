@@ -6,14 +6,15 @@ extension SvgReader
 {
     func tagBegan(_ attributeDict: [String : String])
     {
-        switch (data.curTagName)
+        guard let tagName = data.curTagName else { return }
+        print (tagName)
+        switch (tagName)
         {
         case "polyline", "line", "polygon", "rect":
             
             let polytag = self.readPolyTag(closed: data.curTagName == "polygon" || data.curTagName == "rect",
                                            attributes: attributeDict)
-            
-            if (data.definitionState)
+                        if (data.definitionState)
             {
                 data.definitions.add(polytag)
             }
@@ -69,7 +70,7 @@ extension SvgReader
             data.scaleFactor = decodedViewBox.second as! Float
             data.viewBoxOffset = decodedViewBox.first ?? MyVector2(x: 0,y: 0)
             
-        default: print("Began parsing unknown tag")
+        default: print("Began parsing unknown tag: \(data.curTagName)")
         }
     }
     }

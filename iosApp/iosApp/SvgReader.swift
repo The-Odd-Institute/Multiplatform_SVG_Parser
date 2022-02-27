@@ -47,11 +47,13 @@ class SvgReader : NSObject, XMLParserDelegate
      {
 //         element = elementName
          
+         data.curTagName = elementName
+
          tagBegan(attributeDict)
              
-         dump(attributeDict)
+//         dump(attributeDict)
 
-         print ("start: " + elementName)
+//         print ("start: " + elementName)
      }
 
      func parser(_ parser: XMLParser,
@@ -59,7 +61,8 @@ class SvgReader : NSObject, XMLParserDelegate
                  namespaceURI: String?,
                  qualifiedName qName: String?)
      {
-         print ("end: " + elementName)
+//         print ("end: " + elementName)
+         
          
          tagEnded()
 
@@ -76,7 +79,7 @@ class SvgReader : NSObject, XMLParserDelegate
          
          
 
-         print ("character: " + string)
+//         print ("character: " + string)
      }
 
 
@@ -86,14 +89,14 @@ class SvgReader : NSObject, XMLParserDelegate
                  type: String?,
                  defaultValue: String?) {
 
-         print("here")
-
-         print ("""
-         attributeName: \(attributeName) \n
-         elementName: \(elementName) \n
-         type: \(type) \n
-         defaultValue: \(defaultValue)
-         """)
+//         print("here")
+//
+//         print ("""
+//         attributeName: \(attributeName) \n
+//         elementName: \(elementName) \n
+//         type: \(type) \n
+//         defaultValue: \(defaultValue)
+//         """)
 
      }
 }

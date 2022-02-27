@@ -2,9 +2,9 @@ package com.oddinstitute.crossplatformsvgparser.svg_elements
 
 
 
+import com.oddinstitute.crossplatformsvgparser.hexToColor
 import com.oddinstitute.crossplatformsvgparser.to_refactor.MyColor
-import com.oddinstitute.crossplatformsvgparser.hexToMyColor
-import kotlinx.serialization.EncodeDefault
+
 
 /*
  #rgb | #CDF
@@ -346,7 +346,7 @@ class SvgColor
                                                  "#$1$1$2$2$3$3")
                     }
 
-                    return hexToMyColor(newColString)
+                    return newColString.hexToColor()
                 }
                 colString.contains("rgb") -> // for both rgb types
                 {

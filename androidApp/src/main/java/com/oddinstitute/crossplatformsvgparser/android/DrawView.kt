@@ -6,8 +6,6 @@ import android.graphics.DashPathEffect
 import android.graphics.Paint
 import android.view.View
 import com.oddinstitute.crossplatformsvgparser.to_refactor.Artwork
-import com.oddinstitute.crossplatformsvgparser.SvgLineCapToType
-import com.oddinstitute.crossplatformsvgparser.SvgLineJoinToType
 import com.oddinstitute.crossplatformsvgparser.operators.toFloatArray
 
 
@@ -39,17 +37,24 @@ fun DrawView.drawArtwork(canvas: Canvas, artwork: Artwork)
 { // drawing all paths
     for (obj in artwork.objects)
     { // fill
-        obj.shapeAttr.fillColor?.let {
+
+
+        if (obj.shapeAttr.fillColor != null ) {
 
             styleFillPaint(obj)
-            canvas.drawPath(obj.myPath.path, paint)
-        }
 
+            obj.path?.let {
+                canvas.drawPath(it.makeCgPath(), paint)
+            }
+        }
 
         if (obj.shapeAttr.strokeWidth > 0f)
         {
             styleStrokePaint(obj)
-            canvas.drawPath(obj.myPath.path, paint)
+            obj.path?.let {
+                canvas.drawPath(it.makeCgPath(), paint)
+            }
+//            canvas.drawPath(obj.myPath.path, paint)
         }
     }
 
@@ -66,9 +71,8 @@ fun DrawView.styleFillPaint(obj: com.oddinstitute.crossplatformsvgparser.objects
     }
 
     // paint.color = Color.RED
-    paint.strokeCap = SvgLineCapToType(obj.shapeAttr.strokeLineCap)
-
-    paint.strokeJoin = SvgLineJoinToType(obj.shapeAttr.strokeLineJoin)
+//    paint.strokeCap = Utils.svgLineCapToType(obj.shapeAttr.strokeLineCap)
+//    paint.strokeJoin = Utils.svgLineJoinToType(obj.shapeAttr.strokeLineJoin)
 
     paint.pathEffect = null
     paint.clearShadowLayer()
@@ -87,7 +91,7 @@ fun DrawView.styleStrokePaint(obj: com.oddinstitute.crossplatformsvgparser.objec
             paint.color = Utils.myColorToArgb(it)
         }
 
-        paint.strokeCap = SvgLineCapToType(obj.shapeAttr.strokeLineCap)
+        paint.strokeCap = Utils.svgLineCapToType(obj.shapeAttr.strokeLineCap)
         paint.pathEffect = null
         paint.clearShadowLayer()
 
@@ -101,7 +105,7 @@ fun DrawView.styleStrokePaint(obj: com.oddinstitute.crossplatformsvgparser.objec
 
         }
 
-        paint.strokeJoin = SvgLineJoinToType(obj.shapeAttr.strokeLineJoin)
+        paint.strokeJoin = Utils.svgLineJoinToType(obj.shapeAttr.strokeLineJoin)
 
     }
 }

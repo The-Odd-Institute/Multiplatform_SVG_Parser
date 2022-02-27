@@ -2,7 +2,7 @@ package com.oddinstitute.crossplatformsvgparser.svg_tags
 
 import com.oddinstitute.crossplatformsvgparser.MyVector2
 import com.oddinstitute.crossplatformsvgparser.objects.Object
-import com.oddinstitute.crossplatformsvgparser.objects.PathObj
+import com.oddinstitute.crossplatformsvgparser.objects.ObjectType
 import com.oddinstitute.crossplatformsvgparser.operators.cleanTag
 import com.oddinstitute.crossplatformsvgparser.to_refactor.Segment
 import com.oddinstitute.crossplatformsvgparser.to_refactor.SegmentType
@@ -219,7 +219,7 @@ class PathTag() : Tag()
             // not sure why
             // FIXME -? This is random?
             val closed: Boolean = singlePolyString.contains("Z")
-            val pathObj: PathObj = PathObj(closed)
+            val pathObj = Object(ObjectType.PATH, closed)
 
 
             val workingString = singlePolyString
@@ -287,7 +287,7 @@ class PathTag() : Tag()
 
 
 
-            val obj: PathObj = PathObj(true) // ovals are closed
+            val obj = Object(ObjectType.PATH, true) // ovals are closed
 
             val moveSeg = Segment(SegmentType.Move)
             moveSeg.v = MyVector2(cx - radX, cy)

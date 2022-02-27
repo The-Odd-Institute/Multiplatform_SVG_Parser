@@ -15,7 +15,7 @@ extension SvgReader
         case "defs":
             data.definitionState = false
         default:
-            print("weird tag ended: \(data.curTagName ?? "non existent tag name")")
+            print("weird tag ended: \(data.curTagName)")
         }
         
         data.curTagName = nil

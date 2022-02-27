@@ -22,6 +22,14 @@
 		296F71A727C95D7400218FA8 /* SvgReader+TagBegan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */; };
 		296F71A927C95D7F00218FA8 /* SvgReader+TagEnded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */; };
 		296F71AC27C96C3400218FA8 /* String+Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71AB27C96C3400218FA8 /* String+Operators.swift */; };
+		296F71AE27C9C27700218FA8 /* MakePath2+MakeCgPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71AD27C9C27700218FA8 /* MakePath2+MakeCgPath.swift */; };
+		296F71B027C9C5A100218FA8 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71AF27C9C5A100218FA8 /* Utils.swift */; };
+		296F71CC27CA79D800218FA8 /* Param.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71CB27CA79D800218FA8 /* Param.swift */; };
+		296F71CE27CA7A3500218FA8 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71CD27CA7A3500218FA8 /* BadgeBackground.swift */; };
+		296F71D027CA8FE200218FA8 /* MakeCgPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71CF27CA8FE200218FA8 /* MakeCgPath.swift */; };
+		296F71D327CACA5100218FA8 /* UIBezierPath+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71D127CACA5000218FA8 /* UIBezierPath+Extension.swift */; };
+		296F71D427CACA5100218FA8 /* UIColor+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71D227CACA5100218FA8 /* UIColor+extension.swift */; };
+		296F71D627CACB4300218FA8 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296F71D527CACB4300218FA8 /* ShapeView.swift */; };
 		7555FF83242A565900829871 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF82242A565900829871 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +62,14 @@
 		296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SvgReader+TagBegan.swift"; sourceTree = "<group>"; };
 		296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SvgReader+TagEnded.swift"; sourceTree = "<group>"; };
 		296F71AB27C96C3400218FA8 /* String+Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Operators.swift"; sourceTree = "<group>"; };
+		296F71AD27C9C27700218FA8 /* MakePath2+MakeCgPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MakePath2+MakeCgPath.swift"; sourceTree = "<group>"; };
+		296F71AF27C9C5A100218FA8 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		296F71CB27CA79D800218FA8 /* Param.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Param.swift; sourceTree = "<group>"; };
+		296F71CD27CA7A3500218FA8 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
+		296F71CF27CA8FE200218FA8 /* MakeCgPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeCgPath.swift; sourceTree = "<group>"; };
+		296F71D127CACA5000218FA8 /* UIBezierPath+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIBezierPath+Extension.swift"; sourceTree = "<group>"; };
+		296F71D227CACA5100218FA8 /* UIColor+extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+extension.swift"; sourceTree = "<group>"; };
+		296F71D527CACB4300218FA8 /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
 		7555FF7B242A565900829871 /* iosApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF82242A565900829871 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -107,7 +123,13 @@
 			isa = PBXGroup;
 			children = (
 				296F71AA27C96C2500218FA8 /* operators */,
+				296F71D127CACA5000218FA8 /* UIBezierPath+Extension.swift */,
+				296F71D527CACB4300218FA8 /* ShapeView.swift */,
+				296F71D227CACA5100218FA8 /* UIColor+extension.swift */,
 				2911AFAB27C84F0800C0C902 /* SvgReader.swift */,
+				296F71CB27CA79D800218FA8 /* Param.swift */,
+				296F71CD27CA7A3500218FA8 /* BadgeBackground.swift */,
+				296F71CF27CA8FE200218FA8 /* MakeCgPath.swift */,
 				296F71A627C95D7400218FA8 /* SvgReader+TagBegan.swift */,
 				296F71A827C95D7F00218FA8 /* SvgReader+TagEnded.swift */,
 				2911AFB127C86B4800C0C902 /* SvgReader+ReadAttributes.swift */,
@@ -123,6 +145,8 @@
 				7555FF8C242A565B00829871 /* Info.plist */,
 				2152FB032600AC8F00CF470E /* iOSApp.swift */,
 				058557D7273AAEEB004C7B11 /* Preview Content */,
+				296F71AD27C9C27700218FA8 /* MakePath2+MakeCgPath.swift */,
+				296F71AF27C9C5A100218FA8 /* Utils.swift */,
 			);
 			path = iosApp;
 			sourceTree = "<group>";
@@ -227,19 +251,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				296F71D327CACA5100218FA8 /* UIBezierPath+Extension.swift in Sources */,
 				296F71AC27C96C3400218FA8 /* String+Operators.swift in Sources */,
 				2152FB042600AC8F00CF470E /* iOSApp.swift in Sources */,
 				2911AFB727C86B4900C0C902 /* SvgReader+ReadSvgTag.swift in Sources */,
 				2911AFB827C86B4900C0C902 /* SvgReader+ReadUseTag.swift in Sources */,
 				7555FF83242A565900829871 /* ContentView.swift in Sources */,
+				296F71B027C9C5A100218FA8 /* Utils.swift in Sources */,
+				296F71D427CACA5100218FA8 /* UIColor+extension.swift in Sources */,
 				2911AFAA27C7E31400C0C902 /* Path+Overloads.swift in Sources */,
+				296F71D627CACB4300218FA8 /* ShapeView.swift in Sources */,
+				296F71CC27CA79D800218FA8 /* Param.swift in Sources */,
 				2911AFA827C7CFFE00C0C902 /* DrawView.swift in Sources */,
 				2911AFAC27C84F0800C0C902 /* SvgReader.swift in Sources */,
+				296F71D027CA8FE200218FA8 /* MakeCgPath.swift in Sources */,
 				296F71A727C95D7400218FA8 /* SvgReader+TagBegan.swift in Sources */,
 				2911AFB427C86B4900C0C902 /* SvgReader+ReadPathTag.swift in Sources */,
 				2911AFB627C86B4900C0C902 /* SvgReader+ReadAttributes.swift in Sources */,
 				2911AFB527C86B4900C0C902 /* SvgReader+ReadPolyTag.swift in Sources */,
+				296F71AE27C9C27700218FA8 /* MakePath2+MakeCgPath.swift in Sources */,
 				296F71A927C95D7F00218FA8 /* SvgReader+TagEnded.swift in Sources */,
+				296F71CE27CA7A3500218FA8 /* BadgeBackground.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
